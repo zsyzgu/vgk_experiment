@@ -1,5 +1,5 @@
-file_name = 'user1467831485_normal_0.8_1'
-MAX_WORD_NUM = 10000;
+file_name = 'user1468049621_normal_0.8_1'
+MAXN = 10000;
 
 def getTime(i):
 	return (float)(lines[i].split(' ')[0])
@@ -22,16 +22,16 @@ word_cnt = 0
 letter_cnt = 0
 delete_cnt = 0
 total_time = 0
-session_time = [-1 for i in range(0, MAX_WORD_NUM)]
-start_time = [-1 for i in range(0, MAX_WORD_NUM)]
-end_time = [-1 for i in range(0, MAX_WORD_NUM)]
-words = ['' for i in range(0, MAX_WORD_NUM)]
+phrase_start = [0 for i in range(0, MAXN)]
+start_time = [-1 for i in range(0, MAXN)]
+end_time = [-1 for i in range(0, MAXN)]
+words = ['' for i in range(0, MAXN)]
 
 for i in range(0, len(lines)):
 	lines[i] = lines[i].replace('\n', '');
 
-	if getCmd(i) == 'session':
-		session_time[word_cnt] = getTime(i)
+	if getCmd(i) == 'phrase':
+		phrase_start[word_cnt] = 1
 
 	if getCmd(i) == 'gestureStart':
 		if start_time[word_cnt] == -1:
@@ -54,8 +54,8 @@ for i in range(0, word_cnt):
 	word = words[i]
 	word_len = len(word)
 	perform_time = end_time[i] - start_time[i]
-	if session_time[i] != -1 or i == 0:
-		word_time = end_time[i] - session_time[i]
+	if phrase_start[i] == 1 or i == 0:
+		word_time = end_time[i] - start_time[i]
 	else:
 		word_time = end_time[i] - end_time[i - 1]
 
