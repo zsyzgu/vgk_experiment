@@ -1,4 +1,4 @@
-file_name = 'user1468092472_dwell_0.6_1'
+file_name = 'user1468092472_baseline_0.6_1'
 MAXN = 10000
 
 def get_time(i):
@@ -21,6 +21,7 @@ oup.write('word, len, time\n')
 word_cnt = 0
 letter_cnt = 0
 delete_cnt = 0
+delete_buff = 0
 total_time = 0
 word_time = 0
 phrase_start = [0 for i in range(0, MAXN)]
@@ -37,6 +38,7 @@ for i in range(0, len(lines)):
 
 	if get_cmd(i) == 'phrase':
 		phrase_start[word_cnt] = 1
+		delete_buff = 0
 
 	if get_cmd(i) == 'letter' and get_result(i) != ' ':
 		if words[word_cnt] == '':
@@ -48,10 +50,15 @@ for i in range(0, len(lines)):
 		if words[word_cnt] == '':
 			if phrase_start[word_cnt] == 0:
 				delete_cnt = delete_cnt + len(words[word_cnt])
+				delete_buff = delete_buff + len(words[word_cnt])
 				word_cnt = word_cnt - 1
 				words[word_cnt] = ''
+			if phrase_start[word_cnt] == 1:
+				delete_cnt = delete_cnt - delete_buff
+				delete_buff = 0
 		else:
 			delete_cnt = delete_cnt + 1
+			delete_buff = delete_buff + 1
 			words[word_cnt] = words[word_cnt][0 : len(words[word_cnt]) - 1]
 
 end_time[word_cnt] = get_time(len(lines) - 1)
