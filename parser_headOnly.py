@@ -1,4 +1,4 @@
-file_name = 'user1468092472_normal_0.6_1'
+file_name = 'user1468092472_headOnly_0.6_1'
 MAXN = 10000;
 
 def get_time(i):
@@ -37,14 +37,10 @@ for i in range(0, len(lines)):
 		if start_time[word_cnt] == -1 or phrase_start[word_cnt] == 1:
 			start_time[word_cnt] = get_time(i)
 	
-	if get_cmd(i) == 'gestureEnd':
+	if get_cmd(i) == 'select':
 		end_time[word_cnt] = get_time(i)
 		words[word_cnt] = get_result(i)
 		word_cnt = word_cnt + 1
-	
-	if get_cmd(i) == 'select':
-		end_time[word_cnt - 1] = get_time(i)
-		words[word_cnt - 1] = get_result(i)
 
 	if get_cmd(i) == 'delete':
 		if phrase_start[word_cnt] == 0:
