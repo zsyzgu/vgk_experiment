@@ -1,4 +1,5 @@
-file_name = 'zsyzgu_normal_0.8_1'
+import sys
+file_name = sys.argv[1]
 MAXN = 10000;
 
 def get_time(i):
@@ -16,7 +17,7 @@ lines = inp.readlines()
 inp.close()
 
 oup = file(file_name + '_result.txt', 'w')
-oup.write('session, phrase, word, len, perform_time, word_time\n')
+oup.write('session, phrase, word, len, perform_time, total_time\n')
 
 word_cnt = 0
 letter_cnt = 0
