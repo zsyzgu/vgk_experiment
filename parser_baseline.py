@@ -1,6 +1,8 @@
 import sys
 file_name = sys.argv[1]
 MAXN = 10000
+userName = file_name.split('_')[0]
+technique = file_name.split('_')[1]
 
 def get_time(i):
 	return (float)(lines[i].split(' ')[0])
@@ -17,12 +19,10 @@ lines = inp.readlines()
 inp.close()
 
 oup = file(file_name + '_result.txt', 'w')
-oup.write('session, phrase, word, len, perform_time, total_time\n')
+oup.write('user, technique, session, phrase, time\n')
 
 word_cnt = 0
-letter_cnt = 0
-total_time = 0
-word_time = 0
+session_start = [0 for i in range(0, MAXN)]
 phrase_start = [0 for i in range(0, MAXN)]
 start_time = [-1 for i in range(0, MAXN)]
 end_time = [-1 for i in range(0, MAXN)]
@@ -32,12 +32,27 @@ phrases = ['' for i in range(0, MAXN)]
 for i in range(0, len(lines)):
 	lines[i] = lines[i].replace('\n', '')
 
-	if (get_cmd(i) == 'letter' and get_result(i) == ' ') or (get_cmd(i) == 'phrase' and word_cnt != 0):
+	if get_cmd(i) == 'session':
+		if words[word_cnt] != '':
+			end_time[word_cnt] = get_time(i)
+			word_cnt = word_cnt + 1
+		session_start[word_cnt] = 1
+
+	if get_cmd(i) == 'phrase':
+		if words[word_cnt] != '':
+			end_time[word_cnt] = get_time(i)
+			word_cnt = word_cnt + 1
+		phrase_start[word_cnt] = 1
+		phrases[word_cnt] = get_result(i)
+
+	if get_cmd(i) == 'letter' and get_result(i) == ' ':
 		end_time[word_cnt] = get_time(i)
 		word_cnt = word_cnt + 1
 
-	if get_cmd(i) == 'phrase':
-		phrase_start[word_cnt] = 1
+	if get_cmd(i) == 'select':
+		words[word_cnt] = get_result(i)
+		end_time[word_cnt] = get_time(i)
+		word_cnt = word_cnt + 1
 
 	if get_cmd(i) == 'letter' and get_result(i) != ' ':
 		if words[word_cnt] == '':
@@ -56,7 +71,14 @@ for i in range(0, len(lines)):
 end_time[word_cnt] = get_time(len(lines) - 1)
 word_cnt = word_cnt + 1
 
+letter_cnt = 0
+total_time = 0
+phrase = ''
+session_index = 0
 for i in range(0, word_cnt):
+	if session_start[i] == 1:
+		session_index = session_index + 1
+	
 	word = words[i]
 	word_len = len(word)
 	if phrase_start[i] == 1 or i == 0:
@@ -64,12 +86,18 @@ for i in range(0, word_cnt):
 	else:
 		word_time = end_time[i] - end_time[i - 1]
 	
-	oup.write(word + ', ' + str(word_len) + ', ' + str(word_time) + ', ' + str(word_time) + '\n')
 	letter_cnt = letter_cnt + word_len
 	total_time = total_time + word_time
+	if phrase == '':
+		phrase = word
+	else:
+		phrase = phrase + ' ' + word
+	
+	if i == word_cnt - 1 or phrase_start[i + 1] == 1:
+		rate = letter_cnt / total_time * 12
+		oup.write(str(session_index) + ', ' + phrase + ', ' + str(rate) + '\n')
+		letter_cnt = 0
+		total_time = 0
+		phrase = ''
 
-rate = letter_cnt / total_time * 12
-err = 0
 oup.close()
-
-print 'rate=' + str(rate) + ', err' + str(err) + '\n'
