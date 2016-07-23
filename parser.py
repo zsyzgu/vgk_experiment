@@ -58,43 +58,19 @@ if technique == 'normal':
 			if phrase_start[word_cnt] == 0:
 				word_cnt = word_cnt - 1
 
-if technique == 'headOnly':
-	for i in range(0, len(lines)):
-		lines[i] = lines[i].replace('\n', '')
-		
-		if get_cmd(i) == 'session':
-			session_start[word_cnt] = 1
-
-		if get_cmd(i) == 'phrase':
-			phrase_start[word_cnt] = 1
-			phrases[word_cnt] = get_result(i)
-
-		if get_cmd(i) == 'gestureStart':
-			if start_time[word_cnt] == -1 or phrase_start[word_cnt] == 1:
-				start_time[word_cnt] = get_time(i)
-		
-		if get_cmd(i) == 'select':
-			end_time[word_cnt] = get_time(i)
-			words[word_cnt] = get_result(i)
-			word_cnt = word_cnt + 1
-
-		if get_cmd(i) == 'delete':
-			if phrase_start[word_cnt] == 0:
-				word_cnt = word_cnt - 1
-
 if technique == 'baseline' or technique == 'dwell':
 	for i in range(0, len(lines)):
 		lines[i] = lines[i].replace('\n', '')
 
 		if get_cmd(i) == 'session':
 			if words[word_cnt] != '':
-				end_time[word_cnt] = get_time(i)
+				end_time[word_cnt] = get_time(i - 1)
 				word_cnt = word_cnt + 1
 			session_start[word_cnt] = 1
 
 		if get_cmd(i) == 'phrase':
 			if words[word_cnt] != '':
-				end_time[word_cnt] = get_time(i)
+				end_time[word_cnt] = get_time(i - 1)
 				word_cnt = word_cnt + 1
 			phrase_start[word_cnt] = 1
 			phrases[word_cnt] = get_result(i)
