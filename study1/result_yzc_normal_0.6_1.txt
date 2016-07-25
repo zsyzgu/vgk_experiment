@@ -1,0 +1,49 @@
+user, technique, session, index, phrase, rate, error
+yzc, normal, 1, 1, please take a bath this month, 12.674382784, 0.0
+yzc, normal, 1, 2, the power of denial, 18.3791855723, 0.0
+yzc, normal, 1, 3, the quick brown fox jumped, 15.4328204649, 0.0
+yzc, normal, 1, 4, traveling to conferences is fun, 14.0480495324, 0.0
+yzc, normal, 1, 5, consequences of a wrong turn, 20.6020373126, 0.0
+yzc, normal, 1, 6, exceed the maximum speed limit, 20.5197008859, 0.0
+yzc, normal, 1, 7, have a good weekend, 11.8509740019, 0.0
+yzc, normal, 1, 8, do not lie in court or else, 11.1883641013, 0.0
+yzc, normal, 2, 1, electric cars need big fuel cells, 13.4312965199, 0.0
+yzc, normal, 2, 2, take it to the recycling depot, 20.353195791, 0.0
+yzc, normal, 2, 3, saving that child was an heroic effort, 18.4361001887, 0.0
+yzc, normal, 2, 4, staying up all night is a bad idea, 14.1981963032, 0.0
+yzc, normal, 2, 5, public transit is much faster, 16.89170167, 0.0
+yzc, normal, 2, 6, find a nearby parking spot, 17.9960326928, 0.0
+yzc, normal, 2, 7, the food at this restaurant, 18.0406306377, 0.0
+yzc, normal, 2, 8, call for more details, 9.26481942181, 0.0
+yzc, normal, 3, 1, this leather jacket is too warm, 17.556100745, 0.0
+yzc, normal, 3, 2, prepare for the exam in advance, 14.5549542825, 0.0
+yzc, normal, 3, 3, tell a lie and your nose will grow, 14.9086157074, 0.0
+yzc, normal, 3, 4, get rid of that immediately, 24.2524362275, 0.0
+yzc, normal, 3, 5, are you sure you want this, 16.8381665108, 0.0
+yzc, normal, 3, 6, please provide your date of birth, 19.1603654155, 0.0
+yzc, normal, 3, 7, this is a non profit organization, 13.144305699, 0.0
+yzc, normal, 3, 8, quick there its someone knocking, 19.201206933, 0.03125
+yzc, normal, 4, 1, pay off a mortgage for a house, 18.9954819774, 0.0
+yzc, normal, 4, 2, sing the gospel and the blues, 21.0176022419, 0.0
+yzc, normal, 4, 3, people blow their horn a lot, 18.3038438072, 0.0
+yzc, normal, 4, 4, a dog is the best friend of a man, 12.9649557247, 0.0
+yzc, normal, 4, 5, this camera takes nice photographs, 17.9240914726, 0.0
+yzc, normal, 4, 6, parking lot is full of trucks, 16.1979752531, 0.0
+yzc, normal, 4, 7, do not drink the water, 18.872870249, 0.0
+yzc, normal, 4, 8, our silver anniversary is coming, 19.0779014308, 0.0
+yzc, normal, 5, 1, beautiful paintings in the gallery, 21.6776058289, 0.0
+yzc, normal, 5, 2, destruction of the rain forest, 19.1728630246, 0.0
+yzc, normal, 5, 3, you are a wonderful example, 21.4402237241, 0.0
+yzc, normal, 5, 4, did you have a good time, 13.7159357517, 0.0
+yzc, normal, 5, 5, the facts get in the way, 16.5601394538, 0.0
+yzc, normal, 5, 6, space is a high priority, 18.7940485513, 0.0
+yzc, normal, 5, 7, yes you are very smart, 17.6701570681, 0.0
+yzc, normal, 5, 8, he is just like everyone else, 16.167967215, 0.0
+yzc, normal, 6, 1, coalition governments never work, 22.0434534744, 0.0
+yzc, normal, 6, 2, stiff penalty for staying out late, 11.923116456, 0.0
+yzc, normal, 6, 3, teaching services will help, 24.3222700785, 0.0
+yzc, normal, 6, 4, prevailing wind from the east, 20.6739714699, 0.0
+yzc, normal, 6, 5, questioning the wisdom of the courts, 20.2846392933, 0.0
+yzc, normal, 6, 6, come and see our new car, 18.3338694114, 0.0
+yzc, normal, 6, 7, shall we play a round of cards, 14.1439937138, 0.0
+yzc, normal, 6, 8, this system of taxation, 21.3504136643, 0.0

@@ -1,0 +1,49 @@
+user, technique, session, index, phrase, rate, error
+wth, baseline, 1, 1, accompanied by an adult, 8.67615283477, 0.0
+wth, baseline, 1, 2, the registration period is over, 13.5044452132, 0.0
+wth, baseline, 1, 3, medieval times were very hard, 8.1948629136, 0.0
+wth, baseline, 1, 4, construction makes traveling difficult, 8.65160600586, 0.0
+wth, baseline, 1, 5, gas bills are sent monthly, 11.1315376701, 0.0
+wth, baseline, 1, 6, the trains are always late, 13.2322867797, 0.0
+wth, baseline, 1, 7, this watch is too expensive, 8.98639342821, 0.0
+wth, baseline, 1, 8, you should visit a doctor, 13.1561773996, 0.0
+wth, baseline, 2, 1, aa correction had to be published, 11.3901393936, 0.030303030303
+wth, baseline, 2, 2, important for political patyyimpirtsnfimpidta  important for political parties, 8.66460847832, 0.602564102564
+wth, baseline, 2, 3, the library is closed today, 9.14149443561, 0.0
+wth, baseline, 2, 4, vary  very reluctant to enter, 9.13763563678, 0.206896551724
+wth, baseline, 2, 5, life is but a dream, 13.7946890447, 0.0
+wth, baseline, 2, 6, this equation is too complicated, 12.548457212, 0.0
+wth, baseline, 2, 7, reading week is just about here, 15.6305577404, 0.0
+wth, baseline, 2, 8, quit while you are ahead, 16.0146266924, 0.0
+wth, baseline, 3, 1, sharp cheese keeps the mind sharp, 13.4876383386, 0.0
+wth, baseline, 3, 2, this phenomenon will never occur, 14.927826624, 0.0
+wth, baseline, 3, 3, a picture is worth many words, 13.2272094722, 0.0
+wth, baseline, 3, 4, the postal service is very slow, 14.4402995436, 0.0
+wth, baseline, 3, 5, lie detector tests never work, 17.31321922, 0.0
+wth, baseline, 3, 6, jhrddfyiobsjnteraftiibeijteracyiinsinteracykmminteractions between men and women, 12.6186457094, 0.575
+wth, baseline, 3, 7, the fourth edition was better, 15.2203140458, 0.0
+wth, baseline, 3, 8, express delivery is very fast, 13.6985675864, 0.0
+wth, baseline, 4, 1, well connected with people, 15.4302869698, 0.0
+wth, baseline, 4, 2, on the way to the cottage, 11.9958014695, 0.0
+wth, baseline, 4, 3, the protesters blocked all traffic, 16.1340922332, 0.0
+wth, baseline, 4, 4, did you see that spectacular explosion, 15.1202749141, 0.0
+wth, baseline, 4, 5, make up a few more phrases, 8.82229379639, 0.0
+wth, baseline, 4, 6, teaching services will help, 18.132594598, 0.0
+wth, baseline, 4, 7, sdsrsafe to walk the streets in the evening, 11.2271947606, 0.093023255814
+wth, baseline, 4, 8, jumping right out of the water, 16.6620383227, 0.0
+wth, baseline, 5, 1, sit at the front of the bus, 17.1744019628, 0.0
+wth, baseline, 5, 2, every apple from every tree, 17.5751400917, 0.0
+wth, baseline, 5, 3, the winners of the race, 18.7886279357, 0.0434782608696
+wth, baseline, 5, 4, insurance is important for bad drivers, 18.4727340579, 0.0
+wth, baseline, 5, 5, the bathroom is good for reading, 17.5743111304, 0.0
+wth, baseline, 5, 6, cell for more details, 15.223060117, 0.047619047619
+wth, baseline, 5, 7, dibfsing the gospel and the blues, 13.0846216753, 0.121212121212
+wth, baseline, 5, 8, tickets are very expensive, 15.4319261951, 0.0
+wth, baseline, 6, 1, take a chose true take a coffee break, 11.8028917085, 0.486486486486
+wth, baseline, 6, 2, the elevator door appears to be stuck, 18.056499369, 0.0
+wth, baseline, 6, 3, my preferred treat is chocolate, 19.2068290948, 0.0
+wth, baseline, 6, 4, superman never wore a madk, 17.0520604573, 0.0384615384615
+wth, baseline, 6, 5, call for more details, 20.7155098749, 0.0
+wth, baseline, 6, 6, cds gas bills are sent monthly, 17.8288289787, 0.133333333333
+wth, baseline, 6, 7, olympics athletes use drugs olympic athletes use drugs, 15.188830285, 0.518518518519
+wth, baseline, 6, 8, every apple from every tree , 18.3971790992, 0.0357142857143

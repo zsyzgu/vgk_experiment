@@ -1,0 +1,50 @@
+user, technique, session, index, phrase, rate, error
+xwj, normal, 1, 1, parking tickets can be challenged, 14.9879192203, 0.0
+xwj, normal, 1, 2, staying up all night is a bad idea, 15.2882832296, 0.0
+xwj, normal, 1, 3, olympic athletes use drugs, 21.2038566435, 0.0
+xwj, normal, 1, 4, the quick brown fox jumped, 17.8300070915, 0.0
+xwj, normal, 1, 5, a dog is the best friend of a man, 15.3981183499, 0.0
+xwj, normal, 1, 6, sharp cheese keeps the mind sharp, 16.3171747977, 0.0
+xwj, normal, 1, 7, parking lot is full of trucks, 14.4652382244, 0.0
+xwj, normal, 1, 8, important for political parties, 17.5940180339, 0.0
+xwj, normal, 2, 1, consequences of a wrong turn, 17.3749366539, 0.0
+xwj, normal, 2, 2, the accident scene is a shrine for fans, 16.7487383926, 0.0
+xwj, normal, 2, 3, the king sends you to the tower, 17.7809388336, 0.0
+xwj, normal, 2, 4, the assignment is due today, 20.2094164165, 0.0
+xwj, normal, 2, 5, the presidential suite is very busy, 14.3095635583, 0.0
+xwj, normal, 2, 6, saving that child was an heroic effort, 19.8860693941, 0.0
+xwj, normal, 2, 7, protect your environment, 19.738317757, 0.0
+xwj, normal, 2, 8, be persistent to win a strike, 15.9866777685, 0.0
+xwj, normal, 3, 1, shall we play a round of cards, 14.2680208075, 0.0
+xwj, normal, 3, 2, work hard to reach the summit, 18.2186234818, 0.0
+xwj, normal, 3, 3, do not feel too bad about it, 13.3414190418, 0.0
+xwj, normal, 3, 4, an excellent way to communicate, 19.9495104981, 0.0
+xwj, normal, 3, 5, space is a high priority, 18.4743283812, 0.0
+xwj, normal, 3, 6, employee recruitment takes a lot of effort, 14.9563772331, 0.0
+xwj, normal, 3, 7, this watch is too expensive, 18.3816183816, 0.0
+xwj, normal, 3, 8, hands on experience with a job, 15.9940288959, 0.0
+xwj, normal, 4, 1, a dog is the best friend of a man, 14.6015457196, 0.0
+xwj, normal, 4, 2, get aboard the ship is leaving, 20.2345863039, 0.0
+xwj, normal, 4, 3, do nor say anything, 18.4381362117, 0.0526315789474
+xwj, normal, 4, 4, the trains are always late, 14.3967280164, 0.0
+xwj, normal, 4, 5, where can my little dog be, 19.8376774173, 0.0
+xwj, normal, 4, 6, no universities are too expensive, 15.7809531152, 0.0909090909091
+xwj, normal, 4, 7, a much higher risk of getting cancer, 19.1104103961, 0.0
+xwj, normal, 4, 8, world population is growing, 21.1996967266, 0.0
+xwj, normal, 4, 9, medieval times were very hard, 12.7256145411, 0.0
+xwj, normal, 5, 1, you should visit a doctor, 23.6462076925, 0.0
+xwj, normal, 5, 2, he is still on our team, 14.1870989353, 0.0
+xwj, normal, 5, 3, well connected with people, 21.7983651226, 0.0
+xwj, normal, 5, 4, important for political parties, 24.1961617398, 0.0
+xwj, normal, 5, 5, teaching services will help, 21.5913094979, 0.0
+xwj, normal, 5, 6, this is a non profit organization, 21.9005220928, 0.0
+xwj, normal, 5, 7, that is a very odd question, 20.3250467707, 0.0
+xwj, normal, 5, 8, house with new electrical panel, 10.7218378024, 0.0
+xwj, normal, 6, 1, zero in on the facts, 21.5198386012, 0.0
+xwj, normal, 6, 2, you should visit a doctor, 20.5111509035, 0.0
+xwj, normal, 6, 3, traveling to conferences is fun, 23.6876736365, 0.0
+xwj, normal, 6, 4, sent this by registered mail, 20.418291386, 0.0
+xwj, normal, 6, 5, a fox is a very smart animal, 16.5745856354, 0.0
+xwj, normal, 6, 6, sit at the front of the bus, 18.7221396731, 0.0
+xwj, normal, 6, 7, he is just like everyone else, 23.8371130608, 0.0
+xwj, normal, 6, 8, presidents drive expensive cars, 27.0357257805, 0.0

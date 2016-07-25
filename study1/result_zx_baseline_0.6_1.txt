@@ -1,0 +1,49 @@
+user, technique, session, index, phrase, rate, error
+zx, baseline, 1, 1, the facts get in the way, 5.16477442621, 0.0
+zx, baseline, 1, 2, employee recruitment takes a lot of effort, 8.23137793648, 0.0
+zx, baseline, 1, 3, our silver anniversary is coming, 11.211809773, 0.0
+zx, baseline, 1, 4, a dog is the best friend of a man, 7.45491639311, 0.0
+zx, baseline, 1, 5, a fox is a very smart animal, 9.02891304199, 0.0
+zx, baseline, 1, 6, fish are jumping, 11.8402413154, 0.0
+zx, baseline, 1, 7, the registration period is over, 9.49261392602, 0.0
+zx, baseline, 1, 8, interactions between men and women, 10.1765346073, 0.0
+zx, baseline, 2, 1, take a coffee break, 8.51509211378, 0.0
+zx, baseline, 2, 2, elections bring out the best, 11.5120796892, 0.0
+zx, baseline, 2, 3, lie detector tests never work, 10.645281479, 0.0
+zx, baseline, 2, 4, a problem with the engine, 10.3137086377, 0.0
+zx, baseline, 2, 5, the bathroom is good for reading, 10.1361814752, 0.0
+zx, baseline, 2, 6, please take a bath this month, 10.1951233327, 0.0
+zx, baseline, 2, 7, the children are playing, 10.0075453715, 0.0
+zx, baseline, 2, 8, valid until the end of the year, 8.44375893631, 0.0
+zx, baseline, 3, 1, he underwent triple bypass surgery, 12.2845930729, 0.0
+zx, baseline, 3, 2, popularity is desired by all, 13.1663161745, 0.0
+zx, baseline, 3, 3, the king sends you to the tower, 11.7767135118, 0.0
+zx, baseline, 3, 4, sad to hear that news, 10.7538218239, 0.0
+zx, baseline, 3, 5, the power of denial, 12.3575979919, 0.0
+zx, baseline, 3, 6, are you sure you want this, 12.0315111005, 0.0
+zx, baseline, 3, 7, beautiful paintings in the gallery, 9.37719778073, 0.0
+zx, baseline, 3, 8, historic meeting without a result, 12.4033218092, 0.0
+zx, baseline, 4, 1, a correction has to be published, 12.6641651032, 0.03125
+zx, baseline, 4, 2, the union will go on strike, 12.1844279319, 0.0
+zx, baseline, 4, 3, never mix religion and politics, 13.6685791428, 0.0
+zx, baseline, 4, 4, traveling requires a lot of fuel, 13.1445494746, 0.0
+zx, baseline, 4, 5, a yard is almost as a meter, 11.4073604635, 0.0
+zx, baseline, 4, 6, universally understood to be wronf, 10.6082036775, 0.0294117647059
+zx, baseline, 4, 7, a quarter of a century, 12.7051349921, 0.0
+zx, baseline, 4, 8, protect your environment, 12.4852210925, 0.0
+zx, baseline, 5, 1, just what the doctor ordered, 14.0803754767, 0.0
+zx, baseline, 5, 2, a very traditional way to dress, 14.8444190694, 0.0
+zx, baseline, 5, 3, would you like to come to my house, 9.54653937947, 0.0
+zx, baseline, 5, 4, come and see our new car, 12.6575251207, 0.0
+zx, baseline, 5, 5, take it to the recycling depot, 12.5072959226, 0.0
+zx, baseline, 5, 6, we have enough witnesses, 16.531094201, 0.0
+zx, baseline, 5, 7, where can my little dog be, 12.8748786594, 0.0
+zx, baseline, 5, 8, never too rich and never too thin, 12.0886501007, 0.0
+zx, baseline, 6, 1, just in time for the party, 14.6622447198, 0.0
+zx, baseline, 6, 2, the sum of the parts, 10.5995362703, 0.0
+zx, baseline, 6, 3, time to go shopping, 15.7068062827, 0.0
+zx, baseline, 6, 4, my bare face in the wind, 12.4413401724, 0.0
+zx, baseline, 6, 5, we missed your birthday, 16.9228599633, 0.0
+zx, baseline, 6, 6, the trains are always late, 14.9043075707, 0.0
+zx, baseline, 6, 7, very reluctant to enter, 11.6425730086, 0.0
+zx, baseline, 6, 8, we went grocery shopping, 15.2542372881, 0.0

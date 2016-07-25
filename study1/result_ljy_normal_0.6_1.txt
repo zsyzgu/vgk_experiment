@@ -1,0 +1,49 @@
+user, technique, session, index, phrase, rate, error
+ljy, normal, 1, 1, fall is my favorite season, 13.2386568781, 0.0
+ljy, normal, 1, 2, this system of taxation, 14.8458811958, 0.0
+ljy, normal, 1, 3, coalition government never work, 10.2268473004, 0.0322580645161
+ljy, normal, 1, 4, we have enough witnesses, 15.0979569828, 0.0
+ljy, normal, 1, 5, this equation is too complicated, 8.47635072919, 0.0
+ljy, normal, 1, 6, win first prize in the contest, 11.6165155874, 0.0
+ljy, normal, 1, 7, get aboard the ship is leaving, 9.07811719849, 0.0
+ljy, normal, 1, 8, if you cone home late the doors are locked, 8.46206175646, 0.0238095238095
+ljy, normal, 2, 1, tell a lie and your nose will grow, 7.33119582212, 0.0
+ljy, normal, 2, 2, on the way to the cottage, 8.05020645425, 0.0
+ljy, normal, 2, 3, rapidly running short on words, 7.58291995888, 0.0
+ljy, normal, 2, 4, house with new electrical panel, 11.2670178916, 0.0
+ljy, normal, 2, 5, the music is better than it sounds, 9.50718273315, 0.0
+ljy, normal, 2, 6, no exchange without a bill, 12.4607062955, 0.0
+ljy, normal, 2, 7, my favorite subject is psychology, 7.76317844156, 0.0
+ljy, normal, 2, 8, the punishment should fit the crime, 13.0638313314, 0.0
+ljy, normal, 3, 1, electrons bring out the best, 13.018714402, 0.0357142857143
+ljy, normal, 3, 2, come and see our new car, 11.6528672186, 0.0
+ljy, normal, 3, 3, important news always seems to be late, 13.5665076842, 0.0
+ljy, normal, 3, 4, my preferred treat is chocolate, 15.3634596235, 0.0
+ljy, normal, 3, 5, construction makes traveling difficult, 13.5597597985, 0.0
+ljy, normal, 3, 6, an airport is a very busy place, 12.6812359978, 0.0
+ljy, normal, 3, 7, do not worry about this, 14.9224425682, 0.0
+ljy, normal, 3, 8, rain rain go away, 15.1364987837, 0.0
+ljy, normal, 4, 1, we went grocery shopping, 14.5605824233, 0.0
+ljy, normal, 4, 2, we better investigate this, 10.009792188, 0.0
+ljy, normal, 4, 3, purple blow their horn a lot, 11.5365323524, 0.0714285714286
+ljy, normal, 4, 4, exercise is good for the mind, 13.1422834718, 0.0
+ljy, normal, 4, 5, rent is paid at the beginning of the month, 10.5894261465, 0.0
+ljy, normal, 4, 6, exceed the maximum speed limit, 15.7139259632, 0.0
+ljy, normal, 4, 7, what to do when the oil runs dry, 9.52290258071, 0.0
+ljy, normal, 4, 8, effort is what it will take, 9.17463075586, 0.0
+ljy, normal, 5, 1, sad to near that news, 13.7059930126, 0.047619047619
+ljy, normal, 5, 2, fish are jumping, 12.5946472749, 0.0
+ljy, normal, 5, 3, a picture is worth many words, 14.252486762, 0.0
+ljy, normal, 5, 4, the first time he tried to swim, 11.6166505324, 0.0
+ljy, normal, 5, 5, beautiful paintings in the gallery, 10.7276953335, 0.0
+ljy, normal, 5, 6, machinery is too complicated, 13.6196486131, 0.0
+ljy, normal, 5, 7, there will be some fog tonight, 14.3898695318, 0.0
+ljy, normal, 5, 8, employee recruitment tales a lot of effort, 14.0652471186, 0.0238095238095
+ljy, normal, 6, 1, where did you get that tie, 13.986013986, 0.0
+ljy, normal, 6, 2, that is a very odd question, 13.6957875078, 0.0
+ljy, normal, 6, 3, the bus was very crowded, 10.3644843669, 0.0
+ljy, normal, 6, 4, life is but a dream, 13.7688365333, 0.0
+ljy, normal, 6, 5, the children are playing, 15.2063721941, 0.0
+ljy, normal, 6, 6, insurance is important for bad drivers, 12.8504672897, 0.0
+ljy, normal, 6, 7, saving that child was an heroic effort, 14.7002526606, 0.0
+ljy, normal, 6, 8, the opposing team is over there, 12.3183828174, 0.0

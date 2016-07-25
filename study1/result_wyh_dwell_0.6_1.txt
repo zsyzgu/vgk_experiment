@@ -1,0 +1,49 @@
+user, technique, session, index, phrase, rate, error
+wyh, dwell, 1, 1, the chamber makes important decisions, 8.23271130626, 0.0
+wyh, dwell, 1, 2, you have my sympathy, 7.13000017475, 0.0
+wyh, dwell, 1, 3, physics and chemistry are hard, 9.20774985613, 0.0
+wyh, dwell, 1, 4, can we play cards tonight, 9.24417836862, 0.0
+wyh, dwell, 1, 5, get rid of that immediately, 8.84365948066, 0.0
+wyh, dwell, 1, 6, would you like to come to my house, 7.05959254821, 0.0
+wyh, dwell, 1, 7, destruction of the rain forest, 7.57055539244, 0.0
+wyh, dwell, 1, 8, a quarter of a century , 6.86017004329, 0.0434782608696
+wyh, dwell, 2, 1, would population is growing, 9.42278875285, 0.037037037037
+wyh, dwell, 2, 2, a subject  one can really enjoy, 8.4500377435, 0.0322580645161
+wyh, dwell, 2, 3, breathing is difficult, 9.68945303038, 0.0
+wyh, dwell, 2, 4, the winner of the race, 9.51194056799, 0.0
+wyh, dwell, 2, 5, an offer you cannot refuse, 8.67419525482, 0.0
+wyh, dwell, 2, 6, house with new electrical panel, 8.04802984726, 0.0
+wyh, dwell, 2, 7, the algorithm is too complicated, 8.74785859711, 0.0
+wyh, dwell, 2, 8, apartments are too expensive, 6.56384763997, 0.0
+wyh, dwell, 3, 1, take a coffee break, 7.85999385938, 0.0
+wyh, dwell, 3, 2, the registration period is over, 9.80804683645, 0.0
+wyh, dwell, 3, 3, frequently asked questions, 11.5020567914, 0.0
+wyh, dwell, 3, 4, this system of taxation, 10.206598566, 0.0
+wyh, dwell, 3, 5, a little encouragement is needed, 10.4445135219, 0.0
+wyh, dwell, 3, 6, want to join us for lunch, 7.20136825997, 0.0
+wyh, dwell, 3, 7, rapidly runnint short on words, 10.2097581727, 0.0333333333333
+wyh, dwell, 3, 8, this is a non profit organization, 9.32142262664, 0.0
+wyh, dwell, 4, 1, where can my little dog be, 7.58693361433, 0.0
+wyh, dwell, 4, 2, prevailing wind from the east, 9.90818416012, 0.0
+wyh, dwell, 4, 3, on the way to the cottage, 6.32661130882, 0.0
+wyh, dwell, 4, 4, the objective of the exercise, 6.69687702301, 0.0
+wyh, dwell, 4, 5, healthy food is good for you, 9.78168415084, 0.0
+wyh, dwell, 4, 6, do you get nervours when you speak, 10.2379719065, 0.0294117647059
+wyh, dwell, 4, 7, machinery is too complicated, 10.3896103896, 0.0
+wyh, dwell, 4, 8, do not drink the water, 9.16341422026, 0.0
+wyh, dwell, 5, 1, rent is paid at the beginning of the month, 9.82729966038, 0.0
+wyh, dwell, 5, 2, teaching services will help, 11.9304059652, 0.0
+wyh, dwell, 5, 3, sing the gospel and the blues, 9.27894838585, 0.0
+wyh, dwell, 5, 4, experience is hard to come by, 10.1233786776, 0.0
+wyh, dwell, 5, 5, do you like to go camping, 10.2450268932, 0.0
+wyh, dwell, 5, 6, the capital of our nation, 9.03776494638, 0.0
+wyh, dwell, 5, 7, superman never wore a mask, 10.4434510859, 0.0
+wyh, dwell, 5, 8, medieval times were very hard, 10.0982900229, 0.0
+wyh, dwell, 6, 1, there will be some fog tonight, 10.5049373205, 0.0
+wyh, dwell, 6, 2, the quick brown fox jumped, 10.9393776157, 0.0
+wyh, dwell, 6, 3, what to do when the oil runs dry, 9.09090909091, 0.0
+wyh, dwell, 6, 4, space is a high priority, 8.13063215665, 0.0
+wyh, dwell, 6, 5, please try to be home before midnight, 7.14834742506, 0.0
+wyh, dwell, 6, 6, the back yard of our house, 9.92438563327, 0.0
+wyh, dwell, 6, 7, with each step forward, 10.5088495575, 0.0
+wyh, dwell, 6, 8, constructions  makes traveling difficult, 11.0364560713, 0.05

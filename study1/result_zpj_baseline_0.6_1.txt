@@ -1,0 +1,49 @@
+user, technique, session, index, phrase, rate, error
+zpj, baseline, 1, 1, please try to be home before midnight, 10.387974077, 0.0
+zpj, baseline, 1, 2, sit at the front of the bus, 11.1171892922, 0.0
+zpj, baseline, 1, 3, it is difficult to concentrate, 11.7953506659, 0.0
+zpj, baseline, 1, 4, all together in one big pile, 13.3833106237, 0.0
+zpj, baseline, 1, 5, you want to eat your cake, 11.1278544106, 0.0
+zpj, baseline, 1, 6, they watched the entire movie, 12.4794608873, 0.0
+zpj, baseline, 1, 7, always cover all the bases, 13.384505407, 0.0
+zpj, baseline, 1, 8, you must make an appointment, 11.5980315563, 0.0
+zpj, baseline, 2, 1, universities are too expensive, 12.3297992983, 0.0
+zpj, baseline, 2, 2, the union will go on strike, 11.0760091125, 0.0
+zpj, baseline, 2, 3, file all complaints in writing, 12.4815976445, 0.0
+zpj, baseline, 2, 4, that land is owned by the government, 12.8128926173, 0.0
+zpj, baseline, 2, 5, the world is a stage, 13.3205677892, 0.0
+zpj, baseline, 2, 6, you have my sympathy, 12.1544327931, 0.0
+zpj, baseline, 2, 7, the first time he tried to swim, 13.6205761504, 0.0
+zpj, baseline, 2, 8, lie detector tests never work, 14.3002869591, 0.0
+zpj, baseline, 3, 1, elephants are afraid of mice, 8.49763069533, 0.0
+zpj, baseline, 3, 2, quit while you are ahead, 13.7262864104, 0.0
+zpj, baseline, 3, 3, the opposing team is over there, 12.7963251579, 0.0
+zpj, baseline, 3, 4, public transit is much faster, 14.5400967401, 0.0
+zpj, baseline, 3, 5, gas bills are sent monthly, 15.0451354062, 0.0
+zpj, baseline, 3, 6, my bike has a flat tire, 13.4690212511, 0.0
+zpj, baseline, 3, 7, elections bring out the best, 12.3325682573, 0.0
+zpj, baseline, 3, 8, be home before midnight, 15.2655247206, 0.0
+zpj, baseline, 4, 1, bank transaction was not registered, 7.64199316329, 0.0
+zpj, baseline, 4, 2, valid until the end of the year, 15.4499011206, 0.0
+zpj, baseline, 4, 3, with each step forward, 11.3181696335, 0.0
+zpj, baseline, 4, 4, a fox is a very smart animal, 10.5794662178, 0.0
+zpj, baseline, 4, 5, you are a wonderful example, 15.5117180914, 0.0
+zpj, baseline, 4, 6, rain rain go away, 14.4740242957, 0.0
+zpj, baseline, 4, 7, traveling requires a lot of fuel, 14.6500271297, 0.0
+zpj, baseline, 4, 8, interactions between men and women, 17.0438405454, 0.0
+zpj, baseline, 5, 1, the protesters blocked all traffic, 14.1320562142, 0.0
+zpj, baseline, 5, 2, are you sure you want this, 16.218303514, 0.0
+zpj, baseline, 5, 3, hands on experience with a job, 14.3000143, 0.0
+zpj, baseline, 5, 4, win first prize in the contest, 14.2680490821, 0.0
+zpj, baseline, 5, 5, a much higher risk of getting cancer, 14.8717313174, 0.0
+zpj, baseline, 5, 6, an airport is a very busy place, 15.2423534194, 0.0
+zpj, baseline, 5, 7, the children are playing, 12.3759944996, 0.0
+zpj, baseline, 5, 8, we missed your birthday, 19.149445464, 0.0
+zpj, baseline, 6, 1, be persistent to win a strike, 12.0050020842, 0.0
+zpj, baseline, 6, 2, yes you are very smart, 18.1482103848, 0.0
+zpj, baseline, 6, 3, the minimum amount of time, 18.7380225708, 0.0
+zpj, baseline, 6, 4, the second largest country, 19.772189985, 0.0
+zpj, baseline, 6, 5, important news always seems to be late, 15.9309658148, 0.0
+zpj, baseline, 6, 6, most judges are very honest, 13.4699853587, 0.0
+zpj, baseline, 6, 7, parking tickets can be challenged, 13.7288937983, 0.0
+zpj, baseline, 6, 8, travel at the speed of light , 18.0770238407, 0.0344827586207

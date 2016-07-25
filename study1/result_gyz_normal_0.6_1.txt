@@ -1,0 +1,49 @@
+user, technique, session, index, phrase, rate, error
+gyz, normal, 1, 1, healthy flood is goods for you, 20.6558081378, 0.0666666666667
+gyz, normal, 1, 2, the price of gas is high, 16.6904823257, 0.0
+gyz, normal, 1, 3, hands on experience with a job, 19.6691904423, 0.0
+gyz, normal, 1, 4, the punishment should fit the crime, 19.4382350083, 0.0
+gyz, normal, 1, 5, all together in one big pile, 18.2561416042, 0.0
+gyz, normal, 1, 6, effort is what it will take, 17.7178829814, 0.0
+gyz, normal, 1, 7, construction makes traveling difficult, 21.4699778144, 0.0
+gyz, normal, 1, 8, my favorite subject is psychology, 21.4024772752, 0.0
+gyz, normal, 2, 1, people blow their horn a lot, 18.688677776, 0.0
+gyz, normal, 2, 2, it is difficult to concentrate, 21.518428603, 0.0
+gyz, normal, 2, 3, elephants are afraid of mice, 23.0221348234, 0.0
+gyz, normal, 2, 4, destruction of the rain forest, 22.2815762787, 0.0
+gyz, normal, 2, 5, my preferred treat is chocolate, 18.1506503983, 0.0
+gyz, normal, 2, 6, the sum of the parts, 16.0766319456, 0.0
+gyz, normal, 2, 7, you will loose your voice, 18.0886343081, 0.0
+gyz, normal, 2, 8, the cream rises to the top, 16.9188833537, 0.0
+gyz, normal, 3, 1, take it to the recycling depict, 23.750076122, 0.0645161290323
+gyz, normal, 3, 2, prayers must know all the rules, 17.6444640494, 0.0322580645161
+gyz, normal, 3, 3, do you prefer a window seat, 19.7951501882, 0.0
+gyz, normal, 3, 4, he cooled off after she left, 21.8667554013, 0.0
+gyz, normal, 3, 5, we missed your birthday, 21.5978834074, 0.0
+gyz, normal, 3, 6, learn to walk before you run, 15.5541153597, 0.0
+gyz, normal, 3, 7, traveling to conferences is fun, 19.4396112078, 0.0
+gyz, normal, 3, 8, the capital of our nation, 18.2872402958, 0.0
+gyz, normal, 4, 1, the living is easy, 20.8304402166, 0.0
+gyz, normal, 4, 2, most judges are very honest, 26.8840770287, 0.0
+gyz, normal, 4, 3, sad to hear that news, 14.7670925477, 0.0
+gyz, normal, 4, 4, this is a very good idea, 20.829717063, 0.0
+gyz, normal, 4, 5, do you like to go camping, 20.9435048955, 0.0
+gyz, normal, 4, 6, did you see that spectacular explosion, 22.7666020846, 0.0
+gyz, normal, 4, 7, be home before midnight, 24.2028196285, 0.0
+gyz, normal, 4, 8, no exchange without a bill, 20.3604729183, 0.0
+gyz, normal, 5, 1, make up a few more phrases, 18.1841797636, 0.0
+gyz, normal, 5, 2, user friendly interface, 32.4805052523, 0.0
+gyz, normal, 5, 3, pay off a mortgage for a house, 16.0695454216, 0.0
+gyz, normal, 5, 4, this leather jacket is too warm, 22.6223018192, 0.0
+gyz, normal, 5, 5, be persistent to win a strike, 20.1328206921, 0.0
+gyz, normal, 5, 6, the location of the crime, 20.081281377, 0.0
+gyz, normal, 5, 7, where can my little dog be, 25.5967496191, 0.0
+gyz, normal, 5, 8, this system of taxation, 18.1447040145, 0.0
+gyz, normal, 6, 1, teaching services will help, 22.6757369615, 0.0
+gyz, normal, 6, 2, would you like to come to my house, 19.3098516002, 0.0
+gyz, normal, 6, 3, a little encouragement is needed, 23.4836942088, 0.0
+gyz, normal, 6, 4, breathing is difficult, 23.2342007435, 0.0
+gyz, normal, 6, 5, we have enough witnesses, 21.6507865593, 0.0
+gyz, normal, 6, 6, the dog buried the bone, 23.9598986959, 0.0
+gyz, normal, 6, 7, the king sends you to the tower, 23.9656811446, 0.0
+gyz, normal, 6, 8, parking tickets can be challenged, 24.0459360295, 0.0

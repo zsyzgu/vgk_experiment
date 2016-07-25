@@ -1,0 +1,49 @@
+user, technique, session, index, phrase, rate, error
+yyk, normal, 1, 1, taking the train is usually faster, 16.6339246024, 0.0
+yyk, normal, 1, 2, life is but a dream, 14.1141046953, 0.0
+yyk, normal, 1, 3, the postal service is very slow, 16.0287695864, 0.0
+yyk, normal, 1, 4, do not worry about this, 15.9006904247, 0.0
+yyk, normal, 1, 5, an over you cannot refuse, 16.6666666667, 0.08
+yyk, normal, 1, 6, every apple from every tree, 18.3181788014, 0.0
+yyk, normal, 1, 7, get rid of that immediately, 19.2066805846, 0.0
+yyk, normal, 1, 8, my bike has a flat tire, 14.6440677966, 0.0
+yyk, normal, 2, 1, a dog is the best friend of a man, 13.9645300936, 0.0
+yyk, normal, 2, 2, what you see is what you get, 17.5964807039, 0.0
+yyk, normal, 2, 3, fish are jumping, 18.1288442862, 0.0
+yyk, normal, 2, 4, good jobs for those with education, 14.5948666331, 0.0
+yyk, normal, 2, 5, a yard is almost as a meter, 14.2768115121, 0.0
+yyk, normal, 2, 6, my favorite web browser, 18.9334174819, 0.0
+yyk, normal, 2, 7, have a good weekend, 17.7432769615, 0.0
+yyk, normal, 2, 8, the bus was very crowded, 18.4501845018, 0.0
+yyk, normal, 3, 1, would you like to come to my house, 17.3153325132, 0.0
+yyk, normal, 3, 2, life is but a dream, 18.4571844591, 0.0
+yyk, normal, 3, 3, frequently asked questions, 25.3892131107, 0.0
+yyk, normal, 3, 4, the kids are very excited, 17.9639437985, 0.0
+yyk, normal, 3, 5, shall we play a round of cards, 16.0666767083, 0.0
+yyk, normal, 3, 6, apartments are too expensive, 19.1630842345, 0.0
+yyk, normal, 3, 7, a picture is worth many words, 16.8801101896, 0.0
+yyk, normal, 3, 8, parking lot is full of trucks, 17.7278770867, 0.0
+yyk, normal, 4, 1, just in time for the party, 16.3417765846, 0.0
+yyk, normal, 4, 2, destruction of the rain forest, 21.1204678996, 0.0
+yyk, normal, 4, 3, parking tickets can be challenged, 19.5990087858, 0.0
+yyk, normal, 4, 4, did you see that spectacular explosion, 18.2058920887, 0.0
+yyk, normal, 4, 5, win first prize in the context, 16.9933159624, 0.0333333333333
+yyk, normal, 4, 6, the world is a stage, 20.3562340967, 0.0
+yyk, normal, 4, 7, good jobs for those with education, 17.4078335251, 0.0
+yyk, normal, 4, 8, love means many things, 21.0681944188, 0.0
+yyk, normal, 5, 1, teaching services will help, 21.1050857394, 0.0
+yyk, normal, 5, 2, just what the doctor ordered, 20.0361764297, 0.0
+yyk, normal, 5, 3, you should visit a doctor, 18.4926983195, 0.0
+yyk, normal, 5, 4, learn to walk before you run, 17.0223263846, 0.0
+yyk, normal, 5, 5, the water was monitored daily, 23.5645275312, 0.0
+yyk, normal, 5, 6, the music is better than it rounds, 19.3414690306, 0.0294117647059
+yyk, normal, 5, 7, we accept personal checks, 20.9258084971, 0.0
+yyk, normal, 5, 8, my fingers are very cold, 17.8531577773, 0.0
+yyk, normal, 6, 1, a subject one can really enjoy, 20.1531640468, 0.0
+yyk, normal, 6, 2, god this system of taxation, 16.7516387473, 0.148148148148
+yyk, normal, 6, 3, what a monkey sees a monkey will do, 20.292305834, 0.0
+yyk, normal, 6, 4, question that must be answered, 20.6158319017, 0.0
+yyk, normal, 6, 5, get rid of that immediately, 19.1387559809, 0.0
+yyk, normal, 6, 6, we run the risk of failure, 15.3256704981, 0.0
+yyk, normal, 6, 7, all together in one big pile, 19.272397179, 0.0
+yyk, normal, 6, 8, exercise is good for the mind, 17.17147627, 0.0

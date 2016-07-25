@@ -1,0 +1,49 @@
+user, technique, session, index, phrase, rate, error
+yxj, dwell, 1, 1, presidents drive expensive cars, 5.5914264794, 0.0
+yxj, dwell, 1, 2, would you like to come to my house, 7.28410715731, 0.0
+yxj, dwell, 1, 3, parking tickets can be challenged, 9.25435925529, 0.0
+yxj, dwell, 1, 4, the world is a stage, 9.24201071496, 0.0
+yxj, dwell, 1, 5, electric cars need big fuel cells, 6.95686742198, 0.0
+yxj, dwell, 1, 6, universally understood to be wrong, 10.5080342679, 0.0
+yxj, dwell, 1, 7, nothing wrong with his style, 8.63286062426, 0.0
+yxj, dwell, 1, 8, saving that child was an heroic effort, 8.36532051813, 0.0
+yxj, dwell, 2, 1, you want to eat your cake, 9.28868058163, 0.0
+yxj, dwell, 2, 2, the objective of the exercise, 10.355611706, 0.0
+yxj, dwell, 2, 3, he is still on our team, 9.89332612708, 0.0
+yxj, dwell, 2, 4, where did you get that tie, 9.0413642414, 0.0
+yxj, dwell, 2, 5, are you sure you want this, 9.1184750436, 0.0
+yxj, dwell, 2, 6, just in time for the party, 9.35353002966, 0.0
+yxj, dwell, 2, 7, bank transaction was not registered, 10.0831042951, 0.0
+yxj, dwell, 2, 8, what goes up must come down, 7.73490375319, 0.0
+yxj, dwell, 3, 1, good jobs for those with education, 9.94399359927, 0.0
+yxj, dwell, 3, 2, can we play cards tonight, 10.4214052355, 0.0
+yxj, dwell, 3, 3, for your information only, 10.9771309771, 0.0
+yxj, dwell, 3, 4, we went grocery shopping, 6.92212608158, 0.0
+yxj, dwell, 3, 5, the registration period is over, 10.641093011, 0.0
+yxj, dwell, 3, 6, he cooled off after she left, 7.1560061189, 0.0
+yxj, dwell, 3, 7, the protesters blocked all traffic, 10.3382918844, 0.0
+yxj, dwell, 3, 8, travel at the speed of light, 9.84905256397, 0.0
+yxj, dwell, 4, 1, the location of the crime, 8.88575458392, 0.0
+yxj, dwell, 4, 2, the living is easy, 7.86438308284, 0.0
+yxj, dwell, 4, 3, she wears too much makeup, 10.861132661, 0.0
+yxj, dwell, 4, 4, breathinf is difficult, 12.517602879, 0.0454545454545
+yxj, dwell, 4, 5, rapidly running short on words, 8.22329406183, 0.0
+yxj, dwell, 4, 6, a little encouragement is needed, 10.7654352632, 0.0
+yxj, dwell, 4, 7, do not lie in court or else, 8.50374569751, 0.0
+yxj, dwell, 4, 8, there will be some fog tonight, 10.7246273192, 0.0
+yxj, dwell, 5, 1, valid until the end of the year, 10.7315328206, 0.0
+yxj, dwell, 5, 2, our silver anniversary is coming, 12.7456186936, 0.0
+yxj, dwell, 5, 3, employee recruitment takes a lot of effort, 8.96674830836, 0.0
+yxj, dwell, 5, 4, life is but a dream, 8.07863201831, 0.0
+yxj, dwell, 5, 5, prevailing wind from the east, 9.48526621981, 0.0
+yxj, dwell, 5, 6, this library has many books, 11.0545920615, 0.0
+yxj, dwell, 5, 7, yes you are very smart, 12.164902005, 0.0
+yxj, dwell, 5, 8, superman never wore a mask, 10.8450067781, 0.0
+yxj, dwell, 6, 1, every apple from every tree, 11.5577889447, 0.0
+yxj, dwell, 6, 2, shall we play a round of cards, 6.9603886217, 0.0
+yxj, dwell, 6, 3, do not say anything, 11.6138398258, 0.0
+yxj, dwell, 6, 4, you will loose your voice, 12.1662723893, 0.0
+yxj, dwell, 6, 5, rent is paid at the beginning of the month, 9.37866354045, 0.0
+yxj, dwell, 6, 6, this system of taxation, 12.103484795, 0.0
+yxj, dwell, 6, 7, a quarter of a century, 10.6445890006, 0.0
+yxj, dwell, 6, 8, you must make an appointment, 11.5347644986, 0.0
