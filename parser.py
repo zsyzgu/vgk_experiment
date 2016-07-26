@@ -16,12 +16,64 @@ def get_result(i):
 	tags = lines[i].split(' ')
 	return ' '.join(tags[2 : len(tags)])
 
+def write_undo():
+	global undo_cnt
+	for i in range(0, undo_cnt):
+		woup.write(undo_buffer[i])
+	undo_cnt = 0
+
+def get_word_by_index(phrase, i):
+	phrase_tags = phrase.split(' ')
+	if i < len(phrase_tags):
+		return phrase_tags[i]
+	else:
+		return ''
+
+def word_output(i, std_word, word, is_undo):
+	if std_word == word:
+		correct = 'Yes'
+	else:
+		correct = 'No'
+	if technique == 'normal':
+		gesture_durations = gesture_end_time[i] - start_time[i]
+		if select_word[i] == 1:
+			word_class = 'Select'
+			selection_durations = end_time[i] - gesture_end_time[i]
+		else:
+			word_class = 'Match'
+			selection_durations = 0
+		if is_undo == 1:
+			word_class = 'Undo'
+		sample_distance = my_pos.caln_sample_dist(gesture_pos[i], std_word)
+		start_distance = my_pos.caln_dist(gesture_pos[i][0], my_pos.get_pos(std_word[0]))
+		end_distance = my_pos.caln_dist(gesture_pos[i][len(gesture_pos[i]) - 1], my_pos.get_pos(std_word[len(std_word) - 1]))
+		gesture_length = my_pos.caln_length(gesture_pos[i])
+		gesture_speed = gesture_length / gesture_durations
+		return technique + ', ' + std_word + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(gesture_durations) + ', ' + str(selection_durations) + ', ' + str(sample_distance) + ', ' + str(start_distance) + ', ' + str(end_distance) + ', ' + str(gesture_length) + ', ' + str(gesture_speed) + '\n'
+	if technique == 'baseline' or technique == 'dwell':
+		tapping_durations = gesture_end_time[i] - start_time[i]
+		if select_word[i] == 1:
+			word_class = 'Select'
+		else:
+			word_class = 'Click'
+		if is_undo == 1:
+			word_class = 'Undo'
+		selection_durations = end_time[i] - gesture_end_time[i]
+		point_distance = 0
+		length = min(len(gesture_pos[i]), len(std_word))
+		if length > 0:
+			for j in range(0, length):
+				point_distance = point_distance + my_pos.caln_dist(gesture_pos[i][j], my_pos.get_pos(std_word[j]))
+			point_distance = point_distance / length
+		gesture_length = my_pos.caln_length(gesture_pos[i])
+		return technique + ', ' + std_word + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(tapping_durations) + ', ' + str(selection_durations) + ', ' + str(point_distance) + ', ' + str(gesture_length) + '\n'
+
 inp = file(file_name + '.txt', 'r')
 lines = inp.readlines()
 inp.close()
 
 oup = file('result_' + file_name + '.txt', 'w')
-oup.write('user, technique, session, index, phrase, rate, error\n')
+oup.write('user, technique, session, index, phrase, rate, error, undo\n')
 
 if technique == 'normal':
 	woup = file('gesture_' + file_name + '.txt', 'w')
@@ -31,8 +83,11 @@ if technique == 'baseline' or technique == 'dwell':
 	woup.write('technique, word, len, class, correct, tapping_durations, selection_durations, point_distance, gesture_length\n')
 
 word_cnt = 0
+undo_cnt = 0
+curr_phrase_index = 0
 session_start = [0 for i in range(0, MAXN)]
 phrase_start = [0 for i in range(0, MAXN)]
+phrase_undo = [0 for i in range(0, MAXN)]
 select_word = [0 for i in range(0, MAXN)]
 start_time = [-1 for i in range(0, MAXN)]
 gesture_end_time = [-1 for i in range(0, MAXN)]
@@ -40,6 +95,7 @@ gesture_pos = [[] for i in range(0, MAXN)]
 end_time = [-1 for i in range(0, MAXN)]
 words = ['' for i in range(0, MAXN)]
 phrases = ['' for i in range(0, MAXN)]
+undo_buffer = ['' for i in range(0, MAXN)]
 
 if technique == 'normal':
 	for i in range(0, len(lines)):
@@ -49,8 +105,10 @@ if technique == 'normal':
 			session_start[word_cnt] = 1
 
 		if get_cmd(i) == 'phrase':
+			write_undo()
 			phrase_start[word_cnt] = 1
 			phrases[word_cnt] = get_result(i)
+			curr_phrase_index = word_cnt
 
 		if get_cmd(i) == 'gestureStart':
 			if start_time[word_cnt] == -1 or phrase_start[word_cnt] == 1:
@@ -75,7 +133,17 @@ if technique == 'normal':
 		if get_cmd(i) == 'delete':
 			if phrase_start[word_cnt] == 0:
 				word_cnt = word_cnt - 1
+				if phrase_start[word_cnt] == 1:
+					undo_cnt = 0
+					phrase_undo[word_cnt] = 1
+				else:
+					std_word = get_word_by_index(phrases[curr_phrase_index], word_cnt - curr_phrase_index)
+					if std_word != '':
+						undo_buffer[undo_cnt] = word_output(word_cnt, std_word, words[word_cnt], 1)
+						undo_cnt = undo_cnt + 1
 				select_word[word_cnt] = 0
+				start_time[word_cnt] = -1
+	write_undo()
 
 if technique == 'baseline' or technique == 'dwell':
 	for i in range(0, len(lines)):
@@ -88,11 +156,13 @@ if technique == 'baseline' or technique == 'dwell':
 			session_start[word_cnt] = 1
 
 		if get_cmd(i) == 'phrase':
+			write_undo()
 			if words[word_cnt] != '':
 				end_time[word_cnt] = get_time(i - 1)
 				word_cnt = word_cnt + 1
 			phrase_start[word_cnt] = 1
 			phrases[word_cnt] = get_result(i)
+			curr_phrase_index = word_cnt
 
 		if get_cmd(i) == 'letter' and get_result(i) == ' ':
 			end_time[word_cnt] = get_time(i)
@@ -120,14 +190,24 @@ if technique == 'baseline' or technique == 'dwell':
 			if words[word_cnt] == '':
 				if phrase_start[word_cnt] == 0:
 					word_cnt = word_cnt - 1
+					if phrase_start[word_cnt] == 1:
+						undo_cnt = 0
+						phrase_undo[word_cnt] = 1
+					else:
+						std_word = get_word_by_index(phrases[curr_phrase_index], word_cnt - curr_phrase_index)
+						if std_word != '':
+							undo_buffer[undo_cnt] = word_output(word_cnt, std_word, words[word_cnt], 1)
+							undo_cnt = undo_cnt + 1
 					words[word_cnt] = ''
 					select_word[word_cnt] = 0
+					start_time[word_cnt] = -1
 			else:
 				words[word_cnt] = words[word_cnt][0 : len(words[word_cnt]) - 1]
 				gesture_pos[word_cnt] = gesture_pos[word_cnt][0 : len(gesture_pos[word_cnt]) - 1]
 	if words[word_cnt] != '':
 		end_time[word_cnt] = get_time(len(lines) - 1)
 		word_cnt = word_cnt + 1
+	write_undo()
 
 letter_cnt = 0
 total_time = 0
@@ -148,6 +228,10 @@ for i in range(0, word_cnt):
 		word_time = end_time[i] - start_time[i]
 		phrase_index = phrase_index + 1
 		word_index = 0
+		if phrase_undo[i] == 1:
+			is_undo = 'Yes'
+		else:
+			is_undo = 'No'
 	else:
 		word_time = end_time[i] - end_time[i - 1]
 
@@ -158,47 +242,13 @@ for i in range(0, word_cnt):
 	else:
 		phrase = phrase + ' ' + word
 
-	std_phrase_tags = std_phrase.split(' ')
-	if word_index < len(std_phrase_tags):
-		std_word = std_phrase.split(' ')[word_index]
-	if std_word == word:
-		correct = 'Yes'
-	else:
-		correct = 'No'
-	if technique == 'normal':
-		gesture_durations = gesture_end_time[i] - start_time[i]
-		if select_word[i] == 1:
-			word_class = 'Select'
-			selection_durations = end_time[i] - gesture_end_time[i]
-		else:
-			word_class = 'Match'
-			selection_durations = 0
-		sample_distance = my_pos.caln_sample_dist(gesture_pos[i], std_word)
-		start_distance = my_pos.caln_dist(gesture_pos[i][0], my_pos.get_pos(std_word[0]))
-		end_distance = my_pos.caln_dist(gesture_pos[i][len(gesture_pos[i]) - 1], my_pos.get_pos(std_word[len(std_word) - 1]))
-		gesture_length = my_pos.caln_length(gesture_pos[i])
-		gesture_speed = gesture_length / gesture_durations
-		woup.write(technique + ', ' + std_word + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(gesture_durations) + ', ' + str(selection_durations) + ', ' + str(sample_distance) + ', ' + str(start_distance) + ', ' + str(end_distance) + ', ' + str(gesture_length) + ', ' + str(gesture_speed) + '\n')
-	if technique == 'baseline' or technique == 'dwell':
-		tapping_durations = gesture_end_time[i] - start_time[i]
-		if select_word[i] == 1:
-			word_class = 'Select'
-		else:
-			word_class = 'Click'
-		selection_durations = end_time[i] - gesture_end_time[i]
-		point_distance = 0
-		length = min(len(gesture_pos[i]), len(std_word))
-		if length > 0:
-			for j in range(0, length):
-				point_distance = point_distance + my_pos.caln_dist(gesture_pos[i][j], my_pos.get_pos(std_word[j]))
-			point_distance = point_distance / length
-		gesture_length = my_pos.caln_length(gesture_pos[i])
-		woup.write(technique + ', ' + std_word + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(tapping_durations) + ', ' + str(selection_durations) + ', ' + str(point_distance) + ', ' + str(gesture_length) + '\n')
-
+	std_word = get_word_by_index(std_phrase, word_index)
+	woup.write(word_output(i, std_word, word, 0))
+	
 	if i == word_cnt - 1 or phrase_start[i + 1] == 1:
 		rate = letter_cnt / total_time * 12
 		err = msd.msd(phrase, std_phrase)
-		oup.write(userName + ', ' + technique + ', ' + str(session_index) + ', ' + str(phrase_index) + ', ' + phrase + ', ' + str(rate) + ', ' + str(err) + '\n')
+		oup.write(userName + ', ' + technique + ', ' + str(session_index) + ', ' + str(phrase_index) + ', ' + phrase + ', ' + str(rate) + ', ' + str(err) + ', ' + is_undo + '\n')
 		letter_cnt = 0
 		total_time = 0
 		phrase = ''
