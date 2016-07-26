@@ -168,11 +168,11 @@ for i in range(0, word_cnt):
 	if technique == 'normal':
 		gesture_durations = gesture_end_time[i] - start_time[i]
 		if select_word[i] == 1:
-			word_class = 'Match'
-			selection_durations = 0
-		else:
 			word_class = 'Select'
 			selection_durations = end_time[i] - gesture_end_time[i]
+		else:
+			word_class = 'Match'
+			selection_durations = 0
 		sample_distance = my_pos.caln_sample_dist(gesture_pos[i], std_word)
 		start_distance = my_pos.caln_dist(gesture_pos[i][0], my_pos.get_pos(std_word[0]))
 		end_distance = my_pos.caln_dist(gesture_pos[i][len(gesture_pos[i]) - 1], my_pos.get_pos(std_word[len(std_word) - 1]))
@@ -182,9 +182,9 @@ for i in range(0, word_cnt):
 	if technique == 'baseline' or technique == 'dwell':
 		tapping_durations = gesture_end_time[i] - start_time[i]
 		if select_word[i] == 1:
-			word_class = 'Click'
-		else:
 			word_class = 'Select'
+		else:
+			word_class = 'Click'
 		selection_durations = end_time[i] - gesture_end_time[i]
 		point_distance = 0
 		length = min(len(gesture_pos[i]), len(std_word))
