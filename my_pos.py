@@ -49,7 +49,7 @@ def caln_sample_dist(pos_list, str):
 		word_pos_list.append(get_pos(str[i]))
 
 	pos_list = sample_pos(pos_list)
-	word_pos_list = sample_pos(pos_list)
+	word_pos_list = sample_pos(word_pos_list)
 
 	length = 0
 	for i in range(0, len(pos_list)):
