@@ -28,7 +28,7 @@ if technique == 'normal':
 	woup.write('technique, word, len, class, correct, gesture_durations, selection_durations, sample_distance, start_distance, end_distance, gesture_length, gesture_speed\n')
 if technique == 'baseline' or technique == 'dwell':
 	woup = file('tapping_' + file_name + '.txt', 'w')
-	woup.write('technique, word, len, class, correct, tapping_durations, selection_durations, dx, dy\n')
+	woup.write('technique, word, len, class, correct, tapping_durations, selection_durations, point_distance, gesture_length\n')
 
 word_cnt = 0
 session_start = [0 for i in range(0, MAXN)]
@@ -108,9 +108,14 @@ if technique == 'baseline' or technique == 'dwell':
 			if words[word_cnt] == '':
 				if start_time[word_cnt] == -1 or phrase_start[word_cnt] == 1:
 					start_time[word_cnt] = get_time(i)
+				gesture_pos[word_cnt] = []
 			words[word_cnt] = words[word_cnt] + get_result(i)
 			gesture_end_time[word_cnt] = get_time(i)
 		
+		if get_cmd(i) == 'pos':
+			if i > 0 and get_cmd(i - 1) == 'letter':
+				gesture_pos[word_cnt].append(my_pos.ana_pos(get_result(i)))
+
 		if get_cmd(i) == 'delete':
 			if words[word_cnt] == '':
 				if phrase_start[word_cnt] == 0:
@@ -119,6 +124,7 @@ if technique == 'baseline' or technique == 'dwell':
 					select_word[word_cnt] = 0
 			else:
 				words[word_cnt] = words[word_cnt][0 : len(words[word_cnt]) - 1]
+				gesture_pos[word_cnt] = gesture_pos[word_cnt][0 : len(gesture_pos[word_cnt]) - 1]
 	if words[word_cnt] != '':
 		end_time[word_cnt] = get_time(len(lines) - 1)
 		word_cnt = word_cnt + 1
@@ -180,7 +186,14 @@ for i in range(0, word_cnt):
 		else:
 			word_class = 'Select'
 		selection_durations = end_time[i] - gesture_end_time[i]
-		woup.write(technique + ', ' + std_word + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(tapping_durations) + ', ' + str(selection_durations) + '\n')
+		point_distance = 0
+		length = min(len(gesture_pos[i]), len(std_word))
+		if length > 0:
+			for j in range(0, length):
+				point_distance = point_distance + my_pos.caln_dist(gesture_pos[i][j], my_pos.get_pos(std_word[j]))
+			point_distance = point_distance / length
+		gesture_length = my_pos.caln_length(gesture_pos[i])
+		woup.write(technique + ', ' + std_word + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(tapping_durations) + ', ' + str(selection_durations) + ', ' + str(point_distance) + ', ' + str(gesture_length) + '\n')
 
 	if i == word_cnt - 1 or phrase_start[i + 1] == 1:
 		rate = letter_cnt / total_time * 12
