@@ -119,8 +119,9 @@ if technique == 'baseline' or technique == 'dwell':
 					select_word[word_cnt] = 0
 			else:
 				words[word_cnt] = words[word_cnt][0 : len(words[word_cnt]) - 1]
-	end_time[word_cnt] = get_time(len(lines) - 1)
-	word_cnt = word_cnt + 1
+	if words[word_cnt] != '':
+		end_time[word_cnt] = get_time(len(lines) - 1)
+		word_cnt = word_cnt + 1
 
 letter_cnt = 0
 total_time = 0
