@@ -1,0 +1,361 @@
+user, technique, size, speed, session, index, phrase, rate, error, undo
+cyk, normal, 0.6, 1.5, 1, 1, this leather jacket is too warm, 10.6326059768, 0.0, Yes
+cyk, normal, 0.6, 1.5, 1, 2, the presidential suite is very busy, 7.5943759427, 0.0, No
+cyk, normal, 0.6, 1.5, 1, 3, the back yard of our house, 8.22357686434, 0.0, No
+cyk, normal, 0.6, 1.5, 1, 4, universities are too expensive, 12.8413459633, 0.0, No
+cyk, normal, 0.6, 1.5, 1, 5, the force is with you, 7.55457625863, 0.0, No
+cyk, normal, 0.6, 1.5, 1, 6, the power of denial, 11.2762083749, 0.0, No
+cyk, normal, 0.6, 1.5, 1, 7, consequences of a wrong turn, 11.3747669753, 0.0, No
+cyk, normal, 0.6, 1.5, 1, 8, the accident scene is a shrine for fans, 10.942820911, 0.0, No
+cyk, normal, 0.8, 1.5, 2, 1, he is still on our team, 7.92186691997, 0.0, No
+cyk, normal, 0.8, 1.5, 2, 2, the music is better than it sounds, 11.1870603003, 0.0, No
+cyk, normal, 0.8, 1.5, 2, 3, an occasional taste of chocolate, 11.5251237407, 0.0, No
+cyk, normal, 0.8, 1.5, 2, 4, traveling requires a lot of fuel, 8.88535424865, 0.0, No
+cyk, normal, 0.8, 1.5, 2, 5, do you like to go camping, 11.592018895, 0.0, No
+cyk, normal, 0.8, 1.5, 2, 6, the forth edition was better, 13.1915848682, 0.0357142857143, No
+cyk, normal, 0.8, 1.5, 2, 7, this is too much to handle, 10.3416011425, 0.0, No
+cyk, normal, 0.8, 1.5, 2, 8, you must make an appointment, 10.8862462862, 0.0, No
+cyk, normal, 0.4, 1.5, 3, 1, a yard is almost as a meter, 8.21507858114, 0.0, No
+cyk, normal, 0.4, 1.5, 3, 2, the punishment should fit the crime, 8.40136102049, 0.0, No
+cyk, normal, 0.4, 1.5, 3, 3, frequently asked questions, 13.7667962084, 0.0, No
+cyk, normal, 0.4, 1.5, 3, 4, what you see is what you get, 9.72733971997, 0.0, No
+cyk, normal, 0.4, 1.5, 3, 5, want to join us for lunch, 10.16002032, 0.0, No
+cyk, normal, 0.4, 1.5, 3, 6, destruction of the rain forest, 14.6265997844, 0.0, No
+cyk, normal, 0.4, 1.5, 3, 7, presidents drive expensive cars, 8.88794836525, 0.0, No
+cyk, normal, 0.4, 1.5, 3, 8, my favorite place to visit, 11.2888052681, 0.0, No
+cyk, normal, 0.6, 2.0, 4, 1, a very traditional way to dress, 12.1024049651, 0.0, No
+cyk, normal, 0.6, 2.0, 4, 2, please try to be home before midnight, 14.5238745949, 0.0, No
+cyk, normal, 0.6, 2.0, 4, 3, be persistent to win as strike, 8.04289544236, 0.0333333333333, Yes
+cyk, normal, 0.6, 2.0, 4, 4, what to do when the oil runs dry, 8.44594594595, 0.0, No
+cyk, normal, 0.6, 2.0, 4, 5, an airport is a very busy place, 8.59869873026, 0.0, No
+cyk, normal, 0.6, 2.0, 4, 6, yes you are very smart, 12.138241079, 0.0, No
+cyk, normal, 0.6, 2.0, 4, 7, are you talking to me, 13.4166392634, 0.0, No
+cyk, normal, 0.6, 2.0, 4, 8, the price of gas is high, 11.4199849737, 0.0, No
+cyk, normal, 0.8, 2.0, 5, 1, accompanied by an adult, 11.2856202389, 0.0, No
+cyk, normal, 0.8, 2.0, 5, 2, you have my sympathy, 11.9284294235, 0.0, No
+cyk, normal, 0.8, 2.0, 5, 3, sign the withdrawal slip, 13.143483023, 0.0, No
+cyk, normal, 0.8, 2.0, 5, 4, electric cars need big fuel cells, 12.6059878442, 0.0, No
+cyk, normal, 0.8, 2.0, 5, 5, effort is what it will take, 10.4109156874, 0.0, No
+cyk, normal, 0.8, 2.0, 5, 6, fish are jumping, 15.4895814125, 0.0, No
+cyk, normal, 0.8, 2.0, 5, 7, the quick brown fox jumped, 10.2048705064, 0.0, No
+cyk, normal, 0.8, 2.0, 5, 8, for murder you get a long prison sentence, 11.0434429557, 0.0, No
+cyk, normal, 0.4, 2.0, 6, 1, players must know all the rules, 13.5310954983, 0.0, No
+cyk, normal, 0.4, 2.0, 6, 2, we went grocery shopping, 16.6765932102, 0.0, No
+cyk, normal, 0.4, 2.0, 6, 3, take it to the recycling depot, 10.3071531643, 0.0, No
+cyk, normal, 0.4, 2.0, 6, 4, beautiful paintings in the gallery, 14.6484375, 0.0, No
+cyk, normal, 0.4, 2.0, 6, 5, make up a few more phrases, 8.97116411534, 0.0, No
+cyk, normal, 0.4, 2.0, 6, 6, staying up all night is a bad idea, 10.9466855869, 0.0, No
+cyk, normal, 0.4, 2.0, 6, 7, we have enough witnesses, 16.395575797, 0.0, No
+cyk, normal, 0.4, 2.0, 6, 8, interesting observation was made, 11.9460368679, 0.0, No
+cyk, normal, 0.6, 1.0, 7, 1, jumping right out of the water, 11.1453728127, 0.0, No
+cyk, normal, 0.6, 1.0, 7, 2, employee recruitment takes a lot of effort, 13.4061569017, 0.0, No
+cyk, normal, 0.6, 1.0, 7, 3, a correction had to be published, 14.5788336933, 0.0, No
+cyk, normal, 0.6, 1.0, 7, 4, the union will go on strike, 14.290354011, 0.0, No
+cyk, normal, 0.6, 1.0, 7, 5, watch out for low flying objects, 13.8178096213, 0.0, No
+cyk, normal, 0.6, 1.0, 7, 6, parking tickets can be challenged, 12.9319955407, 0.0, Yes
+cyk, normal, 0.6, 1.0, 7, 7, on the way to the cottage, 9.49855542803, 0.0, No
+cyk, normal, 0.6, 1.0, 7, 8, the dog buried the bone, 13.0367659672, 0.0, No
+cyk, normal, 0.8, 1.0, 8, 1, if aft first you do not succeed, 13.1787032156, 0.0322580645161, No
+cyk, normal, 0.8, 1.0, 8, 2, gun powder must be handled with care, 13.347174848, 0.0, No
+cyk, normal, 0.8, 1.0, 8, 3, interactions between men and women, 14.3426294821, 0.0, No
+cyk, normal, 0.8, 1.0, 8, 4, do you get nervous when you speak, 10.4408352668, 0.0, No
+cyk, normal, 0.8, 1.0, 8, 5, well connected with people, 14.960971379, 0.0, No
+cyk, normal, 0.8, 1.0, 8, 6, the living is easy, 10.2447353443, 0.0, No
+cyk, normal, 0.8, 1.0, 8, 7, you want to eat your cake, 8.29244696289, 0.0, No
+cyk, normal, 0.8, 1.0, 8, 8, most judges are very honest, 13.9337641357, 0.0, No
+cyk, normal, 0.4, 1.0, 9, 1, prevailing wind from the east, 11.3169112377, 0.0, Yes
+cyk, normal, 0.4, 1.0, 9, 2, an offer you cannot refuse, 10.752688172, 0.0, No
+cyk, normal, 0.4, 1.0, 9, 3, this person is a disaster, 12.4801901743, 0.0, No
+cyk, normal, 0.4, 1.0, 9, 4, tell a lie and your nose will grow, 10.162792886, 0.0, No
+cyk, normal, 0.4, 1.0, 9, 5, the cream rides to the top, 12.8061794898, 0.0384615384615, No
+cyk, normal, 0.4, 1.0, 9, 6, the winner of the race, 11.1271378529, 0.0, No
+cyk, normal, 0.4, 1.0, 9, 7, every apple from every tree, 18.5658549711, 0.0, No
+cyk, normal, 0.4, 1.0, 9, 8, a much higher risk of getting cancer, 12.1400148378, 0.0, No
+gyz, normal, 0.6, 1.5, 1, 1, do not drink the water, 18.7414589705, 0.0, No
+gyz, normal, 0.6, 1.5, 1, 2, the back yard of our house, 16.0927864085, 0.0, No
+gyz, normal, 0.6, 1.5, 1, 3, sharp cheese keeps the mind sharp, 20.9888496736, 0.0, No
+gyz, normal, 0.6, 1.5, 1, 4, protect your environment, 15.0856280821, 0.0, No
+gyz, normal, 0.6, 1.5, 1, 5, do you prefer a window seat, 19.3439187555, 0.0, No
+gyz, normal, 0.6, 1.5, 1, 6, is there any indication of this, 19.5335733292, 0.0, No
+gyz, normal, 0.6, 1.5, 1, 7, world population is growing, 15.1113676312, 0.0, No
+gyz, normal, 0.6, 1.5, 1, 8, superman never wore a mask, 17.2093478048, 0.0, No
+gyz, normal, 0.8, 1.5, 2, 1, gun powder must be handled with care, 17.4372139207, 0.0, No
+gyz, normal, 0.8, 1.5, 2, 2, a problem with the engine, 22.2320247022, 0.0, No
+gyz, normal, 0.8, 1.5, 2, 3, the winner of the race, 25.8240378753, 0.0, No
+gyz, normal, 0.8, 1.5, 2, 4, we run the risk of failure, 18.0778639426, 0.0, No
+gyz, normal, 0.8, 1.5, 2, 5, they watched the entire movie, 24.1345743868, 0.0, No
+gyz, normal, 0.8, 1.5, 2, 6, my watch fell in the water, 23.987891826, 0.0, No
+gyz, normal, 0.8, 1.5, 2, 7, a subject one can really enjoy, 24.0743415668, 0.0, No
+gyz, normal, 0.8, 1.5, 2, 8, want to join us for lunch, 19.7322984839, 0.0, No
+gyz, normal, 0.4, 1.5, 3, 1, a little encouragement is needed, 21.9170933759, 0.0, No
+gyz, normal, 0.4, 1.5, 3, 2, every apple from every tree, 18.6693362916, 0.0, No
+gyz, normal, 0.4, 1.5, 3, 3, teaching services will help, 19.9276239768, 0.0, No
+gyz, normal, 0.4, 1.5, 3, 4, question that must be answered, 20.3513212052, 0.0, No
+gyz, normal, 0.4, 1.5, 3, 5, the trains are always late, 20.3719422795, 0.0, No
+gyz, normal, 0.4, 1.5, 3, 6, life is but a dream, 18.6100370133, 0.0, No
+gyz, normal, 0.4, 1.5, 3, 7, popularity is desired by all, 20.1646782053, 0.0, No
+gyz, normal, 0.4, 1.5, 3, 8, you must make an appointment, 20.6659012629, 0.0, No
+gyz, normal, 0.6, 2.0, 4, 1, this is a very good idea, 15.9643742385, 0.0, No
+gyz, normal, 0.6, 2.0, 4, 2, well contacted with people, 23.6686390533, 0.0769230769231, No
+gyz, normal, 0.6, 2.0, 4, 3, the library is closed today, 19.1252286712, 0.0, No
+gyz, normal, 0.6, 2.0, 4, 4, do not say anything, 18.6400528135, 0.0, No
+gyz, normal, 0.6, 2.0, 4, 5, my car always brakes in the winter, 15.1645078305, 0.0588235294118, No
+gyz, normal, 0.6, 2.0, 4, 6, where did you get that tie, 18.241306425, 0.0, No
+gyz, normal, 0.6, 2.0, 4, 7, it is difficult to concentrate, 22.1069636936, 0.0, No
+gyz, normal, 0.6, 2.0, 4, 8, quit while you are ahead, 20.0447666455, 0.0, No
+gyz, normal, 0.8, 2.0, 5, 1, you are a wonderful example, 23.0224468857, 0.0, No
+gyz, normal, 0.8, 2.0, 5, 2, in sharp contract to your words, 19.7413378553, 0.0322580645161, No
+gyz, normal, 0.8, 2.0, 5, 3, user friendly interface, 27.2821756452, 0.0, No
+gyz, normal, 0.8, 2.0, 5, 4, what a monkey sees a monkey will do, 16.4196390611, 0.0, Yes
+gyz, normal, 0.8, 2.0, 5, 5, he cooled off after she left, 18.2514333327, 0.0, No
+gyz, normal, 0.8, 2.0, 5, 6, the cream rises to the top, 17.3679313553, 0.0, No
+gyz, normal, 0.8, 2.0, 5, 7, the bus was very crowded, 15.7669642681, 0.0, No
+gyz, normal, 0.8, 2.0, 5, 8, we accept personal check, 16.3792711224, 0.0416666666667, No
+gyz, normal, 0.4, 2.0, 6, 1, you will loose your voice, 13.8697781936, 0.0, No
+gyz, normal, 0.4, 2.0, 6, 2, this is a non profit organization, 17.8885162115, 0.0, No
+gyz, normal, 0.4, 2.0, 6, 3, interesting observation was made, 20.516448532, 0.0, No
+gyz, normal, 0.4, 2.0, 6, 4, this system of taxation, 18.0927252167, 0.0, No
+gyz, normal, 0.4, 2.0, 6, 5, never mix religion and politics, 20.5258156478, 0.0, No
+gyz, normal, 0.4, 2.0, 6, 6, an excellent way to communicate, 17.7963308799, 0.0, Yes
+gyz, normal, 0.4, 2.0, 6, 7, he is just like everyone else, 18.0168908352, 0.0, No
+gyz, normal, 0.4, 2.0, 6, 8, breathing is difficult, 19.2740122069, 0.0, No
+gyz, normal, 0.6, 1.0, 7, 1, the elevator door appears to be stuck, 15.6922298152, 0.0, No
+gyz, normal, 0.6, 1.0, 7, 2, exceed the maximum speed limit, 22.6201696513, 0.0, No
+gyz, normal, 0.6, 1.0, 7, 3, do not drink too much, 20.0432304972, 0.0, No
+gyz, normal, 0.6, 1.0, 7, 4, sing the gospel and the blues, 16.5631469979, 0.0, No
+gyz, normal, 0.6, 1.0, 7, 5, take a coffee break, 19.937694704, 0.0, No
+gyz, normal, 0.6, 1.0, 7, 6, this watch is too expensive, 21.2930103379, 0.0, No
+gyz, normal, 0.6, 1.0, 7, 7, are you talking to me, 17.7839769854, 0.0, No
+gyz, normal, 0.6, 1.0, 7, 8, are you sure you want this, 20.9111277072, 0.0, No
+gyz, normal, 0.8, 1.0, 8, 1, on the way to the cottage, 18.395033341, 0.0, No
+gyz, normal, 0.8, 1.0, 8, 2, the sum of the parts, 21.8928164196, 0.0, No
+gyz, normal, 0.8, 1.0, 8, 3, a picture is worth many words, 21.5568862275, 0.0, No
+gyz, normal, 0.8, 1.0, 8, 4, make up a few more phrase, 18.539976825, 0.04, No
+gyz, normal, 0.8, 1.0, 8, 5, construction makes traveling difficult, 25.8541089566, 0.0, No
+gyz, normal, 0.8, 1.0, 8, 6, the protesters blocked all traffic, 18.7051854931, 0.0, No
+gyz, normal, 0.8, 1.0, 8, 7, come and see our new car, 16.5121668598, 0.0, No
+gyz, normal, 0.8, 1.0, 8, 8, an airport is a very busy place, 18.4501845018, 0.0, No
+gyz, normal, 0.4, 1.0, 9, 1, rent is paid at the belonging of the month, 18.8330871492, 0.0714285714286, No
+gyz, normal, 0.4, 1.0, 9, 2, watch out for low flying objects, 21.7668794088, 0.0, No
+gyz, normal, 0.4, 1.0, 9, 3, the cotton is high, 23.1541034217, 0.0, No
+gyz, normal, 0.4, 1.0, 9, 4, the accident scene is a shrine for fans, 16.2230671736, 0.0, No
+gyz, normal, 0.4, 1.0, 9, 5, shall we pay a round odd cards, 17.5310445581, 0.1, No
+gyz, normal, 0.4, 1.0, 9, 6, yes you are very smart, 18.3751595066, 0.0, No
+gyz, normal, 0.4, 1.0, 9, 7, we went grocery shopping, 10.7899807322, 0.0, No
+gyz, normal, 0.4, 1.0, 9, 8, jumping right out of the water, 22.0978196818, 0.0, No
+hx, normal, 0.8, 2.0, 1, 1, make up a few more phrases, 10.4705080689, 0.0, Yes
+hx, normal, 0.8, 2.0, 1, 2, find a nearby parking spot, 8.14379976124, 0.0, No
+hx, normal, 0.8, 2.0, 1, 3, frequently asked questions, 8.8812959291, 0.0, No
+hx, normal, 0.8, 2.0, 1, 4, traveling requires a lot of fuel, 9.66561160351, 0.0, No
+hx, normal, 0.8, 2.0, 1, 5, teaching services will help, 11.1984695425, 0.0, Yes
+hx, normal, 0.8, 2.0, 1, 6, love means many things, 12.1201167359, 0.0, No
+hx, normal, 0.8, 2.0, 1, 7, just like it says on the can good, 11.1883297115, 0.0, No
+hx, normal, 0.8, 2.0, 1, 8, want to join us for lunch, 13.558939013, 0.0, No
+hx, normal, 0.4, 2.0, 2, 1, we missed hour birthday, 9.74904337512, 0.0434782608696, Yes
+hx, normal, 0.4, 2.0, 2, 2, he cooled off after she left, 8.36934273368, 0.0, No
+hx, normal, 0.4, 2.0, 2, 3, pay off a mortgage fort as house, 8.43927508791, 0.0625, No
+hx, normal, 0.4, 2.0, 2, 4, take it to the recycling depot, 7.99652417749, 0.0, No
+hx, normal, 0.4, 2.0, 2, 5, a good response to the question, 10.3535814432, 0.0, No
+hx, normal, 0.4, 2.0, 2, 6, the quick brown fox jumped, 7.7321399283, 0.0, No
+hx, normal, 0.4, 2.0, 2, 7, do not say anything, 7.45139131447, 0.0, No
+hx, normal, 0.4, 2.0, 2, 8, house with new electrical panel, 9.63110490176, 0.0, Yes
+hx, normal, 0.6, 2.0, 3, 1, a fox is a very smart animal, 10.9276046194, 0.0, No
+hx, normal, 0.6, 2.0, 3, 2, gas bills are sent money, 11.944458269, 0.125, Yes
+hx, normal, 0.6, 2.0, 3, 3, breaking us difficult, 13.0352752844, 0.142857142857, No
+hx, normal, 0.6, 2.0, 3, 4, please follow the guidelines, 11.6364764749, 0.0, No
+hx, normal, 0.6, 2.0, 3, 5, fish are jumping, 11.6351547891, 0.0, No
+hx, normal, 0.6, 2.0, 3, 6, sad took hear that news, 13.2635253054, 0.0869565217391, No
+hx, normal, 0.6, 2.0, 3, 7, sing the gospel and the blues, 12.1662723893, 0.0, Yes
+hx, normal, 0.6, 2.0, 3, 8, do you get neurons when you speak, 9.99783997285, 0.0909090909091, No
+hx, normal, 0.8, 1.0, 4, 1, space is a high priority, 10.4139546993, 0.0, No
+hx, normal, 0.8, 1.0, 4, 2, the winners of the race, 10.9075252356, 0.0434782608696, No
+hx, normal, 0.8, 1.0, 4, 3, universities were toll expensive, 9.37171787898, 0.125, No
+hx, normal, 0.8, 1.0, 4, 4, the elevator door appears to be stuck, 10.9802532542, 0.0, No
+hx, normal, 0.8, 1.0, 4, 5, have a good weekend, 6.23801942883, 0.0, No
+hx, normal, 0.8, 1.0, 4, 6, gun power midst be handles with care, 14.8062844452, 0.111111111111, No
+hx, normal, 0.8, 1.0, 4, 7, for murder you get a long prison sentence, 11.5033269426, 0.0, No
+hx, normal, 0.8, 1.0, 4, 8, the union will go on strike, 9.01423839929, 0.0, No
+hx, normal, 0.4, 1.0, 5, 1, historic merging without a fault, 12.6534608722, 0.15625, No
+hx, normal, 0.4, 1.0, 5, 2, be home vector midnight, 14.4057623049, 0.173913043478, No
+hx, normal, 0.4, 1.0, 5, 3, the rendition presided its over, 11.5875683988, 0.354838709677, No
+hx, normal, 0.4, 1.0, 5, 4, a pictures us worth many words, 11.5727346372, 0.0666666666667, Yes
+hx, normal, 0.4, 1.0, 5, 5, zero is on the facts, 12.2059758423, 0.05, No
+hx, normal, 0.4, 1.0, 5, 6, drain rain go away, 13.0529369108, 0.0555555555556, No
+hx, normal, 0.4, 1.0, 5, 7, project your environment, 12.3659187784, 0.0416666666667, No
+hx, normal, 0.4, 1.0, 5, 8, hans on experience with a job, 10.5890138981, 0.0344827586207, No
+hx, normal, 0.6, 1.0, 6, 1, very reluctant to enter, 13.0046057979, 0.0, No
+hx, normal, 0.6, 1.0, 6, 2, a much higher risk of getting cancer, 14.8631352958, 0.0, No
+hx, normal, 0.6, 1.0, 6, 3, may bare face in the wind, 12.7673156719, 0.04, No
+hx, normal, 0.6, 1.0, 6, 4, public transit is much faster, 12.7986348123, 0.0, Yes
+hx, normal, 0.6, 1.0, 6, 5, effort is what it will take, 11.1524163569, 0.0, No
+hx, normal, 0.6, 1.0, 6, 6, watch our for low flying objects, 12.2393472348, 0.03125, No
+hx, normal, 0.6, 1.0, 6, 7, my favorite subject is psychology, 13.0161579892, 0.0, No
+hx, normal, 0.6, 1.0, 6, 8, the power of denial, 14.0752144271, 0.0, No
+hx, normal, 0.8, 1.5, 7, 1, always cover all the bases, 12.8242494899, 0.0, No
+hx, normal, 0.8, 1.5, 7, 2, my watch fell in the water, 13.1640808651, 0.0, Yes
+hx, normal, 0.8, 1.5, 7, 3, machinery is too complicated, 12.9010062785, 0.0, No
+hx, normal, 0.8, 1.5, 7, 4, the food at this restaurant, 12.9601803156, 0.0, No
+hx, normal, 0.8, 1.5, 7, 5, construction makers traveling difficult, 14.910948502, 0.025641025641, No
+hx, normal, 0.8, 1.5, 7, 6, our silver anniversary is coming, 13.270666298, 0.0, No
+hx, normal, 0.8, 1.5, 7, 7, they watched the entire movie, 15.0232860934, 0.0, Yes
+hx, normal, 0.8, 1.5, 7, 8, in sharp contrast to your words, 10.9331744752, 0.0, Yes
+hx, normal, 0.4, 1.5, 8, 1, a little encouragement is needed, 11.8685976687, 0.0, Yes
+hx, normal, 0.4, 1.5, 8, 2, parking lot its full poet tricks, 12.443352024, 0.15625, No
+hx, normal, 0.4, 1.5, 8, 3, drugs should bar avoided, 14.0, 0.0833333333333, No
+hx, normal, 0.4, 1.5, 8, 4, the capital off our nation, 7.57467076005, 0.0384615384615, No
+hx, normal, 0.4, 1.5, 8, 5, he its soil on our team, 9.98843930636, 0.130434782609, No
+hx, normal, 0.4, 1.5, 8, 6, the president suite is very busy, 11.7404065659, 0.09375, No
+hx, normal, 0.4, 1.5, 8, 7, accompanied by an alter, 13.6869118905, 0.173913043478, No
+hx, normal, 0.4, 1.5, 8, 8, it is difficult tip confederate, 11.0088002446, 0.161290322581, No
+hx, normal, 0.6, 1.5, 9, 1, all together in one big pine, 12.1388045916, 0.0357142857143, No
+hx, normal, 0.6, 1.5, 9, 2, exercise is god for the mind, 10.1302991375, 0.0357142857143, No
+hx, normal, 0.6, 1.5, 9, 3, information super highway, 14.2216725924, 0.0, No
+hx, normal, 0.6, 1.5, 9, 4, an offer you cannot refuse, 15.40436457, 0.0, No
+hx, normal, 0.6, 1.5, 9, 5, the sum of the paths, 12.6066973079, 0.1, No
+hx, normal, 0.6, 1.5, 9, 6, for your information only, 16.8582375479, 0.0, No
+hx, normal, 0.6, 1.5, 9, 7, we have enough witnesses, 14.6078488204, 0.0, No
+hx, normal, 0.6, 1.5, 9, 8, please try to be home before midnight, 13.5066443976, 0.0, Yes
+xwj, normal, 0.4, 1.0, 1, 1, electrons bring out the best, 22.6513036297, 0.0357142857143, Yes
+xwj, normal, 0.4, 1.0, 1, 2, space is a high priority, 16.9105782713, 0.0, Yes
+xwj, normal, 0.4, 1.0, 1, 3, safe to walk the streets in the evening, 19.6263831745, 0.0, Yes
+xwj, normal, 0.4, 1.0, 1, 4, am excellent way to communicate, 24.682517312, 0.0322580645161, No
+xwj, normal, 0.4, 1.0, 1, 5, yes you are very smart, 20.5963403355, 0.0, Yes
+xwj, normal, 0.4, 1.0, 1, 6, well connected with people, 20.5620287868, 0.0, No
+xwj, normal, 0.4, 1.0, 1, 7, a yard is almost as a meter, 18.893104017, 0.0, No
+xwj, normal, 0.4, 1.0, 1, 8, the objective of the exercise, 24.2708628292, 0.0, No
+xwj, normal, 0.6, 1.0, 2, 1, are you sure you want this, 19.8818136632, 0.0, No
+xwj, normal, 0.6, 1.0, 2, 2, my bike has a flat tire, 21.6989471992, 0.0, Yes
+xwj, normal, 0.6, 1.0, 2, 3, that land is owned by the government, 24.8233063265, 0.0, Yes
+xwj, normal, 0.6, 1.0, 2, 4, destruction of the rain forest, 26.4135928412, 0.0, No
+xwj, normal, 0.6, 1.0, 2, 5, superman never wore a mask, 27.6790488472, 0.0, No
+xwj, normal, 0.6, 1.0, 2, 6, physics and chemistry are hard, 25.9071659885, 0.0, No
+xwj, normal, 0.6, 1.0, 2, 7, you want to eat your cake, 23.7581421133, 0.0, Yes
+xwj, normal, 0.6, 1.0, 2, 8, teaching services will help, 31.1752416622, 0.0, No
+xwj, normal, 0.8, 1.0, 3, 1, accompanied by an adult, 27.1991658922, 0.0, No
+xwj, normal, 0.8, 1.0, 3, 2, the world is a stage, 22.2181077578, 0.0, Yes
+xwj, normal, 0.8, 1.0, 3, 3, my preferred treat is chocolate, 25.1732604034, 0.0, Yes
+xwj, normal, 0.8, 1.0, 3, 4, gun powder must be handled with care, 22.5878101118, 0.0, No
+xwj, normal, 0.8, 1.0, 3, 5, rapidly running short on words, 23.1735939867, 0.0, Yes
+xwj, normal, 0.8, 1.0, 3, 6, traveling to conferences is fun, 25.7807837677, 0.0, No
+xwj, normal, 0.8, 1.0, 3, 7, with each step forward, 26.7539690921, 0.0, No
+xwj, normal, 0.8, 1.0, 3, 8, companies announce a merger, 27.7464666609, 0.0, Yes
+xwj, normal, 0.4, 1.5, 4, 1, a little encouragement is needed, 22.565480188, 0.0, Yes
+xwj, normal, 0.4, 1.5, 4, 2, have a goods weekends, 24.8133256749, 0.0952380952381, No
+xwj, normal, 0.4, 1.5, 4, 3, come and see our new car, 18.6839301811, 0.0, Yes
+xwj, normal, 0.4, 1.5, 4, 4, a fox is a very smart animal, 18.8692731041, 0.0, No
+xwj, normal, 0.4, 1.5, 4, 5, no exchange without a bill, 26.1904761905, 0.0, Yes
+xwj, normal, 0.4, 1.5, 4, 6, where did you get that tie, 18.5389538733, 0.0, Yes
+xwj, normal, 0.4, 1.5, 4, 7, vote according to your conscience, 27.7335033471, 0.0, Yes
+xwj, normal, 0.4, 1.5, 4, 8, always cover all the bases, 19.6355522499, 0.0, Yes
+xwj, normal, 0.6, 1.5, 5, 1, they watched the entire movie, 30.5592339819, 0.0, No
+xwj, normal, 0.6, 1.5, 5, 2, exercise is good for the mind, 21.5778826703, 0.0, Yes
+xwj, normal, 0.6, 1.5, 5, 3, the music is better than it sounds, 23.5938487466, 0.0, No
+xwj, normal, 0.6, 1.5, 5, 4, on the way to the cottage, 25.0052094186, 0.0, No
+xwj, normal, 0.6, 1.5, 5, 5, popularity is desired by all, 31.6483516484, 0.0, No
+xwj, normal, 0.6, 1.5, 5, 6, presidents drive expensive cars, 26.5654648956, 0.0, Yes
+xwj, normal, 0.6, 1.5, 5, 7, the living is easy, 25.6081946223, 0.0, Yes
+xwj, normal, 0.6, 1.5, 5, 8, the children are playing, 31.2810327706, 0.0, Yes
+xwj, normal, 0.8, 1.5, 6, 1, do not lie in court or else, 22.6090077158, 0.0, Yes
+xwj, normal, 0.8, 1.5, 6, 2, the union will go on strike, 24.4173140954, 0.0, No
+xwj, normal, 0.8, 1.5, 6, 3, an offer you cannot refuse, 29.8136645963, 0.0, Yes
+xwj, normal, 0.8, 1.5, 6, 4, the punishment should fit the crime, 26.5095729013, 0.0, No
+xwj, normal, 0.8, 1.5, 6, 5, do you like to go camping, 22.9797012639, 0.0, Yes
+xwj, normal, 0.8, 1.5, 6, 6, please provide your date of birth, 23.2156429213, 0.0, Yes
+xwj, normal, 0.8, 1.5, 6, 7, love means many things, 29.5758204696, 0.0, No
+xwj, normal, 0.8, 1.5, 6, 8, the chamber makes important decisions, 29.094115054, 0.0, Yes
+xwj, normal, 0.4, 2.0, 7, 1, an occasional taste odds chocolate, 19.5450350182, 0.0882352941176, Yes
+xwj, normal, 0.4, 2.0, 7, 2, what goes up must come down, 14.1554959786, 0.0, Yes
+xwj, normal, 0.4, 2.0, 7, 3, our silver anniversary is coming, 22.8789323165, 0.0, Yes
+xwj, normal, 0.4, 2.0, 7, 4, this system of taxation, 18.1433323254, 0.0, No
+xwj, normal, 0.4, 2.0, 7, 5, the water was monitored daily, 21.0452472817, 0.0, No
+xwj, normal, 0.4, 2.0, 7, 6, quit while you are ahead, 22.4845418775, 0.0, No
+xwj, normal, 0.4, 2.0, 7, 7, shall we play a round of cards, 17.170452513, 0.0, Yes
+xwj, normal, 0.4, 2.0, 7, 8, important news always seems to be late, 15.7590183445, 0.0, Yes
+xwj, normal, 0.6, 2.0, 8, 1, the back yard of our house, 17.199017199, 0.0, Yes
+xwj, normal, 0.6, 2.0, 8, 2, the presidential suite is very busy, 20.2224469161, 0.0, Yes
+xwj, normal, 0.6, 2.0, 8, 3, the assignment is due today, 28.1259553653, 0.0, No
+xwj, normal, 0.6, 2.0, 8, 4, fail is my favorite season, 20.9042679547, 0.0384615384615, No
+xwj, normal, 0.6, 2.0, 8, 5, bad for the environment, 23.2445520581, 0.0, Yes
+xwj, normal, 0.6, 2.0, 8, 6, did you have a good time, 17.4806409568, 0.0, No
+xwj, normal, 0.6, 2.0, 8, 7, you should visit a doctor, 27.149321267, 0.0, Yes
+xwj, normal, 0.6, 2.0, 8, 8, my watch fell in the water, 23.6797594437, 0.0, Yes
+xwj, normal, 0.8, 2.0, 9, 1, the registration periods is over, 23.988005997, 0.03125, Yes
+xwj, normal, 0.8, 2.0, 9, 2, there will be some fog tonight, 25.0689395839, 0.0, Yes
+xwj, normal, 0.8, 2.0, 9, 3, can we play cards tonight, 26.4400377715, 0.0, No
+xwj, normal, 0.8, 2.0, 9, 4, olympic athletes use drugs, 23.7869516504, 0.0, Yes
+xwj, normal, 0.8, 2.0, 9, 5, nothing wrong with his style, 22.5687642034, 0.0, No
+xwj, normal, 0.8, 2.0, 9, 6, my favorite place to visit, 22.9865041358, 0.0, No
+xwj, normal, 0.8, 2.0, 9, 7, exceed the maximum speeds limit, 28.5437406396, 0.0322580645161, Yes
+xwj, normal, 0.8, 2.0, 9, 8, obligations must be met first, 24.4319569998, 0.0, No
+yzc, normal, 0.4, 1.0, 1, 1, the imagination of the nation, 27.261079357, 0.0, No
+yzc, normal, 0.4, 1.0, 1, 2, my preferred treat is chocolate, 19.5252472294, 0.0, No
+yzc, normal, 0.4, 1.0, 1, 3, he is just like everyone else, 15.1686724778, 0.0, Yes
+yzc, normal, 0.4, 1.0, 1, 4, pay off a mortgage for a house, 15.1988516423, 0.0, No
+yzc, normal, 0.4, 1.0, 1, 5, the winner of the race, 15.7607862881, 0.0, Yes
+yzc, normal, 0.4, 1.0, 1, 6, an excellent way to communicate, 22.3945589516, 0.0, No
+yzc, normal, 0.4, 1.0, 1, 7, please provide your date of birth, 16.0617229066, 0.0, No
+yzc, normal, 0.4, 1.0, 1, 8, watch out for low flying objects, 14.4248748954, 0.0, No
+yzc, normal, 0.6, 1.0, 2, 1, if you come home late the doors are locked, 14.9599052539, 0.0, No
+yzc, normal, 0.6, 1.0, 2, 2, do not drink the water, 19.8799838015, 0.0, No
+yzc, normal, 0.6, 1.0, 2, 3, the fourth edition was better, 24.507601441, 0.0, No
+yzc, normal, 0.6, 1.0, 2, 4, the algorithm is too complicated, 26.4464891499, 0.0, No
+yzc, normal, 0.6, 1.0, 2, 5, taking the train is usually faster, 21.6986014378, 0.0, No
+yzc, normal, 0.6, 1.0, 2, 6, reading week is just about here, 16.9783906445, 0.0, No
+yzc, normal, 0.6, 1.0, 2, 7, gun powder must be handled with care, 16.9334468501, 0.0, No
+yzc, normal, 0.6, 1.0, 2, 8, sign the withdrawal slip, 27.0386266094, 0.0, No
+yzc, normal, 0.8, 1.0, 3, 1, my favorite web browser, 22.0296666177, 0.0, No
+yzc, normal, 0.8, 1.0, 3, 2, you are a wonderful example, 21.4492213, 0.0, No
+yzc, normal, 0.8, 1.0, 3, 3, the living is easy, 15.9633906242, 0.0, No
+yzc, normal, 0.8, 1.0, 3, 4, express delivery is very fast, 24.6137689423, 0.0, No
+yzc, normal, 0.8, 1.0, 3, 5, file all complaints in writing, 24.6589633751, 0.0, No
+yzc, normal, 0.8, 1.0, 3, 6, the location of the crime, 13.1133891867, 0.0, No
+yzc, normal, 0.8, 1.0, 3, 7, they watched the entire movie, 25.7736387223, 0.0, No
+yzc, normal, 0.8, 1.0, 3, 8, what goes up must come down, 19.4879971654, 0.0, No
+yzc, normal, 0.4, 1.5, 4, 1, tell a lie and your nose will grow, 11.014039501, 0.0, Yes
+yzc, normal, 0.4, 1.5, 4, 2, just in time for the party, 9.00353710386, 0.0, No
+yzc, normal, 0.4, 1.5, 4, 3, the dog buried the bone, 18.1600955795, 0.0, No
+yzc, normal, 0.4, 1.5, 4, 4, make up a few more phrases, 12.376602328, 0.0, Yes
+yzc, normal, 0.4, 1.5, 4, 5, sent this by registered mail, 14.3791502322, 0.0, No
+yzc, normal, 0.4, 1.5, 4, 6, this watch is too expensive, 20.0086994345, 0.0, Yes
+yzc, normal, 0.4, 1.5, 4, 7, you are a capitalist pig, 12.1839780688, 0.0, No
+yzc, normal, 0.4, 1.5, 4, 8, popularity is desired by all, 10.0692259283, 0.0, No
+yzc, normal, 0.6, 1.5, 5, 1, house with new electrical panel, 11.1863002348, 0.0, Yes
+yzc, normal, 0.6, 1.5, 5, 2, drugs should be avoided, 17.3787110789, 0.0, No
+yzc, normal, 0.6, 1.5, 5, 3, presidents drive expensive cars, 18.5430463576, 0.0, No
+yzc, normal, 0.6, 1.5, 5, 4, can we play cards tonight, 18.0956484274, 0.0, No
+yzc, normal, 0.6, 1.5, 5, 5, the chamber makes important decisions, 22.137745975, 0.0, No
+yzc, normal, 0.6, 1.5, 5, 6, get rid of that immediately, 20.812910037, 0.0, No
+yzc, normal, 0.6, 1.5, 5, 7, it is difficult to concentrate, 12.9616551037, 0.0, No
+yzc, normal, 0.6, 1.5, 5, 8, a correction had to be published, 14.36042904, 0.0, No
+yzc, normal, 0.8, 1.5, 6, 1, this is a non profit organization, 11.292219795, 0.0, No
+yzc, normal, 0.8, 1.5, 6, 2, what a monkey sees a monkey will do, 18.9263786402, 0.0, No
+yzc, normal, 0.8, 1.5, 6, 3, universally understood to be wrong, 16.2550232537, 0.0, No
+yzc, normal, 0.8, 1.5, 6, 4, no exchange without a bill, 24.649859944, 0.0, No
+yzc, normal, 0.8, 1.5, 6, 5, if at first you do not succeed, 16.3897109037, 0.0, No
+yzc, normal, 0.8, 1.5, 6, 6, this camera takes mice photographs, 23.7091675448, 0.0294117647059, No
+yzc, normal, 0.8, 1.5, 6, 7, the generation gap gets wider, 23.2594200651, 0.0, No
+yzc, normal, 0.8, 1.5, 6, 8, please follow the guidelines, 23.3790523691, 0.0, No
+yzc, normal, 0.4, 2.0, 7, 1, the first time he tried to swim, 11.8212625108, 0.0, Yes
+yzc, normal, 0.4, 2.0, 7, 2, the force is with you, 19.2616372392, 0.0, No
+yzc, normal, 0.4, 2.0, 7, 3, quit while you are ahead, 22.0730249241, 0.0, No
+yzc, normal, 0.4, 2.0, 7, 4, experience is hard to come by, 13.9339106875, 0.0, No
+yzc, normal, 0.4, 2.0, 7, 5, information super highway, 24.9615628109, 0.0, Yes
+yzc, normal, 0.4, 2.0, 7, 6, rent is paid at the beginning of the month, 13.4876033058, 0.0, No
+yzc, normal, 0.4, 2.0, 7, 7, a dog is the best friend of a man, 16.38001638, 0.0, No
+yzc, normal, 0.4, 2.0, 7, 8, accompanied by an adult, 15.6719341779, 0.0, No
+yzc, normal, 0.6, 2.0, 8, 1, questioning the wisdom of the courts, 20.5911657257, 0.0, No
+yzc, normal, 0.6, 2.0, 8, 2, the protesters blocked all traffic, 23.2798758407, 0.0, No
+yzc, normal, 0.6, 2.0, 8, 3, do not say anything, 17.4212866346, 0.0, No
+yzc, normal, 0.6, 2.0, 8, 4, lie detector tests never work, 22.0199647681, 0.0, No
+yzc, normal, 0.6, 2.0, 8, 5, do you prefer a window seat, 16.0408312067, 0.0, No
+yzc, normal, 0.6, 2.0, 8, 6, people blow their horn a lot, 15.6382797892, 0.0, No
+yzc, normal, 0.6, 2.0, 8, 7, tickets are very expensive, 26.4367816092, 0.0, No
+yzc, normal, 0.6, 2.0, 8, 8, where did you get that tie, 15.1478720846, 0.0, Yes
+yzc, normal, 0.8, 2.0, 9, 1, bad for the environment, 25.814778961, 0.0, No
+yzc, normal, 0.8, 2.0, 9, 2, there will be some fog tonight, 18.8193965247, 0.0, No
+yzc, normal, 0.8, 2.0, 9, 3, what to do when the oil runs dry, 16.2946064853, 0.0, No
+yzc, normal, 0.8, 2.0, 9, 4, most judges are very honest, 19.0331701262, 0.0, No
+yzc, normal, 0.8, 2.0, 9, 5, exceed the maximum speed limit, 10.1003561023, 0.0, Yes
+yzc, normal, 0.8, 2.0, 9, 6, he is still on our team, 9.88920428532, 0.0, No
+yzc, normal, 0.8, 2.0, 9, 7, that land is owned by the government, 19.03855307, 0.0, No
+yzc, normal, 0.8, 2.0, 9, 8, parking tickets can be challenged, 20.8109077862, 0.0, Yes
