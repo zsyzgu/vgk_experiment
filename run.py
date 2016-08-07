@@ -6,7 +6,7 @@ def merge_files(file_class):
 
 	first_file = True
 	for file_name in files:
-		if file_name[0 : len(file_class)] == file_class and file_name[len(file_class)] == '_':
+		if len(file_class) < len(file_name) and file_name[0 : len(file_class)] == file_class and file_name[len(file_class)] == '_':
 			inp = file(file_name, 'r')
 			lines = inp.readlines()
 			inp.close()
@@ -25,9 +25,8 @@ files = os.listdir('.')
 
 for file_name in files:
 	tags = file_name.split('.')
-	if len(tags) > 0 and tags[len(tags) - 1] == 'txt' and file_name[0 : 6] != 'result' and file_name[0 : 7] != 'gesture' and file_name[0 : 7] != 'tapping':
+	if len(tags) > 0 and tags[len(tags) - 1] == 'txt' and file_name[0 : 7] != 'lexicon' and file_name[0 : 8] != 'simulate' and file_name[0 : 8] != 'position':
 		print file_name
 		os.system('python parser.py ' + '.'.join(tags[0 : len(tags) - 1]))
 
-merge_files('result')
-merge_files('gesture')
+merge_files('simulate')
