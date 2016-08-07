@@ -1,0 +1,25 @@
+user, technique, session, phrase, rate, error
+mzy, baseline, 1, effort is what it will take, 11.4376324101, 0.0
+mzy, baseline, 1, travel at the speed of light, 10.2938214693, 0.0
+mzy, baseline, 1, user friendly interface, 12.6128651224, 0.0
+mzy, baseline, 1, tell a lie and your nose will grow, 10.6611912894, 0.0
+mzy, baseline, 2, the food at this restaurant, 10.5369250504, 0.0
+mzy, baseline, 2, the union will go on strike, 9.71677800475, 0.0
+mzy, baseline, 2, stability of the nation, 11.1023731323, 0.0
+mzy, baseline, 2, shall we play a round of cards, 5.00147613011, 0.0
+mzy, baseline, 3, bad for the environment, 11.1426303107, 0.0
+mzy, baseline, 3, my favorite subject is psychology, 8.22446162863, 0.0
+mzy, baseline, 3, express delivery is very fast, 11.5767092046, 0.0
+mzy, baseline, 3, the world is a stage, 8.73982629595, 0.0
+mzy, baseline, 4, he is just like everyone else, 11.9412886641, 0.0
+mzy, baseline, 4, taking the train is usually faster, 9.6338846979, 0.0
+mzy, baseline, 4, longer than a football field, 10.81353043, 0.0
+mzy, baseline, 4, important for political parties, 10.9585824291, 0.0
+mzy, baseline, 5, frequently asked questions, 7.41921938477, 0.0
+mzy, baseline, 5, for your information only, 6.77508513767, 0.0
+mzy, baseline, 5, rapidly rrapidly running short on words, 8.03061079881, 0.230769230769
+mzy, baseline, 5, my watch fell in the water, 4.05602464518, 0.0
+mzy, baseline, 6, a good response to the questions, 10.8198363667, 0.03125
+mzy, baseline, 6, accompanied by an adult, 7.65476987848, 0.0
+mzy, baseline, 6, the algorithm is too complicated, 9.59616153539, 0.0
+mzy, baseline, 6, what goes up must come down, 10.65203357, 0.0

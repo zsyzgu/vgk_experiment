@@ -1,0 +1,25 @@
+session, phrase, word, len, perform_time, total_time
+1, effort is what it will take, 6.11576872201
+1, always cover all the bases, 7.95607283423
+1, are you talking to me, 8.63009873848
+1, a dog is the best friend of a man, 3.17852166957
+2, elections bring out the best, 8.09714322666
+2, this equation is too complicated, 7.4612945346
+2, the back yard of our house, 7.48950132404
+2, watch out for low flying objects, 5.15617316466
+3, for murder you get a long prison sentence, 7.18180890051
+3, my favorite subject is psychology, 8.37353673649
+3, the music is better than it sounds, 9.10890015453
+3, world population is growing, 4.9160180254
+4, that land is owned by the government, 9.13914345917
+4, a good response to the question, 10.3154136084
+4, do not drink too much, 6.62574296015
+4, express delivery is very fast, 1.84080700979
+5, my watch fell in the water, 8.14742967992
+5, the assignment is due today, 8.75551184849
+5, the facts get in the way, 9.02648560909
+5, just like it says on the can good, 8.36909871245
+6, call for more details, 11.0339190846
+6, travel at the speed of light, 8.56796945333
+6, do not walk too quickly, 9.71535708198
+6, with each step forward , 8.32450983972

@@ -1,0 +1,21 @@
+session, phrase, rate
+1, a picture is a picture is worth many words, 1.82459995422
+1, we missed your birthday, 10.1691468086
+1, the sun rises in the rest, 9.80528341355
+1, a much higher risk of getting cancer, 11.5205161191
+2, get aboard the ship is learning, 8.83537320956
+2, express delivery is very fast, 9.23176342068
+2, this is too much to handle, 11.0778482599
+2, completely sold out of that, 9.03803835272
+3, information super highway, 13.177620962
+3, an airport is a very busy place, 7.91391767943
+3, please provide your date of birth, 9.87936007621
+3, important news always seems to be late, 9.53930616453
+4, a dog is the best friend of a man, 4.5937586133
+4, my favorite place to visit, 5.91088004944
+4, learn to walk before you run, 7.38242287909
+4, for your information only, 12.4794962822
+5, consequences of a wrong turn, 12.2005464828
+5, do not lie in court of else, 13.4521248485
+5, beautiful paintings in the gallery, 8.75635443777
+5, the assignment is due today, 5.59815017646

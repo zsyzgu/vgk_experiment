@@ -1,0 +1,84 @@
+20.852 session normal_0.8_1
+20.852 phrase parking lot is full of trucks
+22.26274 gestureStart
+24.55349 gestureEnd lasting
+26.14638 gestureStart
+26.2459 select parking
+27.05916 gestureStart
+27.68976 gestureEnd lot
+29.89696 gestureStart
+30.37863 gestureEnd is
+31.6896 gestureStart
+32.58595 gestureEnd full
+33.31602 gestureStart
+33.89718 gestureEnd off
+34.85972 gestureStart
+34.92614 select of
+35.82232 gestureStart
+38.49443 gestureEnd trucks
+38.49443 phrase universities are too expensive
+41.23251 gestureStart
+45.87988 gestureEnd universities
+46.84187 gestureStart
+47.423 gestureEnd are
+48.38513 gestureStart
+48.99958 gestureEnd too
+50.39362 gestureStart
+54.40994 gestureEnd expensive
+54.40994 phrase traveling to conferences is fun
+55.8703 gestureStart
+59.42248 gestureEnd traveling
+60.64989 gestureStart
+61.26367 gestureEnd too
+63.40428 gestureStart
+63.47063 select to
+64.36663 gestureStart
+69.31156 gestureEnd conferences
+70.9209 gestureStart
+71.68418 gestureEnd is
+72.81237 gestureStart
+74.00726 gestureEnd fun
+74.00726 phrase please provide your date of birth
+75.53384 gestureStart
+77.45901 gestureEnd please
+78.58732 gestureStart
+81.6574 gestureEnd provides
+83.99673 gestureStart
+84.03006 select provide
+84.87612 gestureStart
+85.78872 gestureEnd your
+86.80064 gestureStart
+87.61372 gestureEnd days
+90.63301 gestureStart
+90.66634 delete
+91.61185 gestureStart
+92.6242 gestureEnd date
+93.96781 gestureStart
+95.01329 gestureEnd offer
+96.72239 gestureStart
+96.73917 delete
+97.58523 gestureStart
+98.13296 gestureEnd off
+99.39384 gestureStart
+99.42714 select of
+100.3065 gestureStart
+101.7669 gestureEnd birth
+101.7669 phrase want to join us for lunch
+103.4426 gestureStart
+104.7537 gestureEnd want
+106.0309 gestureStart
+106.5952 gestureEnd too
+107.7071 gestureStart
+107.7732 select to
+108.5366 gestureStart
+109.6982 gestureEnd upon
+111.1915 gestureStart
+111.2746 select join
+112.2203 gestureStart
+112.8012 gestureEnd us
+113.7967 gestureStart
+115.1571 gestureEnd four
+116.3529 gestureStart
+116.4361 select for
+117.0663 gestureStart
+118.5761 gestureEnd lunch

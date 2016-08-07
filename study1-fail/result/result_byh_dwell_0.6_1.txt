@@ -1,0 +1,21 @@
+user, technique, session, phrase, rate, error
+byh, dwell, 1, well  connected with people, 2.64468004881, 0.037037037037
+byh, dwell, 1, my car always breaks in the winter, 5.55518814893, 0.0
+byh, dwell, 1, coalition governments  never work, 4.85958182461, 0.030303030303
+byh, dwell, 1, the sum of the parts, 4.63491588352, 0.0
+byh, dwell, 2, have a good weekend, 3.97533635072, 0.0
+byh, dwell, 2, interesting observation was made, 7.18303318025, 0.0
+byh, dwell, 2, fall is my favorite season, 7.14560247714, 0.0
+byh, dwell, 2, no exchange without a bill, 5.47817858862, 0.0
+byh, dwell, 3, for murder you get a long prison sentance, 5.04605764379, 0.0243902439024
+byh, dwell, 3, this library has many books, 6.40325173827, 0.0
+byh, dwell, 3, zero in on the facts, 7.52876222444, 0.0
+byh, dwell, 3, this is too much to handle, 3.97340342501, 0.0
+byh, dwell, 4, he is still on  our team, 4.40228755905, 0.0416666666667
+byh, dwell, 4, the algorithm is too complicated, 5.55115905227, 0.0
+byh, dwell, 4, important for political parties, 8.99157842342, 0.0
+byh, dwell, 4, gas bills are sent monthly, 8.6352961187, 0.0
+byh, dwell, 5, physics and  chemisty are hard, 6.88967788459, 0.0666666666667
+byh, dwell, 5, you must be getting old, 8.53197620028, 0.0
+byh, dwell, 5, the objective of the exercise, 9.45984296661, 0.0
+byh, dwell, 5, the cotton is high, 10.1534296029, 0.0

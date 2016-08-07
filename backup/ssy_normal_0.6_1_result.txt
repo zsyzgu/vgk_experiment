@@ -1,0 +1,25 @@
+session, phrase, rate
+1, a very traditional way to dress, 13.4010774982
+1, my favorite place to visit, 12.1186581891
+1, parking lot is full of trucks, 10.2359238277
+1, the minimum amount of time, 9.69981996546
+2, the registration period is over, 7.03302046522
+2, universities are too expensive, 11.9214070204
+2, he is still on our team, 9.81733395752
+2, gas bills are sent monthly, 17.5556427427
+3, important news always seems to be late, 10.0321865987
+3, the world is a stage, 8.50415463388
+3, please provide your date of birth, 11.8959107807
+3, our silver anniversary is coming, 10.7604017217
+4, rapidly running short on words, 12.1985549404
+4, soon we will return from the city, 14.3851672942
+4, do not lie in court or else, 8.1832263344
+4, medieval times were very hard, 14.4016129807
+5, the objective of the exercise, 9.39181722271
+5, you must make an appointment, 11.1255330985
+5, that is a very odd question, 13.3762996291
+5, a good response to the question, 13.6416104096
+6, this person is a disaster, 15.7284716544
+6, the opposing team is over there, 14.9446759592
+6, love means many things, 10.759284602
+6, always cover all the bases, 7.81065088757

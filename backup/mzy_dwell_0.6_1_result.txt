@@ -1,0 +1,25 @@
+session, phrase, word, len, perform_time, total_time
+1, user friendly interface, 9.21817443566
+1, world population is growing, 10.0021185043
+1, my watch  fell in the water, 5.20821492567
+1, the fourth edition was better, 2.20456285723
+2, this is a non profit organization, 6.22368594095
+2, win first prize in the contest, 5.83336412053
+2, take a coffee break, 9.14259592583
+2, zero in on the facts, 10.1182571302
+3, are you sure you want this, 8.21746276055
+3, this equation is too complicated, 9.37045072984
+3, work hard to reach the summit, 8.79303396309
+3, what to do, 7.2039621792
+4, the opposing team is over there, 10.4448781598
+4, that is a very odd question, 8.38332100181
+4, for murder you get a long prison sentence, 10.6610643819
+4, completely sold out of that, 9.95875775322
+5, time to go shopping, 10.947032328
+5, what goes up must come down, 7.51665622687
+5, he is just like everyone else, 6.97471665214
+5, never mix religion and politics, 7.66301648495
+6, good jobs for those with education, 10.5167724388
+6, gas bills are sent monthly, 6.67188961055
+6, medieval times were very hard, 11.2684520903
+6, this watch is too expensive , 10.4139154058

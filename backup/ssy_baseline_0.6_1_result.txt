@@ -1,0 +1,25 @@
+session, phrase, word, len, perform_time, total_time
+1, get aboard the ship is leaving, 9.9350578386
+1, electric cars need big fuel cells, 9.88592932149
+1, the second largest country, 11.5186217719
+1, watch out for low flying objects, 8.56558222166
+2, that land is owned by the government, 10.6064221886
+2, world population is growing, 9.38890609464
+2, you should visit a doctor, 11.6181501323
+2, longer than a football field, 10.0984599849
+3, shall we play a round of cards, 10.8254804747
+3, a subject one can really enjoy, 12.247197433
+3, rain rain go away, 10.2080497764
+3, want to join us for lunch, 11.6595980354
+4, where can my little dog he where can my little dog be, 5.06808734004
+4, love means many things, 13.5561778713
+4, do not feel too bad about it, 8.05155434647
+4, work hard to reach the summit, 6.47930671418
+5, in sharp contrast to your words, 4.151796051
+5, this camera takes nice photographs, 12.4217601634
+5, they might find your comment offensive, 7.62330112039
+5, would you like to come to my house, 8.356761497
+6, my favorite subject is psychology, 10.6405748357
+6, stability of the nation, 6.62142029465
+6, a dog is the best friend of a man, 9.25354719309
+6, he is just like everyone else , 11.2834978843

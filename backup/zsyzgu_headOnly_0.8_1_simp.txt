@@ -1,0 +1,591 @@
+43.48973 session headOnly_0.8_1
+43.48973 phrase a much higher risk of getting cancer
+46.15896 gestureStart
+47.88472 select a
+48.56441 gestureStart
+51.30151 select much
+51.63308 gestureStart
+54.90042 select higher
+55.49713 gestureStart
+58.03374 select risk
+59.16096 gestureStart
+60.91998 select of
+61.50026 gestureStart
+64.71831 select getting
+65.28214 gestureStart
+69.52792 select cancer
+70.02535 gestureStart
+84.71401 phrase this person is a disaster
+86.27241 gestureStart
+88.89281 select this
+89.45664 gestureStart
+93.60135 delete
+93.93292 delete
+94.87807 gestureStart
+98.34455 select rose
+98.85846 delete
+99.30604 gestureStart
+103.0215 nextPage
+103.6018 nextPage
+105.0108 select grounds
+105.9889 delete
+106.3867 delete
+106.9008 gestureStart
+110.9474 nextPage
+112.2237 nextPage
+113.2018 lastPage
+113.7819 lastPage
+115.3732 gestureStart
+119.4523 select this
+121.0768 gestureStart
+126.201 select following
+126.6985 delete
+127.2621 delete
+127.8921 gestureStart
+130.8281 select this
+131.5904 gestureStart
+135.9023 select person
+136.4989 gestureStart
+138.7218 select is
+139.3351 gestureStart
+141.525 select a
+142.3039 gestureStart
+150.8085 gestureStart
+156.4285 select disaster
+159.1302 phrase the world is a stage
+160.307 gestureStart
+162.579 select the
+163.1591 gestureStart
+167.0723 select world
+167.5366 gestureStart
+170.6208 select house
+171.3499 delete
+172.3445 gestureStart
+175.2464 nextPage
+175.7271 nextPage
+177.0695 delete
+177.9314 delete
+178.611 gestureStart
+180.6997 delete
+181.2137 gestureStart
+183.4194 select the
+183.8835 gestureStart
+189.2047 select world
+189.8842 gestureStart
+192.5208 select is
+193.101 gestureStart
+194.9594 select a
+195.5723 gestureStart
+199.0051 select stage
+201.6404 phrase travel at the speed of light
+203.2646 gestureStart
+206.8443 select travel
+207.6066 gestureStart
+209.8948 select at
+210.3421 gestureStart
+212.3978 select the
+213.326 gestureStart
+217.1724 select speed
+217.7523 gestureStart
+219.5769 select of
+220.0244 gestureStart
+223.407 select light
+228.1474 phrase my watch fell in the water
+230.2356 gestureStart
+231.9444 select my
+232.4749 gestureStart
+235.4106 select watch
+235.9907 gestureStart
+238.7755 select fell
+239.3226 gestureStart
+241.893 select king
+242.3904 delete
+243.6999 gestureStart
+245.7735 select in
+246.3871 gestureStart
+248.394 select the
+248.8915 gestureStart
+251.8765 select water
+254.2965 phrase information super highway
+255.5565 gestureStart
+261.7739 select information
+262.6523 gestureStart
+266.0851 select super
+266.6488 gestureStart
+272.3681 select highway
+274.7053 phrase important news always seems to be late
+276.0643 gestureStart
+281.9167 select important
+282.3809 gestureStart
+285.6642 select news
+286.2942 gestureStart
+289.8595 select always
+290.4726 gestureStart
+295.6617 nextPage
+296.7059 lastPage
+298.2309 gestureStart
+302.0444 select seems
+302.7903 gestureStart
+304.5138 select to
+305.0111 gestureStart
+307.2833 select be
+307.8468 gestureStart
+310.8815 select late
+314.5773 phrase rapidly running short on words
+316.1018 gestureStart
+321.5723 select rapidly
+322.0198 gestureStart
+325.2527 select running
+325.7831 gestureStart
+328.751 select short
+330.0933 gestureStart
+333.393 nextPage
+334.8347 select on
+335.7628 gestureStart
+340.1726 nextPage
+340.8188 nextPage
+341.432 lastPage
+342.1446 select words
+347.0997 session headOnly_0.8_1
+347.0997 phrase time to go shopping
+348.3595 gestureStart
+352.0091 select time
+352.5559 gestureStart
+354.296 select to
+354.9587 gestureStart
+356.7654 select go
+357.3953 gestureStart
+362.1039 select shopping
+363.9933 phrase apartments are too expensive
+365.2859 gestureStart
+371.2036 select apartment
+372.8274 gestureStart
+375.0165 select are
+375.7786 gestureStart
+377.8998 select too
+378.3307 gestureStart
+383.553 select happened
+384.3815 delete
+384.9118 gestureStart
+390.4159 select expensive
+392.6037 phrase this is too much to handle
+393.6148 gestureStart
+395.9532 select this
+396.4174 gestureStart
+398.9719 nextPage
+399.9498 nextPage
+400.646 nextPage
+401.7899 gestureStart
+404.8576 select is
+405.3715 gestureStart
+407.7414 select too
+408.2717 gestureStart
+411.2235 select much
+411.7041 gestureStart
+413.5768 select to
+414.1072 gestureStart
+417.9865 select handle
+419.6438 phrase olympic athletes use drugs
+421.0692 gestureStart
+426.1915 select olympic
+426.8379 gestureStart
+431.2622 delete
+432.3391 gestureStart
+438.206 select olympic
+438.7527 gestureStart
+445.6974 select athletes
+447.8519 gestureStart
+449.842 select use
+450.339 gestureStart
+454.666 select sub
+455.5443 gestureStart
+456.4889 delete
+457.1185 gestureStart
+463.3341 nextPage
+464.1958 nextPage
+466.0187 select drugs
+467.7587 phrase do not say anything
+468.8027 gestureStart
+471.3382 select do
+471.8188 gestureStart
+474.5053 select not
+475.0688 gestureStart
+477.7554 select say
+478.4017 gestureStart
+482.5467 select anything
+484.6515 phrase the registration period is over
+485.7451 gestureStart
+487.7851 select the
+488.2823 gestureStart
+496.2726 gestureStart
+502.6055 select registration
+503.2851 gestureStart
+507.0321 select period
+507.4796 gestureStart
+509.9837 select is
+510.4808 gestureStart
+513.2496 select over
+514.7742 phrase please provide your date of birth
+515.7518 gestureStart
+520.0947 nextPage
+521.4865 nextPage
+523.8395 nextPage
+524.9497 nextPage
+525.8115 nextPage
+526.7228 nextPage
+528.4625 gestureStart
+532.4087 select please
+532.972 gestureStart
+537.5806 select provide
+538.1108 gestureStart
+540.913 nextPage
+541.5924 select your
+542.2884 gestureStart
+545.2728 select date
+545.7534 gestureStart
+547.8926 select of
+548.8539 gestureStart
+552.717 select birth
+555.0865 phrase express delivery is very fast
+556.2134 gestureStart
+561.2857 select express
+561.7993 gestureStart
+566.4734 select delivery
+567.0369 gestureStart
+569.0434 select is
+569.5569 gestureStart
+572.0938 select very
+572.6075 gestureStart
+575.7906 nextPage
+577.0002 nextPage
+578.2098 nextPage
+579.0882 lastPage
+580.4469 gestureStart
+582.7356 select fast
+597.7996 session headOnly_0.8_1
+597.7996 phrase just in time for the party
+598.7609 gestureStart
+603.9496 nextPage
+604.7947 nextPage
+606.8497 gestureStart
+610.0493 select just
+610.5798 gestureStart
+613.067 select in
+613.9617 gestureStart
+616.7142 select time
+617.9902 gestureStart
+621.2394 nextPage
+622.3994 nextPage
+623.8248 delete
+625.1342 gestureStart
+626.6755 delete
+626.9902 delete
+627.9019 gestureStart
+631.036 select just
+631.7985 gestureStart
+633.938 select in
+634.4351 gestureStart
+637.2374 select time
+637.751 gestureStart
+640.6196 select for
+641.1333 gestureStart
+643.2228 select the
+643.7697 gestureStart
+648.1788 select party
+650.0842 phrase a picture is worth many words
+650.9625 gestureStart
+653.6819 nextPage
+654.5436 nextPage
+655.8861 gestureStart
+657.8103 select dress
+658.3071 delete
+658.7378 gestureStart
+661.3412 select a
+661.9542 gestureStart
+665.469 select picture
+665.8834 gestureStart
+668.222 select is
+668.6694 gestureStart
+672.5489 select worth
+673.5761 gestureStart
+676.5767 select many
+677.0905 gestureStart
+681.4998 nextPage
+683.6206 nextPage
+685.8742 select words
+686.5866 gestureStart
+688.6246 phrase never mix religion and politics
+690.4968 gestureStart
+694.8888 select never
+695.7006 gestureStart
+698.9165 select mix
+699.5131 gestureStart
+704.3536 select religion
+705.0662 gestureStart
+707.7194 select and
+708.6138 gestureStart
+713.6521 select politics
+715.6733 phrase do not drink too much
+716.8497 gestureStart
+718.6391 select do
+719.1526 gestureStart
+721.5065 select not
+721.8709 gestureStart
+725.6667 select drink
+726.2136 gestureStart
+728.0856 select too
+728.5495 gestureStart
+731.3179 select much
+733.4717 phrase no exchange without a bill
+734.4825 gestureStart
+736.1722 select no
+737.1332 gestureStart
+742.1052 select exchange
+742.5032 gestureStart
+745.6857 select without
+746.6961 gestureStart
+748.3213 select a
+748.6693 gestureStart
+750.8726 select bill
+751.2206 gestureStart
+753.2418 phrase the facts get in the way
+754.1196 gestureStart
+756.1755 select the
+756.5731 gestureStart
+759.6563 select facts
+760.1202 gestureStart
+762.9714 nextPage
+763.8164 lastPage
+764.6283 gestureStart
+769.3193 delete
+770.2307 delete
+770.943 gestureStart
+773.2971 select the
+773.6782 gestureStart
+777.2914 select facts
+777.7556 gestureStart
+779.9608 select get
+780.3088 gestureStart
+782.912 nextPage
+783.6577 select in
+784.1548 gestureStart
+788.4971 nextPage
+789.2095 nextPage
+790.5019 gestureStart
+792.9225 select the
+793.3533 gestureStart
+795.5916 select way
+797.4634 phrase a yard is almost as a meter
+798.6561 gestureStart
+800.3477 select a
+800.8445 gestureStart
+803.5632 select yard
+803.9775 gestureStart
+806.3981 nextPage
+806.9944 nextPage
+808.3033 gestureStart
+810.608 select is
+811.0718 gestureStart
+814.6849 select almost
+815.0493 gestureStart
+817.3043 select as
+818.0333 gestureStart
+819.6257 select a
+820.0731 gestureStart
+823.5037 select meter
+825.0609 phrase call for more details
+826.3199 gestureStart
+828.3904 delete
+829.0201 gestureStart
+831.5055 select call
+832.1017 gestureStart
+834.9031 select for
+835.3007 gestureStart
+838.3173 nextPage
+839.2118 select more
+839.6923 gestureStart
+845.1769 select details
+851.2565 session headOnly_0.8_1
+851.2565 phrase fall is my favorite season
+852.5981 gestureStart
+855.8616 nextPage
+856.7894 gestureStart
+859.5724 select fall
+859.8374 gestureStart
+862.4736 nextPage
+864.2294 select is
+864.6104 gestureStart
+867.0812 select my
+867.5784 gestureStart
+872.8496 select favorite
+873.3632 gestureStart
+877.1591 select season
+877.6893 gestureStart
+879.6776 phrase what to do when the oil runs dry
+881.1187 gestureStart
+885.0638 select what
+885.5442 gestureStart
+887.2834 select to
+887.7804 gestureStart
+891.1436 nextPage
+891.8393 nextPage
+894.1915 gestureStart
+896.0962 select do
+896.6926 gestureStart
+899.9744 select when
+900.4384 gestureStart
+902.6432 select the
+903.1568 gestureStart
+905.9069 select oil
+906.619 gestureStart
+909.8181 select runs
+910.282 gestureStart
+914.5257 select dry
+914.7909 gestureStart
+916.8786 phrase the library is closed today
+918.088 gestureStart
+920.4422 select the
+920.8563 gestureStart
+925.1986 select library
+925.7784 gestureStart
+927.8015 select is
+928.5801 gestureStart
+932.9553 select closed
+933.535 gestureStart
+936.6021 select today
+938.2089 phrase this library has many books
+939.3353 gestureStart
+942.2533 select this
+942.7006 gestureStart
+946.5466 select library
+947.2093 gestureStart
+950.9553 nextPage
+952.5126 gestureStart
+954.7009 select has
+955.1482 gestureStart
+958.6623 select many
+959.2255 gestureStart
+962.0104 select books
+963.6508 phrase my car always breaks in the winter
+965.0422 gestureStart
+966.7671 select my
+967.3138 gestureStart
+970.6614 nextPage
+971.5226 nextPage
+972.9471 gestureStart
+976.6262 select car
+977.3385 gestureStart
+981.9614 select always
+982.5909 gestureStart
+986.3025 select breaks
+986.9154 gestureStart
+989.6831 select in
+990.0972 gestureStart
+992.2522 select the
+992.8652 gestureStart
+997.4053 nextPage
+998.5815 nextPage
+999.3933 nextPage
+1000.155 nextPage
+1000.801 nextPage
+1001.796 gestureStart
+1006.369 select winter
+1020.899 phrase never too rich and never too thin
+1022.44 gestureStart
+1025.589 select never
+1026.02 gestureStart
+1028.058 select too
+1028.522 gestureStart
+1031.638 select rich
+1032.218 gestureStart
+1034.754 select and
+1035.135 gestureStart
+1038.582 select never
+1039.03 gestureStart
+1041.017 select too
+1041.548 gestureStart
+1043.985 select thin
+1044.366 gestureStart
+1046.304 phrase this is a non profit organization
+1047.381 gestureStart
+1050.232 select done
+1051.061 delete
+1051.458 gestureStart
+1054.59 nextPage
+1055.468 select this
+1055.982 gestureStart
+1058.402 nextPage
+1059.247 nextPage
+1061.533 nextPage
+1062.776 lastPage
+1063.736 nextPage
+1064.416 nextPage
+1065.128 lastPage
+1066.105 lastPage
+1066.552 lastPage
+1067.165 lastPage
+1068.722 delete
+1069.086 delete
+1069.733 gestureStart
+1072.351 select this
+1072.749 gestureStart
+1075.12 nextPage
+1075.865 nextPage
+1076.561 nextPage
+1077.157 nextPage
+1077.638 nextPage
+1078.433 nextPage
+1079.162 lastPage
+1079.692 lastPage
+1080.123 lastPage
+1081.067 nextPage
+1081.614 select is
+1082.177 gestureStart
+1084.448 nextPage
+1085.094 nextPage
+1086.569 delete
+1087.066 gestureStart
+1090.894 select ride
+1091.474 delete
+1092.087 gestureStart
+1092.683 delete
+1093.959 gestureStart
+1097.556 select this
+1098.119 gestureStart
+1100.92 nextPage
+1101.6 nextPage
+1103.025 nextPage
+1103.704 nextPage
+1104.267 nextPage
+1104.93 nextPage
+1105.41 nextPage
+1105.957 nextPage
+1106.437 nextPage
+1107.78 gestureStart
+1110.547 select is
+1111.061 gestureStart
+1112.969 select a
+1113.664 gestureStart
+1116.598 select non
+1117.112 gestureStart
+1121.735 select profit
+1122.382 gestureStart
+1129.076 select organization
+1129.64 gestureStart
+1131.727 phrase the opposing team is over there
+1133.068 gestureStart
+1135.456 select the
+1135.92 gestureStart
+1140.145 select opposing
+1140.576 gestureStart
+1144.57 select team
+1144.951 gestureStart
+1147.272 select is
+1147.819 gestureStart
+1150.455 select over
+1150.753 gestureStart
+1155.526 nextPage
+1156.636 nextPage
+1157.448 lastPage
+1159.402 gestureStart
+1162.916 select there

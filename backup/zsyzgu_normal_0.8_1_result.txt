@@ -1,0 +1,33 @@
+session, phrase, rate
+1, a dog is the best friend of a man, 14.6015457196
+1, get aboard the ship is leaving, 20.2345863039
+1, do nor say anything, 18.4381362117
+1, the trains are always late, 14.3967280164
+1, where can my little dog be, 19.8376774173
+1, no universities are too expensive, 15.7809531152
+1, can we play cards tonight, 21.6528329123
+1, valid until the end of the year, 18.392157584
+2, taking the train is usually faster, 20.3829415865
+2, you will loose your voice, 18.1645186403
+2, traveling requires a lot of fuel, 25.2167551329
+2, experiences is hard to come by, 16.615067651
+2, the cream rises to the top, 16.7058901521
+2, rain rain go away, 18.4269120663
+2, effort is what it will take, 19.5422378823
+2, please provide your date of birth, 11.5881648968
+3, the music is better than it sounds, 21.9857877586
+3, this person is a disaster, 12.3305165606
+3, the back yard of poor the back yard of our house, 9.94462848307
+3, are you sure you want this, 18.7033807103
+3, learn to walk before you run, 19.9482501915
+3, a much higher risk of getting cancer, 19.1104103961
+3, world population is growing, 21.1996967266
+3, medieval times were very hard, 12.7256145411
+4, you should visit a doctor, 23.6462076925
+4, he is still on our team, 14.1870989353
+4, well connected with people, 21.7983651226
+4, important for political parties, 24.1961617398
+4, teaching services will help, 21.5913094979
+4, this is a non profit organization, 21.9005220928
+4, that is a very odd question, 20.3250467707
+4, house with new electrical panel, 10.7218378024

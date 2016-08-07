@@ -1,0 +1,256 @@
+38.79478 session baseline_0.6_1
+38.79478 phrase that is a very odd question
+44.02329 letter t
+44.57123 letter h
+45.25182 letter a
+45.94895 letter t
+46.6462 letter  
+47.26065 letter i
+47.99083 letter s
+48.63821 letter  
+50.08228 letter a
+50.7295 letter  
+51.31047 letter v
+51.95772 letter e
+52.47232 letter r
+53.05308 letter y
+53.75025 letter  
+54.43081 letter o
+55.27742 letter d
+55.59281 letter d
+56.19036 letter  
+56.9703 letter q
+58.79621 letter u
+59.57629 letter e
+60.1239 letter s
+60.85416 letter t
+61.40197 letter i
+61.88343 letter o
+62.56376 letter n
+62.56376 phrase sit at the front of the bus
+64.60512 letter s
+65.33553 letter i
+65.94961 letter t
+67.01176 letter  
+67.6257 letter a
+68.18995 letter t
+68.87054 letter  
+69.43489 letter t
+70.64639 letter h
+71.52581 letter e
+72.37236 letter  
+72.85365 letter f
+73.30173 letter r
+73.88257 letter o
+74.56301 letter n
+75.35956 letter t
+75.95715 letter b
+76.70396 delete
+77.2019 letter  
+77.76626 letter o
+78.43015 letter f
+78.99458 letter  
+79.49242 letter t
+79.92391 letter h
+80.45508 letter e
+80.95286 letter  
+81.38438 letter h
+82.13129 delete
+82.36366 delete
+84.80323 delete
+84.96933 delete
+85.11861 delete
+85.28452 delete
+85.4339 delete
+85.56657 delete
+87.35887 delete
+88.37112 letter s
+89.0846 letter i
+90.37891 letter t
+91.19209 letter  
+92.81816 letter a
+93.48204 letter t
+94.27866 letter  
+95.02536 letter t
+95.57305 letter h
+96.15391 letter e
+96.95023 letter  
+97.76354 letter f
+98.2448 letter r
+98.89198 letter o
+99.52248 letter n
+100.0368 letter t
+100.6343 letter  
+102.1281 letter o
+102.8584 letter f
+103.6219 letter  
+104.3025 letter t
+104.8501 letter h
+105.4807 letter e
+106.1611 letter  
+106.659 letter b
+107.1902 letter u
+107.9038 letter s
+107.9038 phrase olympic athletes use drugs
+111.6545 letter o
+112.1359 letter l
+112.866 letter y
+113.5297 letter m
+114.2268 letter p
+114.7246 letter i
+116.0356 letter c
+116.5166 letter  
+117.3132 letter a
+118.2094 letter t
+118.7402 letter h
+119.3711 letter l
+120.3003 letter e
+120.7814 letter t
+121.2294 letter e
+121.5945 letter s
+122.1088 letter  
+122.7561 letter u
+123.3367 letter s
+123.7516 letter e
+124.3323 letter  
+125.8261 letter d
+126.3406 letter r
+126.8715 letter u
+127.3516 letter g
+127.9168 letter s
+127.9168 phrase call for more details
+129.9411 letter c
+130.5051 letter a
+131.368 letter l
+131.6668 letter l
+132.2474 letter  
+132.795 letter f
+133.4421 letter o
+134.8359 letter r
+135.5493 letter  
+136.0802 letter m
+136.5283 letter o
+137.9054 letter r
+138.3203 letter e
+139.7308 letter  
+140.3944 letter d
+140.8092 letter e
+141.3402 letter t
+141.9043 letter a
+142.9991 letter i
+143.4641 letter l
+144.2768 letter s
+144.2768 phrase you should visit a doctor
+145.6042 letter y
+146.2345 letter o
+146.7985 letter u
+147.4126 letter  
+148.0596 letter s
+148.5572 letter h
+149.0551 letter o
+149.4698 letter u
+151.5937 letter l
+153.0535 letter d
+153.8167 letter  
+154.3475 letter v
+155.2268 letter i
+156.0731 letter s
+156.687 letter i
+157.2843 letter t
+157.8319 letter b
+158.4955 letter a
+160.1212 delete
+160.4863 delete
+161.6311 letter  
+162.3777 letter a
+163.1741 letter s
+163.5558 letter d
+163.8047 letter r
+167.6874 delete
+167.9696 delete
+168.4839 delete
+169.1476 letter  
+171.653 letter d
+173.2624 letter o
+174.0754 letter c
+174.905 letter t
+176.8958 letter o
+177.5428 letter r
+177.5428 phrase did you have a good time
+181.989 letter d
+182.9179 letter i
+184.4776 letter d
+185.1415 letter  
+185.8549 letter y
+186.5518 letter o
+187.8459 letter u
+188.609 letter  
+189.3226 letter h
+190.0857 letter a
+191.1312 letter v
+191.7282 letter e
+192.4249 letter  
+193.8683 letter a
+194.5983 letter  
+195.3282 letter g
+196.1751 letter o
+196.4895 letter o
+197.2196 letter d
+197.8831 letter  
+198.4138 letter t
+198.9284 letter i
+199.4091 letter m
+200.0726 letter e
+200.0726 phrase can we play cards tonight
+201.1838 letter c
+201.7147 letter a
+202.3616 letter n
+203.8876 letter  
+204.5677 letter w
+204.999 letter e
+206.5585 letter  
+207.371 letter p
+207.8356 letter l
+208.6485 letter a
+209.9092 letter y
+210.6723 letter  
+211.4522 letter c
+212.0659 letter a
+212.6134 letter r
+212.9783 letter d
+213.3764 letter s
+213.9571 letter  
+214.5545 letter t
+215.1351 letter o
+215.6827 letter n
+216.1472 letter i
+216.6616 letter g
+217.0265 letter h
+217.3915 letter t
+217.3915 phrase the winner of the race
+219.0341 letter t
+219.5647 letter h
+220.1124 letter e
+220.6765 letter  
+221.3233 letter w
+222.2027 letter i
+223.2148 letter n
+223.6792 letter n
+224.4424 letter e
+224.9068 letter r
+225.6367 letter  
+226.2505 letter o
+226.8643 letter f
+228.3405 letter v
+228.8877 letter t
+229.5181 delete
+229.8498 delete
+230.4303 letter  
+231.0771 letter t
+231.5085 letter h
+232.1055 letter e
+232.9017 letter  
+233.5155 letter r
+234.0961 letter a
+234.4942 letter c
+234.8762 letter e

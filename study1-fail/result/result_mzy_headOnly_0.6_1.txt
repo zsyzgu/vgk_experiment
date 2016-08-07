@@ -1,0 +1,25 @@
+user, technique, session, phrase, rate, error
+mzy, headOnly, 1, where can my little dog be, 6.07838218552, 0.0
+mzy, headOnly, 1, are you sure you want this, 5.84738329598, 0.0
+mzy, headOnly, 1, construction makes traveling difficult, 12.0052480084, 0.0
+mzy, headOnly, 1, safe to walk the street in the evening, 10.5099590338, 0.0263157894737
+mzy, headOnly, 2, the world is a stage, 8.7764206831, 0.0
+mzy, headOnly, 2, soon we will return from tune city, 8.51372204218, 0.0588235294118
+mzy, headOnly, 2, we missed your birthday, 6.02881774884, 0.0
+mzy, headOnly, 2, the generation gap gets wider, 9.32186536741, 0.0
+mzy, headOnly, 3, players must know all the rules, 5.16503272843, 0.0
+mzy, headOnly, 3, do not say anything, 8.79136980531, 0.0
+mzy, headOnly, 3, sit at the front of the bus, 6.38817275444, 0.0
+mzy, headOnly, 3, the the chamber makes important decisions, 7.41480695756, 0.0975609756098
+mzy, headOnly, 4, rapidly running short on word, 9.03979316953, 0.0344827586207
+mzy, headOnly, 4, my car always breaks in the winter, 4.30973666996, 0.0
+mzy, headOnly, 4, time to go shopping, 8.10944370061, 0.0
+mzy, headOnly, 4, just in time for the party, 6.891647979, 0.0
+mzy, headOnly, 5, medieval times were very hard, 12.7188705643, 0.0
+mzy, headOnly, 5, important for political parties, 11.2933584297, 0.0
+mzy, headOnly, 5, you should visit a doctor, 8.36292436863, 0.0
+mzy, headOnly, 5, come and see our new car, 5.5891942245, 0.0
+mzy, headOnly, 6, learn to walk before you run, 11.3612974931, 0.0
+mzy, headOnly, 6, the land is owned by the government, 4.03679515585, 0.0571428571429
+mzy, headOnly, 6, do not feel too bad about it, 10.5305145592, 0.0
+mzy, headOnly, 6, user friendly interface, 12.5937031484, 0.0

@@ -1,0 +1,29 @@
+120.2351 session dwell_0.9_1
+120.2351 phrase want to join us for lunch
+121.9335 letter w
+122.9423 letter a
+124.0299 letter n
+125.0828 letter t
+125.9963 letter  
+127.0659 letter t
+128.2202 letter o
+129.0666 letter  
+130.2283 letter j
+131.2468 letter o
+132.1017 letter o
+133.492 delete
+134.8237 letter i
+135.6107 letter n
+136.4268 letter  
+137.3185 letter u
+138.3902 letter s
+139.2532 letter  
+140.3874 letter f
+141.5005 letter o
+142.6535 letter r
+143.4727 letter  
+144.8611 letter l
+145.6541 letter u
+146.7245 letter n
+147.5965 letter c
+148.4466 letter h

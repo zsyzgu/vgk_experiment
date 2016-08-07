@@ -1,0 +1,25 @@
+user, technique, session, phrase, rate, error
+ssy, normal, 1, a very traditional way to dress, 13.4010774982, 0.0
+ssy, normal, 1, my favorite place to visit, 12.1186581891, 0.0
+ssy, normal, 1, parking lot is full of trucks, 10.2359238277, 0.0
+ssy, normal, 1, the minimum amount of time, 9.69981996546, 0.0
+ssy, normal, 2, the registration period is over, 7.03302046522, 0.0
+ssy, normal, 2, universities are too expensive, 11.9214070204, 0.0
+ssy, normal, 2, he is still on our team, 9.81733395752, 0.0
+ssy, normal, 2, gas bills are sent monthly, 17.5556427427, 0.0
+ssy, normal, 3, important news always seems to be late, 10.0321865987, 0.0
+ssy, normal, 3, the world is a stage, 8.50415463388, 0.0
+ssy, normal, 3, please provide your date of birth, 11.8959107807, 0.0
+ssy, normal, 3, our silver anniversary is coming, 10.7604017217, 0.0
+ssy, normal, 4, rapidly running short on words, 12.1985549404, 0.0
+ssy, normal, 4, soon we will return from the city, 14.3851672942, 0.0
+ssy, normal, 4, do not lie in court or else, 8.1832263344, 0.0
+ssy, normal, 4, medieval times were very hard, 14.4016129807, 0.0
+ssy, normal, 5, the objective of the exercise, 9.39181722271, 0.0
+ssy, normal, 5, you must make an appointment, 11.1255330985, 0.0
+ssy, normal, 5, that is a very odd question, 13.3762996291, 0.0
+ssy, normal, 5, a good response to the question, 13.6416104096, 0.0
+ssy, normal, 6, this person is a disaster, 15.7284716544, 0.0
+ssy, normal, 6, the opposing team is over there, 14.9446759592, 0.0
+ssy, normal, 6, love means many things, 10.759284602, 0.0
+ssy, normal, 6, always cover all the bases, 7.81065088757, 0.0

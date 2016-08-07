@@ -1,0 +1,269 @@
+1067.809 session dwell_0.6_1
+1067.809 phrase the opposing team is over there
+1069.333 letter t
+1070.212 letter h
+1071.156 letter e
+1072.068 letter  
+1073.095 letter o
+1073.874 letter p
+1074.288 letter p
+1075.183 letter o
+1076.111 letter s
+1077.222 letter i
+1078.133 letter n
+1078.945 letter g
+1079.807 letter  
+1080.752 letter t
+1081.564 letter e
+1082.376 letter a
+1083.553 letter m
+1084.332 letter  
+1085.426 letter i
+1086.354 letter s
+1087.232 letter  
+1088.193 letter o
+1089.27 letter v
+1090.132 letter e
+1090.927 letter r
+1091.855 letter  
+1092.75 letter t
+1093.563 letter h
+1094.507 letter e
+1095.253 letter r
+1095.965 letter e
+1095.965 phrase please provide your date of birth
+1096.976 letter  
+1097.954 delete
+1098.783 letter p
+1099.877 letter l
+1101.07 letter e
+1101.832 letter a
+1102.545 letter s
+1103.307 letter e
+1104.185 letter  
+1105.196 letter p
+1106.207 letter r
+1107.152 letter o
+1108.196 letter v
+1109.091 letter i
+1110.069 letter d
+1110.815 letter e
+1111.727 letter  
+1112.538 letter y
+1113.516 letter o
+1114.428 letter u
+1115.29 letter r
+1116.301 letter  
+1117.196 letter d
+1118.057 letter a
+1119.002 letter t
+1119.848 letter e
+1120.775 letter  
+1121.737 letter o
+1122.88 letter f
+1123.51 letter  
+1124.389 letter b
+1125.217 letter i
+1126.162 letter r
+1126.576 letter t
+1127.554 letter h
+1127.554 phrase call for more details
+1129.476 letter c
+1130.339 letter a
+1131.399 letter l
+1131.814 letter l
+1132.758 letter  
+1133.521 letter f
+1134.449 letter o
+1135.328 letter r
+1136.256 letter  
+1137.001 letter m
+1137.98 letter o
+1138.858 letter r
+1139.57 letter e
+1140.465 letter  
+1141.261 letter d
+1141.941 letter e
+1142.769 letter t
+1143.614 letter a
+1144.708 letter i
+1145.338 letter l
+1146.449 letter s
+1146.449 phrase traveling requires a lot of fuel
+1147.675 letter t
+1148.504 letter r
+1149.399 letter a
+1150.592 letter v
+1151.504 letter e
+1152.382 letter l
+1153.161 letter i
+1153.923 letter n
+1154.636 letter g
+1155.481 letter  
+1156.31 letter r
+1157.039 letter e
+1157.851 letter q
+1158.912 letter u
+1159.509 letter i
+1160.586 letter r
+1161 letter e
+1161.862 letter s
+1162.824 letter  
+1163.652 letter a
+1164.696 letter l
+1165.857 delete
+1166.702 letter  
+1167.497 letter l
+1168.309 letter o
+1169.287 letter t
+1170.166 letter  
+1171.177 letter o
+1172.071 letter f
+1172.95 letter  
+1173.894 letter f
+1174.69 letter u
+1175.701 letter e
+1176.629 letter l
+1176.629 phrase in sharp contrast to your words
+1178.121 letter i
+1179.032 letter n
+1179.861 letter  
+1180.938 letter s
+1181.353 letter s
+1182.745 delete
+1184.187 letter h
+1185.231 letter a
+1186.125 letter r
+1187.07 letter p
+1188.098 letter  
+1189.141 letter c
+1190.152 letter o
+1191.08 letter n
+1192.091 letter t
+1192.854 letter r
+1193.715 letter a
+1194.13 letter s
+1195.19 letter t
+1196.069 letter  
+1196.831 letter t
+1197.742 letter o
+1198.588 letter y
+1199.847 delete
+1200.626 letter  
+1201.454 letter y
+1202.531 letter o
+1203.377 letter u
+1204.338 letter r
+1205.25 letter  
+1206.294 letter w
+1207.305 letter o
+1208.564 letter r
+1209.36 letter d
+1210.089 letter s
+1210.089 phrase the music is better than it sounds
+1210.503 letter d
+1211.829 delete
+1212.757 letter t
+1213.486 letter h
+1214.415 letter e
+1215.309 letter  
+1216.155 letter m
+1216.984 letter u
+1217.878 letter s
+1218.756 letter i
+1219.585 letter c
+1220.446 letter  
+1221.407 letter i
+1222.252 letter s
+1223.214 letter  
+1223.959 letter b
+1224.921 letter e
+1225.749 letter t
+1226.163 letter t
+1226.926 letter e
+1227.34 letter r
+1228.45 letter  
+1229.229 letter t
+1230.025 letter h
+1230.92 letter a
+1231.881 letter n
+1232.66 letter  
+1233.456 letter i
+1234.234 letter t
+1235.096 letter  
+1235.925 letter s
+1236.919 letter o
+1237.698 letter u
+1238.576 letter n
+1239.554 letter d
+1240.366 letter s
+1240.366 phrase my favorite subject is psychology
+1241.808 letter m
+1242.687 letter y
+1243.515 letter  
+1244.36 letter f
+1245.238 letter a
+1246.117 letter v
+1247.045 letter o
+1248.022 letter r
+1248.834 letter i
+1249.696 letter t
+1250.508 letter e
+1251.436 letter  
+1252.232 letter d
+1253.641 delete
+1254.585 letter s
+1255.646 letter u
+1256.508 letter b
+1257.319 letter j
+1258.447 letter e
+1259.258 letter c
+1260.037 letter t
+1261.198 letter  
+1262.076 letter i
+1263.071 letter s
+1264.811 letter  
+1265.755 letter p
+1266.849 letter s
+1267.728 letter y
+1269.004 letter c
+1269.766 letter h
+1270.728 letter o
+1271.54 letter l
+1272.22 letter o
+1273.065 letter g
+1273.744 letter y
+1273.744 phrase he is just like everyone else
+1274.159 letter y
+1276.214 delete
+1277.093 letter h
+1278.104 letter e
+1278.982 letter  
+1279.893 letter i
+1280.772 letter s
+1281.75 letter  
+1282.612 letter j
+1283.407 letter u
+1284.302 letter s
+1285.147 letter t
+1285.975 letter  
+1286.87 letter l
+1287.616 letter i
+1288.395 letter k
+1289.489 letter e
+1290.434 letter  
+1291.345 letter e
+1292.207 letter v
+1293.135 letter e
+1293.748 letter r
+1294.427 letter t
+1295.653 delete
+1296.449 letter y
+1297.377 letter o
+1298.155 letter n
+1299.183 letter e
+1300.111 letter  
+1300.972 letter e
+1302.033 letter l
+1302.994 letter s
+1303.513 letter e

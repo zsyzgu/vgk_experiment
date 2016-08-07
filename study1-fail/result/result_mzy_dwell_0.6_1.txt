@@ -1,0 +1,25 @@
+user, technique, session, phrase, rate, error
+mzy, dwell, 1, user friendly interface, 9.21817443566, 0.0
+mzy, dwell, 1, world population is growing, 10.0021185043, 0.0
+mzy, dwell, 1, my watch  fell in the water, 5.20821492567, 0.037037037037
+mzy, dwell, 1, the fourth edition was better, 2.20456285723, 0.0
+mzy, dwell, 2, this is a non profit organization, 6.22368594095, 0.0
+mzy, dwell, 2, win first prize in the contest, 5.83336412053, 0.0
+mzy, dwell, 2, take a coffee break, 9.14259592583, 0.0
+mzy, dwell, 2, zero in on the facts, 10.1182571302, 0.0
+mzy, dwell, 3, are you sure you want this, 8.21746276055, 0.0
+mzy, dwell, 3, this equation is too complicated, 9.37045072984, 0.0
+mzy, dwell, 3, work hard to reach the summit, 8.79303396309, 0.0
+mzy, dwell, 3, what to do, 7.2039621792, 1.0
+mzy, dwell, 4, the opposing team is over there, 10.4448781598, 0.0
+mzy, dwell, 4, that is a very odd question, 8.38332100181, 0.0
+mzy, dwell, 4, for murder you get a long prison sentence, 10.6610643819, 0.0
+mzy, dwell, 4, completely sold out of that, 9.95875775322, 0.0
+mzy, dwell, 5, time to go shopping, 10.947032328, 0.0
+mzy, dwell, 5, what goes up must come down, 7.51665622687, 0.0
+mzy, dwell, 5, he is just like everyone else, 6.97471665214, 0.0
+mzy, dwell, 5, never mix religion and politics, 7.66301648495, 0.0
+mzy, dwell, 6, good jobs for those with education, 10.5167724388, 0.0
+mzy, dwell, 6, gas bills are sent monthly, 6.67188961055, 0.0
+mzy, dwell, 6, medieval times were very hard, 11.2684520903, 0.0
+mzy, dwell, 6, this watch is too expensive , 10.4139154058, 0.0357142857143

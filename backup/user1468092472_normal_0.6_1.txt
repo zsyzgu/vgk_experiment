@@ -1,0 +1,130 @@
+26.90124 session normal_0.6_1
+26.90124 phrase we missed your birthday
+34.63943 gestureStart
+35.00475 gestureEnd we
+35.90111 gestureStart
+37.06338 gestureEnd missed
+38.0593 gestureStart
+38.97266 gestureEnd your
+40.11805 gestureStart
+42.57522 gestureEnd birthday
+42.57522 phrase nothing wrong with his style
+54.84446 gestureStart
+56.77077 gestureEnd nothing
+58.14852 gestureStart
+59.70925 gestureEnd willing
+61.10349 gestureStart
+61.1867 select wrong
+62.0165 gestureStart
+63.21203 gestureEnd with
+64.07534 gestureStart
+64.92402 gestureEnd his
+65.70216 gestureStart
+67.22975 gestureEnd style
+67.22975 phrase the library is closed today
+74.94903 gestureStart
+75.64655 gestureEnd the
+76.62586 gestureStart
+79.09952 gestureEnd library
+79.9128 gestureStart
+80.47739 gestureEnd is
+81.22419 gestureStart
+82.81806 gestureEnd closed
+83.66441 gestureStart
+85.258 gestureEnd today
+85.258 phrase are you talking to me
+88.59501 gestureStart
+89.10989 gestureEnd are
+89.98949 gestureStart
+90.70367 gestureEnd you
+91.55013 gestureStart
+93.21041 gestureEnd dealing
+95.03662 gestureStart
+95.11969 select talking
+95.88319 gestureStart
+96.31512 gestureEnd too
+97.44382 gestureStart
+97.46053 select to
+98.10792 gestureStart
+98.8056 gestureEnd me
+98.8056 phrase longer than a football field
+106.757 gestureStart
+108.2513 gestureEnd longer
+108.882 gestureStart
+109.9942 gestureEnd than
+111.7869 gestureStart
+111.8533 gestureEnd a
+112.8658 gestureStart
+114.8579 gestureEnd football
+116.0529 gestureStart
+117.8126 gestureEnd field
+117.8126 phrase the facts get in the way
+125.6146 gestureStart
+126.1792 gestureEnd the
+126.9425 gestureStart
+128.088 gestureEnd facts
+129.0172 gestureStart
+129.5818 gestureEnd get
+130.2785 gestureStart
+130.644 gestureEnd in
+131.3574 gestureStart
+131.9386 gestureEnd the
+132.6853 gestureStart
+133.3494 gestureEnd way
+133.3494 phrase our silver anniversary is coming
+144.2199 gestureStart
+144.9171 gestureEnd out
+146.1453 gestureStart
+146.2117 select our
+146.8421 gestureStart
+148.5019 gestureEnd silver
+149.5145 gestureStart
+152.7835 gestureEnd anniversary
+153.58 gestureStart
+154.0945 gestureEnd is
+154.9739 gestureStart
+156.3017 gestureEnd filming
+158.8574 gestureStart
+158.9238 select coming
+158.9238 phrase nothing wrong with his style
+166.4583 gestureStart
+168.367 gestureEnd nothing
+169.3955 gestureStart
+170.3418 gestureEnd wrong
+171.2543 gestureStart
+172.2999 gestureEnd worth
+174.2579 gestureStart
+174.2745 nextPage
+176.8968 delete
+178.4566 gestureStart
+178.5065 delete
+178.6391 gestureStart
+178.6723 delete
+178.8881 gestureStart
+178.938 delete
+184.2982 gestureStart
+186.0269 gestureEnd nothing
+187.2355 gestureStart
+189.2768 gestureEnd rough
+190.5379 gestureStart
+190.5877 delete
+191.1352 gestureStart
+191.1685 delete
+191.3013 gestureStart
+191.3178 delete
+191.5003 gestureStart
+191.5834 delete
+192.3631 gestureStart
+194.5873 gestureEnd nothing
+195.8646 gestureStart
+196.8935 gestureEnd willing
+198.5526 gestureStart
+198.5858 select wrong
+199.1664 gestureStart
+200.1458 gestureEnd with
+201.108 gestureStart
+201.8217 gestureEnd his
+202.7842 gestureStart
+204.5765 gestureEnd sole
+206.451 gestureStart
+206.534 select style

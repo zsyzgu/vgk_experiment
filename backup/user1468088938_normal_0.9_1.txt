@@ -1,0 +1,40 @@
+20.01267 session normal_0.9_1
+20.01267 phrase would you like to come to my house
+25.18542 gestureStart
+27.19523 gestureEnd would
+27.84187 gestureStart
+28.65662 gestureEnd you
+29.55877 gestureStart
+30.65165 gestureEnd like
+31.37068 gestureStart
+31.85819 gestureEnd top
+34.0802 gestureStart
+34.14725 nextPage
+35.36535 delete
+36.2883 gestureStart
+36.99554 gestureEnd till
+38.21089 gestureStart
+38.25994 select to
+38.90888 gestureStart
+40.85281 gestureEnd come
+41.91666 gestureStart
+43.01258 gestureEnd too
+43.99875 gestureStart
+44.05946 select to
+44.65604 gestureStart
+45.42067 gestureEnd my
+46.33943 gestureStart
+48.41985 gestureEnd house
+48.41985 phrase consequences of a wrong turn
+61.09045 gestureStart
+69.08178 gestureEnd consequences
+70.17526 gestureStart
+70.91177 gestureEnd off
+72.02533 gestureStart
+72.08344 select of
+72.79312 gestureStart
+72.85312 gestureEnd a
+74.02744 gestureStart
+75.77854 gestureEnd wrong
+76.98071 gestureStart
+78.77144 gestureEnd turn

@@ -1,0 +1,25 @@
+user, technique, session, phrase, rate, error
+ssy, dwell, 1, effort is what it will take, 6.11576872201, 0.0
+ssy, dwell, 1, always cover all the bases, 7.95607283423, 0.0
+ssy, dwell, 1, are you talking to me, 8.63009873848, 0.0
+ssy, dwell, 1, a dog is the best friend of a man, 3.17852166957, 0.0
+ssy, dwell, 2, elections bring out the best, 8.09714322666, 0.0
+ssy, dwell, 2, this equation is too complicated, 7.4612945346, 0.0
+ssy, dwell, 2, the back yard of our house, 7.48950132404, 0.0
+ssy, dwell, 2, watch out for low flying objects, 5.15617316466, 0.0
+ssy, dwell, 3, for murder you get a long prison sentence, 7.18180890051, 0.0
+ssy, dwell, 3, my favorite subject is psychology, 8.37353673649, 0.0
+ssy, dwell, 3, the music is better than it sounds, 9.10890015453, 0.0
+ssy, dwell, 3, world population is growing, 4.9160180254, 0.0
+ssy, dwell, 4, that land is owned by the government, 9.13914345917, 0.0
+ssy, dwell, 4, a good response to the question, 10.3154136084, 0.0
+ssy, dwell, 4, do not drink too much, 6.62574296015, 0.0
+ssy, dwell, 4, express delivery is very fast, 1.84080700979, 0.0
+ssy, dwell, 5, my watch fell in the water, 8.14742967992, 0.0
+ssy, dwell, 5, the assignment is due today, 8.75551184849, 0.0
+ssy, dwell, 5, the facts get in the way, 9.02648560909, 0.0
+ssy, dwell, 5, just like it says on the can good, 8.36909871245, 0.0
+ssy, dwell, 6, call for more details, 11.0339190846, 0.0
+ssy, dwell, 6, travel at the speed of light, 8.56796945333, 0.0
+ssy, dwell, 6, do not walk too quickly, 9.71535708198, 0.0
+ssy, dwell, 6, with each step forward , 8.32450983972, 0.0434782608696

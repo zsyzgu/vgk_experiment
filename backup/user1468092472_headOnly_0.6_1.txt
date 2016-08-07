@@ -1,0 +1,103 @@
+489.8915 session headOnly_0.6_1
+489.8915 phrase please provide your date of birth
+558.8974 gestureStart
+561.2037 select please
+561.9331 gestureStart
+565.5825 select provide
+566.1953 gestureStart
+569.3964 select your
+570.2086 gestureStart
+573.3434 select date
+573.5921 gestureStart
+576.2795 nextPage
+576.9757 select of
+578.0865 gestureStart
+580.4921 select birth
+580.4921 phrase the capital of our nation
+592.4818 gestureStart
+594.3571 select the
+595.4017 gestureStart
+600.3097 select capital
+600.5916 gestureStart
+603.2283 nextPage
+604.0574 nextPage
+604.6376 nextPage
+605.4332 select of
+606.0798 gestureStart
+608.5848 select our
+609.3807 gestureStart
+612.7965 select nation
+612.7965 phrase just in time for the party
+613.9074 gestureStart
+617.9214 select just
+618.9163 gestureStart
+620.7252 select in
+621.5542 gestureStart
+626.3309 select time
+637.1268 gestureStart
+641.4225 select for
+642.3178 gestureStart
+644.4086 select the
+645.6851 gestureStart
+648.2731 select party
+648.2731 phrase universities are too expensive
+662.3843 gestureStart
+670.1119 select universities
+671.1566 gestureStart
+673.2471 select are
+673.7943 gestureStart
+675.9993 select too
+676.6127 gestureStart
+681.3569 select expensive
+681.3569 phrase hands on experience with a job
+692.0359 gestureStart
+694.5909 select hands
+695.1546 gestureStart
+697.4592 nextPage
+698.2551 select on
+698.5369 gestureStart
+703.6782 select experience
+704.507 gestureStart
+707.2274 select with
+712.5997 gestureStart
+714.6407 select a
+715.3369 gestureStart
+717.8093 select job
+717.8093 phrase experience is hard to come by
+769.869 gestureStart
+774.7783 select experience
+775.3419 gestureStart
+777.5483 select kids
+778.6094 delete
+779.4216 gestureStart
+781.4292 select is
+782.1255 gestureStart
+784.8788 select hard
+789.9354 gestureStart
+791.7092 select to
+792.4716 gestureStart
+795.2419 select come
+795.9379 gestureStart
+797.7301 select by
+797.7301 phrase good jobs for those with education
+817.1978 gestureStart
+820.764 select good
+821.9576 gestureStart
+825.1257 select jobs
+825.9213 gestureStart
+829.0396 select for
+829.885 gestureStart
+832.6721 select those
+833.1529 gestureStart
+836.5364 select with
+854.4898 gestureStart
+860.523 select education
+860.523 phrase bad for the environment
+862.761 gestureStart
+864.6855 select bad
+865.2655 gestureStart
+867.6376 select for
+868.2672 gestureStart
+870.4404 select the
+871.2193 gestureStart
+877.4527 select environment

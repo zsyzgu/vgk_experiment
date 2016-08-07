@@ -1,0 +1,25 @@
+user, technique, session, phrase, rate, error
+mzy, normal, 1, can we play cards tonight, 18.9317106153, 0.0
+mzy, normal, 1, exercise is good for the mind, 10.1965310552, 0.0
+mzy, normal, 1, important for political parties, 15.5149007693, 0.0
+mzy, normal, 1, public transit is much faster, 14.592078447, 0.0
+mzy, normal, 2, this is too much to handle, 13.4976620121, 0.0
+mzy, normal, 2, if at first you do not succeed, 12.9138137451, 0.0
+mzy, normal, 2, my favorite subject is psychology, 15.4799450195, 0.0
+mzy, normal, 2, always cover all the bases, 13.4974155517, 0.0
+mzy, normal, 3, you should visit a doctor, 15.98467501, 0.0
+mzy, normal, 3, in sharp contract to your words, 15.4387423363, 0.0322580645161
+mzy, normal, 3, house with new electrical panel, 13.6099571118, 0.0
+mzy, normal, 3, the assignment is due today, 17.1719748393, 0.0
+mzy, normal, 4, my car always breaks in the winter, 15.2015563498, 0.0
+mzy, normal, 4, a yard is almost as a meter, 10.0661891884, 0.0
+mzy, normal, 4, do not feel too bad about it, 12.9279316778, 0.0
+mzy, normal, 4, players must know all the rules, 16.4264993129, 0.0
+mzy, normal, 5, the cream rises to the top, 12.019689396, 0.0
+mzy, normal, 5, the dog buried the bone, 8.78308101237, 0.0
+mzy, normal, 5, life is but a dream, 12.7976338597, 0.0
+mzy, normal, 5, this person is a disaster, 15.4885341823, 0.0
+mzy, normal, 6, a dog is the best friend of a man, 10.4222758776, 0.0
+mzy, normal, 6, do not lie in court or else, 10.9546642091, 0.0
+mzy, normal, 6, have a good weekend, 12.7627328202, 0.0
+mzy, normal, 6, longer than a football field, 14.3509198541, 0.0

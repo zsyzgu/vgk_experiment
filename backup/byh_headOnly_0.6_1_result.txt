@@ -1,0 +1,20 @@
+session, phrase, time
+1, that is a very odd question, 2.76334754434
+1, zero in on the facts, 3.89328347768
+1, experience is hard to come by, 4.7048829497
+2, the land is owned by the government, 6.8136029275
+2, express delivery is very fast, 4.57738527547
+2, travel at the speed of light, 5.21230708798
+2, what goes top must come down, 2.58207924738
+3, nothing testing with his style, 3.44629523262
+3, interesting observation was made, 8.39545487443
+3, soon we will return from the city, 4.42417456373
+3, take a coffee break, 7.73289298804
+4, routes is a very good idea, 2.49574139365
+4, effort his what it will take, 5.24654982321
+4, find a nearby parking spot, 8.51283374178
+4, bar for the environment, 7.36897049341
+5, just like bit says on the can good, 4.05730314566
+5, reading week is just about here, 5.16197346216
+5, safe to walk three streets in the evening, 6.98570327883
+5, fall is my favorite season, 8.00533689126

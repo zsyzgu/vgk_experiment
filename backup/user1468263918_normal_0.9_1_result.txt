@@ -1,0 +1,7 @@
+word, len, perform_time, word_time
+this, 4, 2.4653, 2.4653
+phenomenon, 10, 7.4385, 7.3778
+will, 4, 1.3329, 2.2949
+never, 5, 1.8437, 2.801
+occur, 5, 2.0395, 4.4463
+rate=17.3327211856, err=0.0

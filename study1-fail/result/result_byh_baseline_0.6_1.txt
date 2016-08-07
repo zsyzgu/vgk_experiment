@@ -1,0 +1,21 @@
+user, technique, session, phrase, rate, error
+byh, baseline, 1, would you like to come to my house, 4.59426539256, 0.0
+byh, baseline, 1, we missed your birthday, 11.9989800867, 0.0
+byh, baseline, 1, traveling to conferences is fun, 5.24487410683, 0.0
+byh, baseline, 1, the dog buried the bone, 7.53054328906, 0.0
+byh, baseline, 2, the cream rises to the top, 6.63881175807, 0.0
+byh, baseline, 2, comd and see our new car, 8.912865017, 0.0416666666667
+byh, baseline, 2, we better ibvestigste this, 10.1578515408, 0.0769230769231
+byh, baseline, 2, take a coffee break, 8.57755539671, 0.0
+byh, baseline, 3, time to go shopping, 10.8302638185, 0.0
+byh, baseline, 3, a yard is almost as a meter, 8.46856716548, 0.0
+byh, baseline, 3, electric cars need big fuel cells, 7.80284803953, 0.0
+byh, baseline, 3, longer than a football field, 9.29512006197, 0.0
+byh, baseline, 4, frequently asked questions, 10.4204356321, 0.0
+byh, baseline, 4, the sun of the parts, 11.3489933679, 0.05
+byh, baseline, 4, he is just like everyone else, 5.73247266626, 0.0
+byh, baseline, 4, beautiful paintings in the gallery, 7.10506215943, 0.0
+byh, baseline, 5, valid until the end of the year, 8.90667585044, 0.0
+byh, baseline, 5, with each step forward, 10.2527666731, 0.0
+byh, baseline, 5, for murder you get a long prison sentence, 7.44717162628, 0.0
+byh, baseline, 5, you must be getting old, 8.98157595144, 0.0

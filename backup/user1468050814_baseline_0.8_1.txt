@@ -1,0 +1,299 @@
+46.29493 session baseline_0.8_1
+46.29493 phraseUpdate nothing wrong with his style
+51.52167 gestureStart
+51.57165 letter n
+52.33493 gestureStart
+52.40123 letter o
+53.16462 gestureStart
+53.21455 letter t
+53.89463 gestureStart
+53.92793 letter h
+54.40902 gestureStart
+54.47562 letter i
+55.10593 gestureStart
+55.18902 letter n
+55.78602 gestureStart
+55.88573 letter f
+57.44537 gestureStart
+57.52838 delete
+58.60675 gestureStart
+58.67318 letter g
+59.63552 gestureStart
+59.68538 letter  
+60.6144 gestureStart
+60.63101 letter w
+61.34438 gestureStart
+61.36115 letter t
+63.23594 gestureStart
+63.3024 delete
+64.92836 gestureStart
+64.99482 letter r
+65.99014 gestureStart
+66.05681 letter o
+66.8861 gestureStart
+66.98589 letter n
+67.83195 gestureStart
+67.9314 letter g
+68.645 gestureStart
+68.74454 letter  
+69.65707 gestureStart
+69.74002 letter w
+70.60274 gestureStart
+70.66913 letter i
+71.44891 gestureStart
+71.51523 letter t
+72.34473 gestureStart
+72.39471 letter h
+73.10816 gestureStart
+73.17456 letter  
+73.85464 gestureStart
+73.90468 letter h
+74.46849 gestureStart
+74.50184 letter i
+75.54695 gestureStart
+75.59682 letter s
+76.36006 gestureStart
+76.40974 letter  
+77.18963 gestureStart
+77.22285 letter s
+78.06898 gestureStart
+78.10224 letter t
+78.53358 gestureStart
+78.56683 letter y
+79.3466 gestureStart
+79.37978 letter l
+80.27573 gestureStart
+80.30893 phraseUpdate information super highway
+80.30893 letter e
+84.15836 gestureStart
+84.20804 letter i
+84.95468 gestureStart
+84.9879 letter n
+87.16125 gestureStart
+87.24431 letter f
+88.12363 gestureStart
+88.18994 letter o
+89.18546 gestureStart
+89.23534 letter r
+90.26395 gestureStart
+90.33035 letter m
+91.1433 gestureStart
+91.22627 letter a
+91.93961 gestureStart
+92.00603 letter t
+92.63651 gestureStart
+92.70289 letter i
+93.74801 gestureStart
+93.81448 letter o
+94.61071 gestureStart
+94.67718 letter n
+95.4735 gestureStart
+95.55659 letter  
+96.35289 gestureStart
+96.4194 letter s
+97.18248 gestureStart
+97.2655 letter u
+97.9291 gestureStart
+98.04534 letter p
+99.80377 gestureStart
+99.91994 letter e
+100.517 gestureStart
+100.5337 letter r
+101.7283 gestureStart
+101.7615 letter  
+103.3044 gestureStart
+103.3709 letter h
+104.3661 gestureStart
+104.4493 letter i
+105.1459 gestureStart
+105.2124 letter g
+105.8428 gestureStart
+105.9424 letter h
+106.855 gestureStart
+107.8673 letter w
+108.5971 gestureStart
+108.6802 letter a
+110.3225 gestureStart
+110.4222 phraseUpdate do not drink too much
+110.4222 letter y
+111.8654 gestureStart
+111.9152 letter d
+112.8776 gestureStart
+112.944 letter o
+113.8398 gestureStart
+113.9229 letter  
+114.437 gestureStart
+114.5533 letter n
+115.3661 gestureStart
+115.4324 letter o
+116.2454 gestureStart
+116.3286 letter t
+117.2245 gestureStart
+117.3241 letter  
+118.1204 gestureStart
+118.2198 letter d
+118.701 gestureStart
+118.8505 letter r
+119.6633 gestureStart
+119.7796 letter i
+120.4764 gestureStart
+120.5261 letter n
+121.1066 gestureStart
+121.2229 letter k
+122.1021 gestureStart
+122.1687 letter  
+122.832 gestureStart
+122.915 letter t
+123.7112 gestureStart
+123.8108 letter o
+124.126 gestureStart
+124.3583 letter o
+125.5527 gestureStart
+125.6026 letter  
+126.1997 gestureStart
+126.2662 letter m
+126.7141 gestureStart
+126.8138 letter u
+127.3611 gestureStart
+127.444 letter c
+128.0246 gestureStart
+128.1242 phraseUpdate construction makes traveling difficult
+128.1242 letter h
+129.4348 gestureStart
+129.5344 letter c
+130.3142 gestureStart
+130.4469 letter o
+131.1436 gestureStart
+131.1934 letter n
+131.9565 gestureStart
+132.0063 letter s
+132.6199 gestureStart
+132.6862 letter t
+133.4161 gestureStart
+133.4825 letter r
+134.0465 gestureStart
+134.1295 letter u
+134.7099 gestureStart
+134.7765 letter c
+135.473 gestureStart
+135.5394 letter y
+136.4185 gestureStart
+136.4518 delete
+137.3308 gestureStart
+137.3476 letter t
+139.0231 gestureStart
+139.1059 letter i
+139.6368 gestureStart
+139.7032 letter o
+140.5989 gestureStart
+140.6321 letter n
+141.4117 gestureStart
+141.4449 letter  
+142.0918 gestureStart
+142.125 letter m
+143.9994 gestureStart
+144.0824 letter a
+144.8453 gestureStart
+144.945 letter m
+145.8904 gestureStart
+145.9237 delete
+146.5706 gestureStart
+146.5871 letter k
+147.5825 gestureStart
+147.6324 letter e
+148.2131 gestureStart
+148.2628 letter s
+148.9595 gestureStart
+149.0092 letter  
+150.1373 gestureStart
+150.1871 letter t
+150.7678 gestureStart
+150.8177 letter r
+151.5974 gestureStart
+151.614 letter a
+153.5719 gestureStart
+153.6052 letter v
+154.4347 gestureStart
+154.468 letter e
+155.6294 gestureStart
+155.6626 letter l
+156.4256 gestureStart
+156.4923 letter i
+157.2552 gestureStart
+157.3385 letter n
+158.0848 gestureStart
+158.1511 letter g
+159.0471 gestureStart
+159.1133 letter  
+159.893 gestureStart
+159.9595 letter d
+160.7391 gestureStart
+160.8221 letter i
+161.5688 gestureStart
+161.7179 letter f
+162.0496 gestureStart
+162.0995 letter f
+162.8957 gestureStart
+162.9788 letter i
+163.8248 gestureStart
+163.8911 letter c
+164.9363 gestureStart
+165.0029 letter u
+165.8989 gestureStart
+165.9652 letter l
+167.0933 gestureStart
+167.1266 phraseUpdate that is a very odd question
+167.1266 letter t
+168.2713 gestureStart
+168.3044 letter t
+168.968 gestureStart
+168.9847 letter h
+170.9426 gestureStart
+171.0753 letter a
+171.8383 gestureStart
+171.8882 letter t
+172.9663 gestureStart
+173.0329 letter  
+173.8125 gestureStart
+173.8788 letter i
+174.7413 gestureStart
+174.8079 letter s
+175.5045 gestureStart
+175.571 letter  
+176.3505 gestureStart
+176.4337 letter a
+177.578 gestureStart
+177.6611 letter  
+178.142 gestureStart
+178.2748 letter v
+178.8554 gestureStart
+178.9218 letter e
+179.4026 gestureStart
+179.519 letter r
+180.0992 gestureStart
+180.1325 letter y
+180.8622 gestureStart
+180.9286 letter  
+181.8905 gestureStart
+181.9404 letter o
+182.8857 gestureStart
+182.9521 letter d
+183.2672 gestureStart
+183.3171 letter d
+184.0634 gestureStart
+184.0966 letter  
+186.1036 gestureStart
+186.1865 letter q
+187.1815 gestureStart
+187.2646 letter u
+187.9943 gestureStart
+188.1106 letter e
+188.7906 gestureStart
+188.8238 letter s
+189.5536 gestureStart
+189.5703 letter t
+190.2834 gestureStart
+190.3168 letter i
+190.7479 gestureStart
+190.8144 letter o
+191.5607 gestureStart

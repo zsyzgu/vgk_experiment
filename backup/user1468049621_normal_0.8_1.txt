@@ -1,0 +1,77 @@
+34.19196 session normal_0.8_1
+34.19196 phraseUpdate universities are too expensive
+35.86849 gestureStart
+42.35832 gestureEnd universities
+43.27111 gestureStart
+43.90191 gestureEnd address
+45.19652 gestureStart
+45.21323 select are
+46.00974 gestureStart
+46.67375 gestureEnd too
+48.05131 gestureStart
+51.15499 gestureEnd reforms
+54.64017 gestureStart
+54.70663 delete
+55.76845 gestureStart
+60.21638 gestureEnd expensive
+60.21638 phraseUpdate time to go shopping
+61.8427 gestureStart
+63.53568 gestureEnd time
+64.92968 gestureStart
+65.61002 gestureEnd too
+67.33595 gestureStart
+67.43555 select to
+68.06618 gestureStart
+68.7633 gestureEnd go
+69.89198 gestureStart
+73.26144 gestureEnd shopping
+73.26144 phraseUpdate a subject one can really enjoy
+75.15338 gestureStart
+75.20335 gestureEnd a
+76.59752 gestureStart
+79.55192 gestureEnd subject
+80.69698 gestureStart
+81.79245 gestureEnd one
+82.72176 gestureStart
+83.73428 gestureEnd can
+85.07837 gestureStart
+87.02013 gestureEnd really
+88.09898 gestureStart
+90.88708 gestureEnd enjoy
+90.88708 phraseUpdate my car always breaks in the winter
+92.7292 gestureStart
+93.35999 gestureEnd my
+94.52166 gestureStart
+95.35161 gestureEnd car
+96.44711 gestureStart
+98.70437 gestureEnd always
+100.0489 gestureStart
+101.9909 gestureEnd breaks
+102.9202 gestureStart
+103.2358 gestureEnd in
+104.1484 gestureStart
+104.7628 gestureEnd thee
+107.2189 gestureStart
+107.2854 select the
+107.9159 gestureStart
+109.8745 gestureEnd singers
+113.3265 gestureStart
+113.3598 nextPage
+115.5676 select winter
+115.5676 phraseUpdate my watch fell in the water
+116.696 gestureStart
+117.2937 gestureEnd my
+118.3725 gestureStart
+120.0818 gestureEnd watch
+121.4259 gestureStart
+122.4052 gestureEnd feel
+124.5626 gestureStart
+124.6623 select fell
+125.5088 gestureStart
+126.0233 gestureEnd in
+127.3511 gestureStart
+128.2308 gestureEnd thee
+129.5087 gestureStart
+129.5752 select the
+130.3219 gestureStart
+132.1474 gestureEnd water

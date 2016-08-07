@@ -1,0 +1,76 @@
+1467.26 session normal_0.5_2
+1467.26 phrase do not feel too bad about it
+1470.605 gestureStart
+1471.583 gestureEnd do
+1472.526 gestureStart
+1472.56 gestureEnd mm
+1472.758 gestureStart
+1473.868 gestureEnd nor
+1475.061 gestureStart
+1475.144 delete
+1475.342 gestureStart
+1475.409 delete
+1476.701 gestureStart
+1477.877 gestureEnd not
+1478.688 gestureStart
+1480.03 gestureEnd fell
+1481.654 gestureStart
+1481.77 select feel
+1482.449 gestureStart
+1482.996 gestureEnd too
+1485.381 gestureStart
+1486.657 gestureEnd bad
+1488.297 gestureStart
+1488.38 gestureEnd as
+1488.611 gestureStart
+1489.307 gestureEnd an
+1490.218 gestureStart
+1490.368 delete
+1490.55 gestureStart
+1490.583 delete
+1491.759 gestureStart
+1493.731 gestureEnd about
+1494.542 gestureStart
+1494.642 gestureEnd pop
+1495.967 gestureStart
+1496.116 delete
+1497.077 gestureStart
+1497.69 gestureEnd it
+1544.513 session normal_0.5_2
+1544.513 phrase medieval times were very hard
+1547.13 gestureStart
+1551.652 gestureEnd medieval
+1552.812 gestureStart
+1555.031 gestureEnd times
+1555.992 gestureStart
+1557.565 gestureEnd were
+1558.807 gestureStart
+1560.116 gestureEnd very
+1560.745 gestureStart
+1562.434 gestureEnd gate
+1564.67 gestureStart
+1564.885 nextPage
+1566.359 nextPage
+1567.403 nextPage
+1568.364 nextPage
+1569.49 nextPage
+1570.467 nextPage
+1571.71 delete
+1572.968 gestureStart
+1575.022 gestureEnd hard
+1599.52 session normal_0.5_2
+1599.52 phrase the force is with you
+1601.623 gestureStart
+1603.163 gestureEnd three
+1604.554 gestureStart
+1604.703 select the
+1605.88 gestureStart
+1608.53 gestureEnd forced
+1610.037 gestureStart
+1610.219 select force
+1611.445 gestureStart
+1612.704 gestureEnd is
+1614.907 gestureStart
+1616.63 gestureEnd with
+1618.17 gestureStart
+1619.23 gestureEnd you

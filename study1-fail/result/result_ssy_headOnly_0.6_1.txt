@@ -1,0 +1,25 @@
+user, technique, session, phrase, rate, error
+ssy, headOnly, 1, the cream rises to the top, 4.96669163152, 0.0
+ssy, headOnly, 1, did you have a good time, 3.40581647728, 0.0
+ssy, headOnly, 1, the food at this restaurant, 10.523064957, 0.0
+ssy, headOnly, 1, the second largest country, 12.4998867764, 0.0
+ssy, headOnly, 2, they might find your comment offensive, 4.92558755667, 0.0
+ssy, headOnly, 2, for your information only, 7.66052277264, 0.0
+ssy, headOnly, 2, what you see is what you get, 6.55879437434, 0.0
+ssy, headOnly, 2, the assignment is due today, 2.40671788209, 0.0
+ssy, headOnly, 3, important for political parties, 10.1466125111, 0.0
+ssy, headOnly, 3, win first prize in the contest, 9.9507438181, 0.0
+ssy, headOnly, 3, the fourth edition was better, 9.65763677628, 0.0
+ssy, headOnly, 3, this equation is too complicated, 8.93412676888, 0.0
+ssy, headOnly, 4, that is a very odd question, 4.36399702455, 0.0
+ssy, headOnly, 4, a subject one can really enjoy, 4.82899716216, 0.0
+ssy, headOnly, 4, the price of gas is high, 3.29689397883, 0.0
+ssy, headOnly, 4, interesting observation was made, 8.7074012911, 0.0
+ssy, headOnly, 5, the trains are always late, 7.18035194604, 0.0
+ssy, headOnly, 5, just in time for the party, 4.34670116429, 0.0
+ssy, headOnly, 5, traveling requires a lot of fuel, 9.09371579331, 0.0
+ssy, headOnly, 5, rain rain go away, 9.01771336554, 0.0
+ssy, headOnly, 6, have a good weekend, 9.50965824666, 0.0
+ssy, headOnly, 6, shall we play a round of cards, 5.36053307523, 0.0
+ssy, headOnly, 6, take a coffee break, 10.2247310683, 0.0
+ssy, headOnly, 6, never mix religion and politics, 4.89211674644, 0.0

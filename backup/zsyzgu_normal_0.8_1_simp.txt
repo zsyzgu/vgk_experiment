@@ -1,0 +1,566 @@
+71.00237 session normal_0.6_1
+71.00237 phrase a dog is the best friend of a man
+73.00896 gestureStart
+73.0256 gestureEnd a
+73.98746 gestureStart
+74.99918 gestureEnd dog
+76.9077 gestureStart
+77.55462 gestureEnd is
+78.49995 gestureStart
+79.3625 gestureEnd hd
+80.62281 gestureStart
+80.7225 select the
+81.53519 gestureStart
+82.67935 gestureEnd harry
+83.79029 gestureStart
+83.85674 select best
+84.76859 gestureStart
+86.85788 gestureEnd friend
+88.0331 gestureStart
+88.64671 gestureEnd odd
+89.72456 gestureStart
+89.8241 select of
+90.66975 gestureStart
+90.76926 gestureEnd a
+92.24503 gestureStart
+93.55473 gestureEnd man
+96.63858 gestureStart
+96.65529 nextPage
+98.16412 nextPage
+100.2869 gestureEnd pick
+101.2652 gestureStart
+101.3647 delete
+102.8407 gestureStart
+104.1841 phrase get aboard the ship is leaving
+105.2785 gestureStart
+105.9919 gestureEnd best
+107.6334 gestureStart
+107.65 select get
+108.5454 gestureStart
+110.6017 gestureEnd aboard
+112.0442 gestureStart
+112.8069 gestureEnd the
+113.8697 gestureStart
+114.9641 gestureEnd ship
+115.8596 gestureStart
+116.5226 gestureEnd is
+117.8159 gestureStart
+120.1046 gestureEnd leaving
+121.3979 gestureStart
+123.255 phrase do not say anything
+124.4488 gestureStart
+124.9961 gestureEnd do
+125.8583 gestureStart
+126.903 gestureEnd nor
+127.9808 gestureStart
+129.8383 gestureEnd sat
+131.7117 gestureStart
+131.7781 select say
+132.491 gestureStart
+134.862 gestureEnd anything
+136.6191 gestureStart
+137.929 phrase the trains are always late
+139.4212 gestureStart
+140.3665 gestureEnd the
+141.4443 gestureStart
+142.9862 gestureEnd traffic
+144.462 gestureStart
+144.5449 select trains
+145.0588 gestureStart
+145.6228 gestureEnd are
+146.4186 gestureStart
+148.3253 gestureEnd always
+149.3863 gestureStart
+150.5138 gestureEnd measure
+152.5032 gestureStart
+153.6805 gestureEnd layer
+155.1725 gestureStart
+155.2388 delete
+155.4046 gestureStart
+155.471 delete
+156.4158 gestureStart
+157.7587 gestureEnd late
+159.0351 gestureStart
+160.2456 phrase where can my little dog be
+161.5549 gestureStart
+162.8314 gestureEnd share
+164.8374 gestureStart
+164.9204 nextPage
+165.6001 nextPage
+166.2964 delete
+166.4788 gestureStart
+166.5286 delete
+167.3906 gestureStart
+168.5181 gestureEnd sheet
+169.813 gestureStart
+169.8628 select where
+170.5757 gestureStart
+171.6534 gestureEnd can
+172.4659 gestureStart
+173.129 gestureEnd my
+174.4387 gestureStart
+176.246 gestureEnd little
+177.3235 gestureStart
+178.3017 gestureEnd dog
+179.4803 gestureStart
+180.0937 gestureEnd be
+182.3648 phrase universities are too expensive
+187.0567 gestureStart
+192.7595 gestureStart
+193.6715 gestureEnd no
+195.827 gestureStart
+197.1369 gestureStart
+202.1777 gestureEnd universities
+203.6035 gestureStart
+204.134 gestureEnd are
+205.908 gestureStart
+206.8365 gestureEnd tip
+208.4613 gestureStart
+208.5111 nextPage
+209.9867 select too
+210.9814 gestureStart
+214.8114 gestureEnd expensive
+216.587 gestureStart
+217.4989 phrase can we play cards tonight
+218.9413 gestureStart
+220.2512 gestureEnd can
+221.4946 gestureStart
+221.876 gestureEnd we
+223.285 gestureStart
+224.8268 gestureEnd play
+225.9208 gestureStart
+227.4958 gestureEnd cards
+228.6066 gestureStart
+230.5795 gestureEnd tonight
+231.8394 gestureStart
+235.1548 phrase valid until the end of the year
+236.7793 gestureStart
+238.4868 gestureEnd valid
+240.0631 gestureStart
+241.671 gestureEnd until
+242.682 gestureStart
+243.4943 gestureEnd huge
+245.6818 gestureStart
+245.7317 select the
+246.3945 gestureStart
+247.2233 gestureEnd end
+248.4155 gestureStart
+248.913 gestureEnd of
+249.7087 gestureStart
+250.6869 gestureEnd the
+251.814 gestureStart
+253.0906 gestureEnd year
+255.262 gestureStart
+291.8436 session normal_0.6_1
+291.8436 phrase taking the train is usually faster
+296.8657 gestureStart
+298.5895 gestureEnd ranking
+300.9427 gestureStart
+300.9925 select taking
+301.5891 gestureStart
+302.2854 gestureEnd the
+303.1805 gestureStart
+304.6058 gestureEnd train
+305.5674 gestureStart
+306.1472 gestureEnd is
+307.1916 gestureStart
+309.4291 gestureEnd usually
+310.9703 gestureStart
+312.2136 gestureEnd dated
+313.8889 gestureStart
+313.9388 select faster
+319.2587 gestureStart
+320.6344 phrase you will loose your voice
+325.6069 gestureStart
+326.3362 gestureEnd you
+327.3803 gestureStart
+328.4412 gestureEnd drop
+329.8168 gestureStart
+329.8997 select will
+330.629 gestureStart
+331.9383 gestureEnd pass
+334.5241 gestureStart
+334.607 select loose
+335.303 gestureStart
+336.4301 gestureEnd your
+337.7231 gestureStart
+339.4801 gestureEnd voice
+341.3531 gestureStart
+342.7953 phrase traveling requires a lot of fuel
+348.0001 gestureStart
+350.7683 gestureEnd traveling
+351.63 gestureStart
+354.0835 gestureEnd requires
+355.03 gestureStart
+355.1628 gestureEnd a
+356.3561 gestureStart
+357.1023 gestureEnd lot
+358.0638 gestureStart
+358.5777 gestureEnd of
+359.6882 gestureStart
+360.8487 gestureEnd fuel
+363.5002 gestureStart
+372.5845 phrase experience is hard to come by
+374.4408 gestureStart
+378.0386 gestureEnd experienced
+379.5636 gestureStart
+379.5968 select experiences
+380.7408 gestureStart
+381.2382 gestureEnd us
+382.631 gestureStart
+382.7304 select is
+383.4434 gestureStart
+384.836 gestureEnd bars
+386.2453 gestureStart
+386.3446 select hard
+387.3726 gestureStart
+388.1351 gestureEnd to
+389.2623 gestureStart
+390.92 gestureEnd come
+392.0989 gestureStart
+392.4967 gestureEnd by
+394.1044 gestureStart
+397.7346 phrase the cream rises to the top
+398.9279 gestureStart
+399.9892 gestureEnd the
+401.0835 gestureStart
+403.255 gestureEnd cream
+404.3658 gestureStart
+406.0731 gestureEnd fixed
+407.5648 gestureStart
+407.5815 select rises
+408.1947 gestureStart
+408.7086 gestureEnd to
+409.6533 gestureStart
+410.6145 gestureEnd the
+412.1725 gestureStart
+412.8355 gestureEnd tip
+413.9128 gestureStart
+414.0124 select top
+415.5705 gestureStart
+416.6147 phrase rain rain go away
+417.6591 gestureStart
+419.2338 gestureEnd rain
+420.0127 gestureStart
+421.5545 gestureEnd rain
+422.1511 gestureStart
+422.7811 gestureEnd go
+424.0077 gestureStart
+425.2178 gestureEnd way
+426.7429 gestureStart
+426.7762 select away
+427.9529 gestureStart
+429.6436 phrase effort is what it will take
+430.5886 gestureStart
+432.1964 gestureEnd sorry
+433.9699 gestureStart
+434.0031 select effort
+434.6163 gestureStart
+435.1801 gestureEnd is
+436.0418 gestureStart
+437.5504 gestureEnd what
+438.8431 gestureStart
+439.2244 gestureEnd it
+440.1193 gestureStart
+441.3794 gestureEnd will
+442.3572 gestureStart
+444.0978 gestureEnd take
+447.0152 gestureStart
+447.8442 phrase please provide your date of birth
+449.3528 gestureStart
+451.0768 gestureEnd please
+452.5357 gestureStart
+455.4201 gestureEnd provided
+457.5747 gestureStart
+457.6908 select provide
+458.4035 gestureStart
+459.2821 gestureEnd hour
+460.3925 gestureStart
+460.5088 select your
+461.4037 gestureStart
+462.5143 gestureEnd waste
+464.306 gestureStart
+464.3393 select date
+465.0355 gestureStart
+465.5827 gestureEnd of
+466.5441 gestureStart
+468.7324 gestureEnd north
+470.6057 gestureStart
+470.705 nextPage
+473.0095 nextPage
+474.2694 nextPage
+475.6952 delete
+476.7395 gestureStart
+478.3479 gestureEnd birth
+494.1462 session normal_0.6_1
+494.1462 phrase the music is better than it sounds
+496.9969 gestureStart
+497.9583 gestureEnd the
+499.1019 gestureStart
+500.8925 gestureEnd music
+501.9366 gestureStart
+502.6658 gestureEnd is
+503.9087 gestureStart
+505.1024 gestureEnd better
+506.1632 gestureStart
+507.3564 gestureEnd than
+508.1853 gestureStart
+508.699 gestureEnd it
+510.2074 gestureStart
+512.2795 gestureEnd sounds
+513.7896 gestureStart
+515.033 phrase this person is a disaster
+516.3424 gestureStart
+517.42 gestureEnd this
+518.7126 gestureStart
+520.7682 gestureEnd person
+521.8119 gestureStart
+522.3755 gestureEnd is
+523.2041 gestureStart
+523.2705 gestureEnd a
+524.3973 gestureStart
+527.132 gestureEnd charter
+529.2877 gestureStart
+529.3207 nextPage
+530.4974 delete
+531.6572 gestureStart
+533.9607 gestureEnd guards
+536.647 gestureStart
+536.7795 select disaster
+537.7404 gestureStart
+538.8838 phrase the back yard of our house
+540.4247 gestureStart
+541.3694 gestureEnd the
+542.4631 gestureStart
+544.0208 gestureEnd back
+545.5452 gestureStart
+546.7883 gestureEnd yard
+547.9152 gestureStart
+548.6112 gestureEnd odd
+550.4011 gestureStart
+550.4672 delete
+551.5278 gestureStart
+552.1909 gestureEnd of
+554.9086 gestureStart
+554.9254 nextPage
+556.0193 nextPage
+558.1738 gestureEnd poor
+559.8308 gestureStart
+559.9138 nextPage
+560.8418 nextPage
+563.9075 gestureStart
+564.885 gestureEnd the
+566.0117 gestureStart
+567.7518 gestureEnd back
+569.0444 gestureStart
+570.4199 gestureEnd yards
+571.9112 gestureStart
+571.9609 select yard
+572.8724 gestureStart
+573.7674 gestureEnd odd
+576.0708 gestureStart
+576.1868 nextPage
+578.1587 delete
+579.0369 gestureStart
+579.7993 gestureEnd of
+581.2576 gestureStart
+582.1359 gestureEnd or
+583.4946 gestureStart
+583.6605 select our
+584.5717 gestureStart
+586.2786 gestureEnd house
+589.3275 gestureStart
+590.3052 phrase are you sure you want this
+591.5478 gestureStart
+592.4259 gestureEnd are
+593.7681 gestureStart
+594.7624 gestureEnd you
+595.7399 gestureStart
+596.9827 gestureEnd sure
+598.7577 gestureStart
+599.6028 gestureEnd you
+600.4808 gestureStart
+602.3201 gestureEnd want
+603.4304 gestureStart
+605.0213 gestureEnd this
+606.2641 gestureStart
+607.4073 phrase learn to walk before you run
+609.0645 gestureStart
+611.2019 gestureEnd learn
+612.097 gestureStart
+612.7929 gestureEnd to
+614.0688 gestureStart
+615.4277 gestureEnd walk
+616.7864 gestureStart
+618.8079 gestureEnd before
+620.1002 gestureStart
+620.8789 gestureEnd you
+621.8398 gestureStart
+622.9003 gestureEnd run
+628.9639 gestureStart
+630.4055 phrase a much higher risk of getting cancer
+631.8138 gestureStart
+631.8469 gestureEnd a
+634.8127 gestureStart
+636.006 gestureEnd much
+637.1491 gestureStart
+639.8163 gestureEnd higher
+640.8766 gestureStart
+642.4839 gestureEnd risk
+643.3952 gestureStart
+644.0247 gestureEnd of
+644.9196 gestureStart
+646.6921 gestureEnd getting
+648.5307 gestureStart
+650.6517 gestureEnd cancer
+652.2938 gestureStart
+653.603 phrase world population is growing
+654.895 gestureStart
+657.165 gestureEnd world
+658.4243 gestureStart
+663.0292 gestureEnd population
+664.1725 gestureStart
+664.8021 gestureEnd is
+665.9949 gestureStart
+668.4801 gestureEnd growing
+678.8179 gestureStart
+680.2427 phrase medieval times were very hard
+681.6342 gestureStart
+685.9911 gestureEnd medieval
+687.0016 gestureStart
+688.857 gestureEnd times
+690.149 gestureStart
+691.4248 gestureEnd we
+693.5782 gestureStart
+693.6613 delete
+694.655 gestureStart
+696.0469 gestureEnd were
+698.2339 gestureStart
+699.2776 gestureEnd very
+700.4871 gestureStart
+702.0114 gestureEnd bars
+705.1923 gestureStart
+705.2087 select hard
+728.0726 gestureStart
+741.029 session normal_0.6_1
+741.029 phrase you should visit a doctor
+744.5251 gestureStart
+745.2377 gestureEnd you
+746.0666 gestureStart
+748.2209 gestureEnd should
+749.4489 gestureStart
+751.1558 gestureEnd visit
+752.2162 gestureStart
+752.2329 gestureEnd a
+752.912 gestureStart
+755.1822 gestureEnd doctor
+756.4101 gestureStart
+757.487 phrase he is still on our team
+758.7957 gestureStart
+759.3757 gestureEnd he
+760.4525 gestureStart
+761.0822 gestureEnd is
+761.9933 gestureStart
+763.2689 gestureEnd drop
+765.389 gestureStart
+765.5051 select still
+767.5263 gestureStart
+768.0566 gestureEnd on
+768.9843 gestureStart
+769.796 gestureEnd our
+771.8837 gestureStart
+774.0208 gestureEnd team
+775.1967 gestureStart
+776.2905 phrase well connected with people
+779.3226 gestureStart
+780.3832 gestureEnd well
+781.3771 gestureStart
+784.5919 gestureEnd connected
+785.6705 gestureStart
+786.9964 gestureEnd with
+788.0236 gestureStart
+790.6583 gestureEnd peoples
+791.9011 gestureStart
+791.9841 select people
+793.0279 gestureStart
+795.4636 phrase important for political parties
+797.0045 gestureStart
+799.7545 gestureEnd important
+800.6489 gestureStart
+801.6925 gestureEnd city
+803.4671 gestureStart
+803.5334 delete
+803.7487 gestureStart
+803.8151 gestureEnd mm
+804.4114 gestureStart
+804.4611 delete
+804.6931 gestureStart
+804.7097 delete
+805.6042 gestureStart
+808.5533 gestureEnd important
+809.6138 gestureStart
+810.6742 gestureEnd for
+811.8854 gestureStart
+815.5142 gestureEnd political
+816.3593 gestureStart
+819.4907 gestureEnd parties
+845.8676 gestureStart
+848.1704 phrase teaching services will help
+849.6283 gestureStart
+852.71 gestureEnd teaching
+854.1678 gestureStart
+857.183 gestureEnd services
+858.212 gestureStart
+859.322 gestureEnd will
+860.2331 gestureStart
+861.6748 gestureEnd hello
+862.9171 gestureStart
+862.967 select help
+863.9443 gestureStart
+865.2532 phrase this is a non profit organization
+866.562 gestureStart
+867.9374 gestureEnd this
+869.0806 gestureStart
+869.7267 gestureEnd is
+870.3398 gestureStart
+870.4062 gestureEnd a
+871.45 gestureStart
+872.6265 gestureEnd non
+873.6702 gestureStart
+876.271 gestureEnd profit
+877.4307 gestureStart
+881.9041 gestureEnd organization
+882.9313 gestureStart
+884.0413 phrase that is a very odd question
+885.5657 gestureStart
+886.9575 gestureEnd that
+887.8023 gestureStart
+888.6141 gestureEnd is
+890.7182 gestureStart
+890.801 gestureEnd a
+892.0602 gestureStart
+893.0377 gestureEnd very
+893.9654 gestureStart
+894.7607 gestureEnd odd
+895.7714 gestureStart
+898.5546 gestureEnd question
+899.6482 gestureStart
+900.6588 phrase house with new electrical panel
+902.2824 gestureStart
+903.7902 gestureEnd house
+904.8174 gestureStart
+906.3085 gestureEnd eight
+908.6277 gestureStart
+908.7437 delete
+909.6382 gestureStart
+910.9141 gestureEnd south
+912.3221 gestureStart
+912.405 select with
+913.3494 gestureStart
+914.393 gestureEnd new
+917.6565 gestureStart
+923.9688 gestureStart
+928.8892 gestureEnd electrical
+930.0656 gestureStart
+932.5011 gestureEnd panel
+933.7272 gestureStart

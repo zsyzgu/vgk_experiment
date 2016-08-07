@@ -1,0 +1,38 @@
+49.01124 session normal_0.9_1
+49.01124 phrase never too rich and never too thin
+49.4426 gestureStart
+56.2299 gestureStart
+71.5952 gestureStart
+71.82763 gestureEnd sees
+72.37498 gestureStart
+72.4912 gestureEnd seeds
+76.77163 gestureStart
+76.88802 delete
+77.11997 gestureStart
+77.15326 delete
+77.40202 gestureStart
+77.43533 delete
+78.92845 gestureStart
+78.96175 gestureEnd ft
+81.36725 gestureStart
+81.45029 delete
+83.22549 gestureStart
+89.43088 gestureEnd follows
+91.73631 gestureStart
+91.78633 select follow
+93.87634 gestureStart
+93.9264 delete
+96.51408 gestureStart
+99.56686 gestureEnd never
+104.3441 gestureStart
+106.2196 gestureEnd too
+108.7736 gestureStart
+112.4065 gestureEnd rich
+113.9985 gestureStart
+116.5534 gestureEnd and
+118.5437 gestureStart
+121.9778 gestureEnd never
+123.9186 gestureStart
+125.1464 gestureEnd too
+127.2199 gestureStart
+129.5093 gestureEnd thin

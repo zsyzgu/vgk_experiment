@@ -1,0 +1,25 @@
+session, phrase, word, len, perform_time, total_time
+1, effort is what it will take, 11.4376324101
+1, travel at the speed of light, 10.2938214693
+1, user friendly interface, 12.6128651224
+1, tell a lie and your nose will grow, 10.6611912894
+2, the food at this restaurant, 10.5369250504
+2, the union will go on strike, 9.71677800475
+2, stability of the nation, 11.1023731323
+2, shall we play a round of cards, 5.00147613011
+3, bad for the environment, 11.1426303107
+3, my favorite subject is psychology, 8.22446162863
+3, express delivery is very fast, 11.5767092046
+3, the world is a stage, 8.73982629595
+4, he is just like everyone else, 11.9412886641
+4, taking the train is usually faster, 9.6338846979
+4, longer than a football field, 10.81353043
+4, important for political parties, 10.9585824291
+5, frequently asked questions, 7.41921938477
+5, for your information only, 6.77508513767
+5, rapidly rrapidly running short on words, 8.03061079881
+5, my watch fell in the water, 4.05602464518
+6, a good response to the questions, 10.8198363667
+6, accompanied by an adult, 7.65476987848
+6, the algorithm is too complicated, 9.59616153539
+6, what goes up must come down, 10.65203357
