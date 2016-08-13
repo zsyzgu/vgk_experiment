@@ -1,7 +1,6 @@
 METRIC_SAMPLE = 50
 import math
-#oup = file('position.txt', 'w')
-#oup.write('index, x, y, x0, y0\n')
+import sys
 
 def get_pos(letter):
 	if letter == 'q': return (0.05, 0.6)
@@ -40,7 +39,9 @@ def caln_dist(A, B):
 	return math.sqrt((A[0] - B[0]) ** 2 + (A[1] - B[1]) ** 2) * 10
 
 def caln_oval_dist(A, B, sd_x, sd_y):
-	return math.sqrt(((A[0] - B[0]) / sd_x) ** 2 + ((A[1] - B[1]) / sd_y) ** 2) * 10
+	a = (sd_x / sd_y) ** 0.5
+	b = (sd_y / sd_x) ** 0.5
+	return math.sqrt(((A[0] - B[0]) / a) ** 2 + ((A[1] - B[1]) / b) ** 2) * 10
 
 def caln_length(pos_list):
 	length = 0
@@ -49,10 +50,17 @@ def caln_length(pos_list):
 	return length
 
 def caln_sample_dist(pos_list, word):
-	if caln_dist(pos_list[0], get_pos(word[0])) > 1:
+	st_dist = caln_oval_dist(pos_list[0], get_pos(word[0]), 0.2723, 0.1714)
+	en_dist = caln_oval_dist(pos_list[len(pos_list) - 1], get_pos(word[len(word) - 1]), 0.3058, 0.2052)
+	if st_dist > 1:
+		return -1
+	if en_dist > 1:
+		return -1
+	
+	'''if caln_dist(pos_list[0], get_pos(word[0])) > 1:
 		return -1
 	if caln_dist(pos_list[len(pos_list) - 1], get_pos(word[len(word) - 1])) > 1:
-		return -1
+		return -1'''
 
 	word_pos_list = []
 	for i in range(0, len(word)):
@@ -62,10 +70,14 @@ def caln_sample_dist(pos_list, word):
 	word_pos_list = sample_pos(word_pos_list)
 
 	length = 0
-	for i in range(0, len(pos_list)):
+	for i in range(1, len(pos_list) - 1):
 		length = length + caln_oval_dist(pos_list[i], word_pos_list[i], 0.4027, 0.2366)
-		#oup.write(str(i) + ', ' + str(pos_list[i][0]) + ', ' + str(pos_list[i][1]) + ', ' + str(word_pos_list[i][0]) + ', ' + str(word_pos_list[i][1]) + '\n')
-	length = length / len(pos_list)
+	length = length / (len(pos_list) - 2)
+
+	st_value = 0.2
+	en_value = 0.2
+
+	length = length * (1 - st_value - en_value) + st_dist * st_value + en_dist * en_value
 
 	return length
 

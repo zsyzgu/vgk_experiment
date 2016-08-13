@@ -8,6 +8,8 @@ file_name = sys.argv[1]
 user_name = file_name.split('_')[0]
 technique = file_name.split('_')[1]
 
+top_cnt = 0
+
 inp = file('lexicon.txt', 'r')
 lines = inp.readlines()
 lexicon = []
@@ -64,6 +66,9 @@ def word_output(i, std_word, word, is_undo):
 					this_sample_distance = my_pos.caln_sample_dist(gesture_pos[i], lexicon[k])
 					if this_sample_distance != -1 and this_sample_distance < sample_distance:
 						rank = rank + 1
+			if rank == 1:
+				global top_cnt
+				top_cnt = top_cnt + 1
 		else:
 			rank = -1
 		return user_name + ', ' + technique + ', ' + std_word + ', ' + str(rank) + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(gesture_durations) + ', ' + str(selection_durations) + ', ' + str(sample_distance) + ', ' + str(start_distance) + ', ' + str(end_distance) + ', ' + str(gesture_length) + ', ' + str(gesture_speed) + '\n'
@@ -192,3 +197,5 @@ for i in range(0, word_cnt):
 	word_index = word_index + 1
 
 woup.close()
+
+exit(top_cnt)
