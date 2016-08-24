@@ -31,4 +31,3 @@ for file_name in files:
 
 merge_files('result')
 merge_files('gesture')
-merge_files('tapping')

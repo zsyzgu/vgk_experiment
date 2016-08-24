@@ -9,6 +9,7 @@ user_name = file_name.split('_')[0]
 technique = file_name.split('_')[1]
 
 top_cnt = 0
+session_index = 0
 
 inp = file('lexicon.txt', 'r')
 lines = inp.readlines()
@@ -71,7 +72,7 @@ def word_output(i, std_word, word, is_undo):
 				top_cnt = top_cnt + 1
 		else:
 			rank = -1
-		return user_name + ', ' + technique + ', ' + std_word + ', ' + str(rank) + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(gesture_durations) + ', ' + str(selection_durations) + ', ' + str(sample_distance) + ', ' + str(start_distance) + ', ' + str(end_distance) + ', ' + str(gesture_length) + ', ' + str(gesture_speed) + '\n'
+		return user_name + ', ' + technique + ', ' + str(session_index) + ', ' + std_word + ', ' + str(rank) + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(gesture_durations) + ', ' + str(selection_durations) + ', ' + str(sample_distance) + ', ' + str(start_distance) + ', ' + str(end_distance) + ', ' + str(gesture_length) + ', ' + str(gesture_speed) + '\n'
 
 inp = file(file_name + '.txt', 'r')
 lines = inp.readlines()
@@ -79,7 +80,7 @@ inp.close()
 
 if technique == 'normal':
 	woup = file('simulate_' + file_name + '.txt', 'w')
-	woup.write('user, technique, word, rank, len, class, correct, gesture_durations, selection_durations, sample_distance, start_distance, end_distance, gesture_length, gesture_speed\n')
+	woup.write('user, technique, session, word, rank, len, class, correct, gesture_durations, selection_durations, sample_distance, start_distance, end_distance, gesture_length, gesture_speed\n')
 
 word_cnt = 0
 undo_cnt = 0
@@ -103,6 +104,7 @@ if technique == 'normal':
 		lines[i] = lines[i].replace('\n', '')
 
 		if get_cmd(i) == 'session':
+			session_index = session_index + 1
 			session_start[word_cnt] = 1
 			tags = get_result(i).split('_')
 			keyboard_size = session_size[word_cnt] = (float)(tags[1])
