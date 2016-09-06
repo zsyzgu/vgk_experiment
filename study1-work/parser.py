@@ -67,7 +67,11 @@ def word_output(i, std_word, word, is_undo):
 				point_distance = point_distance + my_pos.caln_dist(gesture_pos[i][j], my_pos.get_pos(std_word[j]))
 			point_distance = point_distance / length
 		gesture_length = my_pos.caln_length(gesture_pos[i])
-		return user_name + ', ' + technique + ', ' + str(session_index) + ', ' + std_word + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(tapping_durations) + ', ' + str(selection_durations) + ', ' + str(point_distance) + ', ' + str(gesture_length) + '\n'
+		word_pos = []
+		for j in range(0, len(std_word)):
+			word_pos.append(my_pos.get_pos(std_word[j]))
+		word_length = my_pos.caln_length(word_pos)
+		return user_name + ', ' + technique + ', ' + str(session_index) + ', ' + std_word + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(tapping_durations) + ', ' + str(selection_durations) + ', ' + str(point_distance) + ', ' + str(gesture_length) + ', ' + str(word_length) + '\n'
 
 inp = file(file_name + '.txt', 'r')
 lines = inp.readlines()
@@ -81,7 +85,7 @@ if technique == 'normal':
 	woup.write('user, technique, session, word, len, class, correct, gesture_durations, selection_durations, sample_distance, start_distance, end_distance, gesture_length, gesture_speed\n')
 if technique == 'baseline' or technique == 'dwell':
 	woup = file('tapping_' + file_name + '.txt', 'w')
-	woup.write('user, technique, session, word, len, class, correct, tapping_durations, selection_durations, point_distance, gesture_length\n')
+	woup.write('user, technique, session, word, len, class, correct, tapping_durations, selection_durations, point_distance, gesture_length, word_length\n')
 
 word_cnt = 0
 undo_cnt = 0

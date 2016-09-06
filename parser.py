@@ -43,6 +43,10 @@ def word_output(i, std_word, word, is_undo):
 		else:
 			word_class = 'Match'
 			selection_durations = 0
+		if phrase_start[i] == 1:
+			dwell_duration = 0
+		else:
+			dwell_duration = gesture_start_time[i] - end_time[i - 1]
 		if is_undo == 1:
 			word_class = 'Undo'
 		sample_distance = my_pos.caln_sample_dist(gesture_pos[i], std_word)
@@ -50,7 +54,7 @@ def word_output(i, std_word, word, is_undo):
 		end_distance = my_pos.caln_dist(gesture_pos[i][len(gesture_pos[i]) - 1], my_pos.get_pos(std_word[len(std_word) - 1]))
 		gesture_length = my_pos.caln_length(gesture_pos[i])
 		gesture_speed = gesture_length / gesture_durations
-		return user_name + ', ' + technique + ', ' + str(session_index) + ', ' + std_word + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(gesture_durations) + ', ' + str(selection_durations) + ', ' + str(sample_distance) + ', ' + str(start_distance) + ', ' + str(end_distance) + ', ' + str(gesture_length) + ', ' + str(gesture_speed) + '\n'
+		return user_name + ', ' + technique + ', ' + str(session_index) + ', ' + std_word + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(dwell_duration) + ', ' + str(gesture_durations) + ', ' + str(selection_durations) + ', ' + str(sample_distance) + ', ' + str(start_distance) + ', ' + str(end_distance) + ', ' + str(gesture_length) + ', ' + str(gesture_speed) + '\n'
 
 inp = file(file_name + '.txt', 'r')
 lines = inp.readlines()
@@ -61,7 +65,7 @@ oup.write('user, technique, session, index, phrase, rate, error, undo\n')
 
 if technique == 'normal':
 	woup = file('gesture_' + file_name + '.txt', 'w')
-	woup.write('user, technique, session, word, len, class, correct, gesture_durations, selection_durations, sample_distance, start_distance, end_distance, gesture_length, gesture_speed\n')
+	woup.write('user, technique, session, word, len, class, correct, dwell_duration, gesture_durations, selection_durations, sample_distance, start_distance, end_distance, gesture_length, gesture_speed\n')
 
 word_cnt = 0
 undo_cnt = 0
