@@ -479,86 +479,85 @@ wzr, normal, 8, 7, my watch fell in the water, 15.3154248207, 0.0, No
 wzr, normal, 8, 8, breathing is difficult, 17.5169695643, 0.0, No
 wzr, normal, 8, 9, my favorite subject is psychology, 15.0317480886, 0.0, No
 wzr, normal, 8, 10, prevailing wind from the east, 9.37324251703, 0.0, No
-xwj, normal, 1, 1, physics and chemistry are hard, 28.99143266, 0.0, No
-xwj, normal, 1, 2, electrons bring out the best, 24.3611541097, 0.0357142857143, No
-xwj, normal, 1, 3, my favorite place to visit, 22.2690847744, 0.0, No
-xwj, normal, 1, 4, my favorite subject is psychology, 21.7209482317, 0.0, No
-xwj, normal, 1, 5, my watch fell in the water, 19.360786724, 0.0, No
-xwj, normal, 1, 6, time to go shopping, 29.4234836179, 0.0, Yes
-xwj, normal, 1, 7, prevailing wind from the east, 28.058623818, 0.0, No
-xwj, normal, 1, 8, breathing is difficult, 27.8044881078, 0.0, Yes
-xwj, normal, 1, 9, elephants are afraid of mice, 23.3474390778, 0.0, No
-xwj, normal, 1, 10, watch out for low flying objects, 29.2595703178, 0.0, No
-xwj, normal, 2, 1, elephants are afraid of mice, 28.3392045343, 0.0, No
-xwj, normal, 2, 2, watch out for low flying objects, 30.8236771505, 0.0, No
-xwj, normal, 2, 3, elections bring out the best, 24.9943589121, 0.0, No
-xwj, normal, 2, 4, prevailing wind from the east, 31.481189989, 0.0, No
-xwj, normal, 2, 5, physics and chemistry are hard, 23.8468299767, 0.0, No
-xwj, normal, 2, 6, my watch fell in the water, 19.2871411405, 0.0, No
-xwj, normal, 2, 7, time to go shopping, 32.950625547, 0.0, No
-xwj, normal, 2, 8, breathing is difficult, 47.2487449552, 0.0, No
-xwj, normal, 2, 9, my favorite subject is psychology, 31.7225914076, 0.0, No
-xwj, normal, 2, 10, my favorite place to visit, 34.6529455004, 0.0, No
-xwj, normal, 3, 1, physics and chemistry are had, 34.2755295569, 0.0344827586207, No
-xwj, normal, 3, 2, watch out for low flying objects, 30.3920005253, 0.0, Yes
-xwj, normal, 3, 3, my favorite place to visit, 36.303630363, 0.0, No
-xwj, normal, 3, 4, time to go shopping, 32.6719531702, 0.0, No
-xwj, normal, 3, 5, my favorite subject is psychology, 38.7506263571, 0.0, No
-xwj, normal, 3, 6, prevailing wind from the east, 41.3559228574, 0.0, No
-xwj, normal, 3, 7, elephants are afraid of mice, 22.1006346259, 0.0, Yes
-xwj, normal, 3, 8, breathing is difficult, 41.1904026362, 0.0, No
-xwj, normal, 3, 9, elections bring out the beat, 27.364460407, 0.0357142857143, No
-xwj, normal, 3, 10, my watch fell in the water, 33.0739044269, 0.0, No
-xwj, normal, 4, 1, elephants are afraid of mice, 34.540242981, 0.0, No
-xwj, normal, 4, 2, my watch fell in the water, 23.6808720575, 0.0, Yes
-xwj, normal, 4, 3, my favorite subject is psychology, 32.0539390423, 0.0, No
-xwj, normal, 4, 4, time to go shopping, 23.9455239331, 0.0, No
-xwj, normal, 4, 5, my favorite place to visit, 31.613737606, 0.0, No
-xwj, normal, 4, 6, watch out for low flying objects, 31.684562577, 0.0, No
-xwj, normal, 4, 7, physics and chemistry are hard, 38.3608129542, 0.0, No
-xwj, normal, 4, 8, elections bring out the best, 35.3330879647, 0.0, Yes
-xwj, normal, 4, 9, breathing is difficult, 53.751399776, 0.0, No
-xwj, normal, 4, 10, prevailing wind from the east, 39.210560711, 0.0, Yes
-xwj, normal, 5, 1, time to go shopping, 31.7670416942, 0.0, No
-xwj, normal, 5, 2, my favorite place to visit, 30.4533394855, 0.0, No
-xwj, normal, 5, 3, physics and chemistry are hard, 33.7991550211, 0.0, No
-xwj, normal, 5, 4, my watch fell in the water, 28.3719882909, 0.0, No
-xwj, normal, 5, 5, elephants are afraid of mice, 30.3829517882, 0.0, No
-xwj, normal, 5, 6, elections bring out the best, 31.2601758385, 0.0, No
-xwj, normal, 5, 7, prevailing wind from the east, 34.3642611684, 0.0, No
-xwj, normal, 5, 8, breathing us difficult, 54.3601359003, 0.0454545454545, No
-xwj, normal, 5, 9, my favorite subject is psychology, 39.0484739677, 0.0, Yes
-xwj, normal, 5, 10, watch out for low flying objects, 31.7398119122, 0.0, No
-xwj, normal, 6, 1, my favorite place to visit, 41.1856474259, 0.0, No
-xwj, normal, 6, 2, breathing is difficult, 45.1637184795, 0.0, No
-xwj, normal, 6, 3, physics and chemistry are hard, 30.0606994894, 0.0, No
-xwj, normal, 6, 4, electrons bring out the best, 22.0672745383, 0.0357142857143, No
-xwj, normal, 6, 5, my favorite subject is psychology, 44.8049439938, 0.0, No
-xwj, normal, 6, 6, elephants are afraid of mice, 42.216358839, 0.0, No
-xwj, normal, 6, 7, watch out for low flying objects, 31.9495118825, 0.0, No
-xwj, normal, 6, 8, prevailing wind from the east, 33.9097999322, 0.0, No
-xwj, normal, 6, 9, my watch fell in the water, 32.723022984, 0.0, No
-xwj, normal, 6, 10, tone to go shopping, 25.5965871217, 0.105263157895, No
-xwj, normal, 7, 1, my watch fell in the waste, 27.3913043478, 0.0769230769231, No
-xwj, normal, 7, 2, prevailing wind from the east, 33.0870188596, 0.0, No
-xwj, normal, 7, 3, breathing is difficult, 43.1499460626, 0.0, Yes
-xwj, normal, 7, 4, watch out for low flying objects, 29.6567505721, 0.0, Yes
-xwj, normal, 7, 5, physics and chemistry are hard, 37.4325134973, 0.0, Yes
-xwj, normal, 7, 6, my favorite place to visit, 36.1445783133, 0.0, No
-xwj, normal, 7, 7, elections bring out the best, 41.9152961723, 0.0, Yes
-xwj, normal, 7, 8, my favorite subject is psychology, 41.0377358491, 0.0, No
-xwj, normal, 7, 9, time to go shopping, 37.2020926177, 0.0, Yes
-xwj, normal, 7, 10, elephants are afraid of mice, 38.8297155184, 0.0, Yes
-xwj, normal, 8, 1, physics and chemistry are hard, 38.6617100372, 0.0, No
-xwj, normal, 8, 2, my watch fell in the water, 34.9660052727, 0.0, Yes
-xwj, normal, 8, 3, elephants are afraid of mice, 35.1777207768, 0.0, Yes
-xwj, normal, 8, 4, time to go shopping, 44.3111008539, 0.0, No
-xwj, normal, 8, 5, breathing its difficult, 56.4263322884, 0.0434782608696, Yes
-xwj, normal, 8, 6, prevailing wind from the east, 37.5751503006, 0.0, Yes
-xwj, normal, 8, 7, watch out for low flying objects, 27.6167746335, 0.0, Yes
-xwj, normal, 8, 8, electrons bring out the best, 42.5343376163, 0.0357142857143, No
-xwj, normal, 8, 9, my favorite subject is psychology, 37.8507722428, 0.0, Yes
-xwj, normal, 8, 10, my favorite place to visit, 38.0567968863, 0.0, No
+xwj, normal, 1, 1, my favorite subject is psychology, 24.991382282, 0.0, No
+xwj, normal, 1, 2, my watch fell in the water, 27.0673784385, 0.0, No
+xwj, normal, 1, 3, elephants are afraid of mice, 27.4662394141, 0.0, Yes
+xwj, normal, 1, 4, time to go shopping, 24.3142618342, 0.0, No
+xwj, normal, 1, 5, my favorite place to visit, 27.5367156208, 0.0, No
+xwj, normal, 1, 6, prevailing wind from the east, 30.8641975309, 0.0, Yes
+xwj, normal, 1, 7, physics and chemistry are hard, 24.9765844521, 0.0, Yes
+xwj, normal, 1, 8, elections bring out the best, 28.0493981067, 0.0, Yes
+xwj, normal, 1, 9, watch out for low flying objects, 23.7355681885, 0.0, No
+xwj, normal, 1, 10, breathing is difficult, 31.594328818, 0.0, Yes
+xwj, normal, 2, 1, my favorite place to visit, 23.2255340113, 0.0, Yes
+xwj, normal, 2, 2, prevailing wind from the east, 28.250449653, 0.0, No
+xwj, normal, 2, 3, breathing is difficult, 25.8322838968, 0.0, No
+xwj, normal, 2, 4, elephants are afraid of mice, 21.9213116251, 0.0, No
+xwj, normal, 2, 5, elections bring out the best, 28.321925891, 0.0, Yes
+xwj, normal, 2, 6, watch out for low flying objects, 25.4682943317, 0.0, No
+xwj, normal, 2, 7, my watch fell in the water, 29.6184856962, 0.0, No
+xwj, normal, 2, 8, physics and chemistry are hard, 29.485701325, 0.0, No
+xwj, normal, 2, 9, my favorite subject is psychology, 27.248169753, 0.0, No
+xwj, normal, 2, 10, time to go shopping, 27.3710921351, 0.0, No
+xwj, normal, 3, 1, physics and chemistry are hard, 29.4028950543, 0.0, Yes
+xwj, normal, 3, 2, my favorite place to visit, 27.3631840796, 0.0, Yes
+xwj, normal, 3, 3, my favorite subject is psychology, 30.156240522, 0.0, No
+xwj, normal, 3, 4, breathing is difficult, 37.7952755906, 0.0, No
+xwj, normal, 3, 5, elephants are afraid of mice, 31.9396695131, 0.0, Yes
+xwj, normal, 3, 6, watch out for low flying objects, 24.1592722392, 0.0, Yes
+xwj, normal, 3, 7, my watch fell in the water, 32.2704571648, 0.0, No
+xwj, normal, 3, 8, time to go shopping, 26.6851980542, 0.0, Yes
+xwj, normal, 3, 9, prevailing wind from the east, 33.9520144862, 0.0, No
+xwj, normal, 3, 10, elections bring out the best, 32.2942363759, 0.0, Yes
+xwj, normal, 4, 1, my watch fell in the water, 35.1023819473, 0.0, No
+xwj, normal, 4, 2, elephants are afraid of mice, 35.6656346749, 0.0, No
+xwj, normal, 4, 3, my favorite place to visit, 27.7894736842, 0.0, No
+xwj, normal, 4, 4, physics and chemistry are hard, 30.7510348906, 0.0, Yes
+xwj, normal, 4, 5, time to go shopping, 31.7302925136, 0.0, Yes
+xwj, normal, 4, 6, my favorite subject is psychology, 31.518884159, 0.0, Yes
+xwj, normal, 4, 7, watch out for low flying objects, 27.9647850854, 0.0, Yes
+xwj, normal, 4, 8, elections bring out the best, 26.2845669435, 0.0, No
+xwj, normal, 4, 9, breathing is difficult, 41.2512891028, 0.0, Yes
+xwj, normal, 4, 10, prevailing wind from the east, 36.4166059723, 0.0, Yes
+xwj, normal, 5, 1, watch out for low flying objects, 31.0285385941, 0.0, No
+xwj, normal, 5, 2, elections bring out the best, 35.3938798083, 0.0, Yes
+xwj, normal, 5, 3, prevailing wind from the east, 30.5779227398, 0.0, No
+xwj, normal, 5, 4, physics and chemistry are hard, 34.4827586207, 0.0, No
+xwj, normal, 5, 5, my favorite subject is psychology, 30.755634114, 0.0, Yes
+xwj, normal, 5, 6, my favorite place to visit, 29.6662546354, 0.0, Yes
+xwj, normal, 5, 7, breathing is difficult, 39.0434358224, 0.0, Yes
+xwj, normal, 5, 8, elephants are afraid of mice, 28.9185661211, 0.0, No
+xwj, normal, 5, 9, time to go shopping, 29.1041382447, 0.0, No
+xwj, normal, 6, 1, physics and chemistry are hard, 30.6843796838, 0.0, No
+xwj, normal, 6, 2, my favorite place to visit, 29.377726342, 0.0, Yes
+xwj, normal, 6, 3, elephants are afraid of mice, 29.9427033895, 0.0, No
+xwj, normal, 6, 4, my watch fell in the water, 29.4025678243, 0.0, No
+xwj, normal, 6, 5, time to go shopping, 32.4763193505, 0.0, Yes
+xwj, normal, 6, 6, breathing is difficult, 34.6565392558, 0.0, No
+xwj, normal, 6, 7, electrons bring out the best, 36.0572408699, 0.0357142857143, Yes
+xwj, normal, 6, 8, watch out for low flying objects, 30.9748472768, 0.0, Yes
+xwj, normal, 6, 9, prevailing wind from the east, 32.7342957216, 0.0, Yes
+xwj, normal, 6, 10, my favorite subject is psychology, 30.5065133159, 0.0, No
+xwj, normal, 7, 1, my watch fell in the water, 38.0497969168, 0.0, No
+xwj, normal, 7, 2, watch out for low flying objects, 30.7876507312, 0.0, Yes
+xwj, normal, 7, 3, my favorite subject is psychology, 29.8694499043, 0.0, Yes
+xwj, normal, 7, 4, physics and chemistry see hard, 35.4710717493, 0.0666666666667, No
+xwj, normal, 7, 5, prevailing wind from the east, 32.0502547995, 0.0, No
+xwj, normal, 7, 6, elephants are afraid of mice, 31.4933076721, 0.0, No
+xwj, normal, 7, 7, electrons bring out three best, 41.1392405063, 0.1, No
+xwj, normal, 7, 8, my favorite place to visit, 35.9878949808, 0.0, No
+xwj, normal, 7, 9, breathing is difficult, 46.2036038811, 0.0, No
+xwj, normal, 7, 10, time to go shopping, 36.9657296881, 0.0, No
+xwj, normal, 8, 1, elections bring out the best, 33.8353814704, 0.0, No
+xwj, normal, 8, 2, physics and chemistry are hard, 37.9848547566, 0.0, Yes
+xwj, normal, 8, 3, my watch fell in the water, 33.2326682404, 0.0, No
+xwj, normal, 8, 4, breathing id difficult, 44.0965714916, 0.0454545454545, No
+xwj, normal, 8, 5, time to go shopping, 33.4471465403, 0.0, Yes
+xwj, normal, 8, 6, my favorite subject is psychology, 28.4232449871, 0.0, Yes
+xwj, normal, 8, 7, elephants are afraid of mice, 33.516822419, 0.0, Yes
+xwj, normal, 8, 8, watch out for low flying objects, 33.9679610836, 0.0, Yes
+xwj, normal, 8, 9, my favorite place to visit, 34.8312531335, 0.0, No
+xwj, normal, 8, 10, prevailing wind from the east, 32.3631577812, 0.0, Yes
 xy, normal, 1, 1, elections bring out the best, 5.14696920361, 0.0, No
 xy, normal, 1, 2, prevailing wind from the east, 10.8955012475, 0.0, No
 xy, normal, 1, 3, my watch fell in the water, 12.7302302555, 0.0, No
