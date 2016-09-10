@@ -1,5 +1,6 @@
 METRIC_SAMPLE = 50
 import math
+import sys
 
 def get_pos(letter):
 	if letter == 'q': return (0.05, 0.6)
@@ -35,7 +36,12 @@ def ana_pos(str):
 	return ((float)(tags[0]), (float)(tags[1]))
 
 def caln_dist(A, B):
-	return math.sqrt((A[0] - B[0]) * (A[0] - B[0]) + (A[1] - B[1]) * (A[1] - B[1])) * 10
+	return math.sqrt((A[0] - B[0]) ** 2 + (A[1] - B[1]) ** 2) * 10
+
+def caln_oval_dist(A, B, sd_x, sd_y):
+	a = (sd_x / sd_y) ** 0.5
+	b = (sd_y / sd_x) ** 0.5
+	return math.sqrt(((A[0] - B[0]) / a) ** 2 + ((A[1] - B[1]) / b) ** 2) * 10
 
 def caln_length(pos_list):
 	length = 0
@@ -43,19 +49,51 @@ def caln_length(pos_list):
 		length = length + caln_dist(pos_list[i], pos_list[i + 1])
 	return length
 
-def caln_sample_dist(pos_list, str):
+def caln_middle_dist(pos_list, word):
 	word_pos_list = []
-	for i in range(0, len(str)):
-		word_pos_list.append(get_pos(str[i]))
+	for i in range(0, len(word)):
+		word_pos_list.append(get_pos(word[i]))
 
 	pos_list = sample_pos(pos_list)
 	word_pos_list = sample_pos(word_pos_list)
 
 	length = 0
-	for i in range(0, len(pos_list)):
+	for i in range(1, len(pos_list) - 1):
 		length = length + caln_dist(pos_list[i], word_pos_list[i])
-	length = length / len(pos_list)
+	length = length / (len(pos_list) - 2)
 
+	return length
+
+def caln_sample_dist(pos_list, word):
+	st_dist = caln_oval_dist(pos_list[0], get_pos(word[0]), 0.2723, 0.1714)
+	en_dist = caln_oval_dist(pos_list[len(pos_list) - 1], get_pos(word[len(word) - 1]), 0.3058, 0.2052)
+	#st_dist = caln_dist(pos_list[0], get_pos(word[0]))
+	#en_dist = caln_dist(pos_list[len(pos_list) - 1], get_pos(word[len(word) - 1]))
+
+	#if st_dist > 1:
+	#	return -1
+	#if en_dist > 1:
+	#	return -1
+
+	word_pos_list = []
+	for i in range(0, len(word)):
+		word_pos_list.append(get_pos(word[i]))
+
+	pos_list = sample_pos(pos_list)
+	word_pos_list = sample_pos(word_pos_list)
+
+	length = 0
+	for i in range(1, len(pos_list) - 1):
+		length = length + caln_oval_dist(pos_list[i], word_pos_list[i], 0.4027, 0.2366)
+	length = length / (len(pos_list) - 2)
+	st_value = 0.25
+	en_value = 0.25
+	length = length * (1 - st_value - en_value) + st_dist * st_value + en_dist * en_value
+
+	#length = 0
+	#for i in range(0, len(pos_list)):
+	#	length = length + caln_dist(pos_list[i], word_pos_list[i])
+	#length = length / len(pos_list)
 	return length
 
 def sample_pos(pos_list):

@@ -55,24 +55,31 @@ def word_output(i, std_word, word, is_undo):
 			selection_durations = 0
 		if is_undo == 1:
 			word_class = 'Undo'
+
 		sample_distance = my_pos.caln_sample_dist(gesture_pos[i], std_word)
 		start_distance = my_pos.caln_dist(gesture_pos[i][0], my_pos.get_pos(std_word[0]))
 		end_distance = my_pos.caln_dist(gesture_pos[i][len(gesture_pos[i]) - 1], my_pos.get_pos(std_word[len(std_word) - 1]))
+		middle_distance = my_pos.caln_middle_dist(gesture_pos[i], std_word)
+
 		gesture_length = my_pos.caln_length(gesture_pos[i])
 		gesture_speed = gesture_length / gesture_durations
+		confused_distance = MAXN
 		if sample_distance != -1:
 			rank = 1
 			for k in range(0, LEXICON_SIZE):
 				if lexicon[k] != std_word:
 					this_sample_distance = my_pos.caln_sample_dist(gesture_pos[i], lexicon[k])
-					if this_sample_distance != -1 and this_sample_distance < sample_distance:
-						rank = rank + 1
+					if this_sample_distance != -1:
+						if this_sample_distance < sample_distance:
+							rank = rank + 1
+						if this_sample_distance < confused_distance:
+							confused_distance = this_sample_distance
 			if rank == 1:
 				global top_cnt
 				top_cnt = top_cnt + 1
 		else:
 			rank = -1
-		return user_name + ', ' + technique + ', ' + str(session_index) + ', ' + std_word + ', ' + str(rank) + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(gesture_durations) + ', ' + str(selection_durations) + ', ' + str(sample_distance) + ', ' + str(start_distance) + ', ' + str(end_distance) + ', ' + str(gesture_length) + ', ' + str(gesture_speed) + '\n'
+		return user_name + ', ' + technique + ', ' + str(session_index) + ', ' + std_word + ', ' + str(rank) + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(gesture_durations) + ', ' + str(selection_durations) + ', ' + str(sample_distance) + ', ' + str(start_distance) + ', ' + str(end_distance) + ', ' + str(middle_distance) + ', ' + str(confused_distance) + ', ' + str(gesture_length) + ', ' + str(gesture_speed) + '\n'
 
 inp = file(file_name + '.txt', 'r')
 lines = inp.readlines()
@@ -80,7 +87,7 @@ inp.close()
 
 if technique == 'normal':
 	woup = file('simulate_' + file_name + '.txt', 'w')
-	woup.write('user, technique, session, word, rank, len, class, correct, gesture_durations, selection_durations, sample_distance, start_distance, end_distance, gesture_length, gesture_speed\n')
+	woup.write('user, technique, session, word, rank, len, class, correct, gesture_durations, selection_durations, sample_distance, start_distance, end_distance, middle_distance, confused_distance, gesture_length, gesture_speed\n')
 
 word_cnt = 0
 undo_cnt = 0
