@@ -46,7 +46,10 @@ def word_output(i, std_word, word, is_undo):
 		if phrase_start[i] == 1:
 			dwell_duration = 0
 		else:
-			dwell_duration = gesture_start_time[i] - end_time[i - 1]
+			end_timestamp = end_time[i - 1]
+			if delete_time[i] != -1 and delete_time[i] > end_timestamp:
+				end_timestamp = delete_time[i]
+			dwell_duration = gesture_start_time[i] - end_timestamp
 		if is_undo == 1:
 			word_class = 'Undo'
 		sample_distance = my_pos.caln_sample_dist(gesture_pos[i], std_word)
@@ -77,6 +80,7 @@ select_word = [0 for i in range(0, MAXN)]
 start_time = [-1 for i in range(0, MAXN)]
 gesture_start_time = [-1 for i in range(0, MAXN)]
 gesture_end_time = [-1 for i in range(0, MAXN)]
+delete_time = [-1 for i in range(0, MAXN)]
 gesture_pos = [[] for i in range(0, MAXN)]
 end_time = [-1 for i in range(0, MAXN)]
 words = ['' for i in range(0, MAXN)]
@@ -131,6 +135,7 @@ if technique == 'normal':
 						undo_cnt = undo_cnt + 1
 				select_word[word_cnt] = 0
 				start_time[word_cnt] = -1
+				delete_time[word_cnt] = get_time(i)
 	write_undo()
 
 if technique == 'baseline' or technique == 'dwell':
