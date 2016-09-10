@@ -1,0 +1,21 @@
+Click vs Dwell:
+	Speed		F(1,10) = 12.3077, p = 0.0056
+	Accuracy	0.8163	0.3875
+	Distance	0.1724	0.6867
+	Fatigue		0.0000	1.0000
+	Learn		0.7143	0.4178
+	Overall		0.5882	0.4608
+Click vs Gesture:
+	Speed		1.2162	0.2959
+	Accuracy	0.5882	0.4608
+	Distance	0.0649	0.8040
+	Fatigue		0.0943	0.7650
+	Learn		0.1351	0.7208
+	Overall		0.0000	1.0000
+Gesture vs Dwell:
+	Speed		20.8621	0.0010
+	Accuracy	0.2041	0.6611
+	Distance	0.0000	1.0000
+	Fatigue		0.0562	0.8174
+	Learn		1.8000	0.2094
+	Overall		0.4348	0.5245
