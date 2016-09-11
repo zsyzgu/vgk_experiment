@@ -3,6 +3,8 @@ import math
 import sys
 oup = file('result.txt', 'w')
 oup.write('index, x, y, x0, y0\n')
+soup = file('speed.txt', 'w')
+soup.write('x, y\n')
 
 def get_pos(letter):
 	if letter == 'q': return (0.05, 0.6)
@@ -51,7 +53,7 @@ def caln_length(pos_list):
 		length = length + caln_dist(pos_list[i], pos_list[i + 1])
 	return length
 
-def caln_sample_dist(pos_list, word):
+def caln_sample_dist(pos_list, word, gesture_duration):
 	st_dist = caln_oval_dist(pos_list[0], get_pos(word[0]), 0.2723, 0.1714)
 	en_dist = caln_oval_dist(pos_list[len(pos_list) - 1], get_pos(word[len(word) - 1]), 0.3058, 0.2052)
 	#st_dist = caln_dist(pos_list[0], get_pos(word[0]))
@@ -65,6 +67,13 @@ def caln_sample_dist(pos_list, word):
 	for i in range(0, len(word)):
 		word_pos_list.append(get_pos(word[i]))
 
+	dist_x = 0
+	dist_y = 0
+	for i in range(1, len(pos_list)):
+		dist_x = dist_x + abs(pos_list[i][0] - pos_list[i - 1][0]) * 10
+		dist_y = dist_y + abs(pos_list[i][1] - pos_list[i - 1][1]) * 10
+	soup.write(str(dist_x / gesture_duration) + ', ' + str(dist_y / gesture_duration) + '\n')
+
 	pos_list = sample_pos(pos_list)
 	word_pos_list = sample_pos(word_pos_list)
 
@@ -77,8 +86,8 @@ def caln_sample_dist(pos_list, word):
 	for i in range(1, len(pos_list) - 1):
 		length = length + caln_oval_dist(pos_list[i], word_pos_list[i], 0.4027, 0.2366)
 	length = length / (len(pos_list) - 2)
-	st_value = 0.2
-	en_value = 0.2
+	st_value = 0.25
+	en_value = 0.25
 	length = length * (1 - st_value - en_value) + st_dist * st_value + en_dist * en_value
 
 	for i in range(0, len(pos_list)):

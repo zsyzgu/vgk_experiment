@@ -58,7 +58,7 @@ def word_output(i, std_word, word, is_undo):
 			selection_durations = 0
 		if is_undo == 1:
 			word_class = 'Undo'
-		sample_distance = my_pos.caln_sample_dist(gesture_pos[i], std_word)
+		sample_distance = my_pos.caln_sample_dist(gesture_pos[i], std_word, gesture_durations)
 		start_distance = my_pos.caln_dist(gesture_pos[i][0], my_pos.get_pos(std_word[0]))
 		end_distance = my_pos.caln_dist(gesture_pos[i][len(gesture_pos[i]) - 1], my_pos.get_pos(std_word[len(std_word) - 1]))
 		gesture_length = my_pos.caln_length(gesture_pos[i])

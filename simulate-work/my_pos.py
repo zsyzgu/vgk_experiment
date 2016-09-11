@@ -65,8 +65,8 @@ def caln_middle_dist(pos_list, word):
 	return length
 
 def caln_sample_dist(pos_list, word):
-	st_dist = caln_oval_dist(pos_list[0], get_pos(word[0]), 0.2723, 0.1714)
-	en_dist = caln_oval_dist(pos_list[len(pos_list) - 1], get_pos(word[len(word) - 1]), 0.3058, 0.2052)
+	st_dist = caln_oval_dist(pos_list[0], get_pos(word[0]), 0.2455, 0.1513)
+	en_dist = caln_oval_dist(pos_list[len(pos_list) - 1], get_pos(word[len(word) - 1]), 0.2694, 0.1859)
 	#st_dist = caln_dist(pos_list[0], get_pos(word[0]))
 	#en_dist = caln_dist(pos_list[len(pos_list) - 1], get_pos(word[len(word) - 1]))
 
@@ -84,7 +84,7 @@ def caln_sample_dist(pos_list, word):
 
 	length = 0
 	for i in range(1, len(pos_list) - 1):
-		length = length + caln_oval_dist(pos_list[i], word_pos_list[i], 0.4027, 0.2366)
+		length = length + caln_oval_dist(pos_list[i], word_pos_list[i], 0.3856, 0.2213)
 	length = length / (len(pos_list) - 2)
 	st_value = 0.25
 	en_value = 0.25

@@ -25,7 +25,7 @@ files = os.listdir('.')
 
 for file_name in files:
 	tags = file_name.split('.')
-	if len(tags) > 0 and tags[len(tags) - 1] == 'txt' and file_name[0 : 7] != 'lexicon' and file_name[0 : 6] != 'result':
+	if len(tags) > 0 and tags[len(tags) - 1] == 'txt' and file_name[0 : 7] != 'lexicon' and file_name[0 : 6] != 'result' and file_name[0 : 5] != 'speed':
 		print file_name
 		os.system('python parser.py ' + '.'.join(tags[0 : len(tags) - 1]))
 
