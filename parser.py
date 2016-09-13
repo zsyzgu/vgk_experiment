@@ -60,7 +60,11 @@ def word_output(i, std_word, word, is_undo):
 
 		gesture_length = my_pos.caln_length(gesture_pos[i])
 		gesture_speed = gesture_length / gesture_durations
-		return user_name + ', ' + technique + ', ' + str(session_index) + ', ' + std_word + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(dwell_duration) + ', ' + str(gesture_durations) + ', ' + str(selection_durations) + ', ' + str(sample_distance) + ', ' + str(start_distance) + ', ' + str(end_distance) + ', ' + str(middle_distance) + ', ' + str(gesture_length) + ', ' + str(gesture_speed) + '\n'
+		word_pos = []
+		for j in range(0, len(std_word)):
+			word_pos.append(my_pos.get_pos(std_word[j]))
+		word_length = my_pos.caln_length(word_pos)
+		return user_name + ', ' + technique + ', ' + str(session_index) + ', ' + std_word + ', ' + str(len(std_word)) + ', ' + word_class + ', ' + correct + ', ' + str(dwell_duration) + ', ' + str(gesture_durations) + ', ' + str(selection_durations) + ', ' + str(sample_distance) + ', ' + str(start_distance) + ', ' + str(end_distance) + ', ' + str(middle_distance) + ', ' + str(gesture_length) + ', ' + str(word_length) + ', ' + str(gesture_speed) + '\n'
 
 inp = file(file_name + '.txt', 'r')
 lines = inp.readlines()
@@ -71,7 +75,7 @@ oup.write('user, technique, session, index, phrase, rate, error, undo\n')
 
 if technique == 'normal':
 	woup = file('gesture_' + file_name + '.txt', 'w')
-	woup.write('user, technique, session, word, len, class, correct, dwell_duration, gesture_durations, selection_durations, sample_distance, start_distance, end_distance, middle_distance, gesture_length, gesture_speed\n')
+	woup.write('user, technique, session, word, len, class, correct, dwell_duration, gesture_durations, selection_durations, sample_distance, start_distance, end_distance, middle_distance, gesture_length, word_length, gesture_speed\n')
 
 word_cnt = 0
 undo_cnt = 0
